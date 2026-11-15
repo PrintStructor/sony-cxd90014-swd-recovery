@@ -47,6 +47,28 @@ The α7R II exposes SWD of the CXD90014 on test points on the main board **SY-10
 
 > Pitfall in OpenOCD 0.12: `catch {mdw …}` / `catch {dap info …}` **swallows the command output**. Use `catch {cmd} r; echo $r`.
 
+### Photos
+
+| | |
+|---|---|
+| ![Board overview with SWD area](images/a7rii_board_overview_swd.jpg) | ![Needle tips on CL1100/CL1101](images/a7rii_needles_on_testpoints.jpg) |
+| Main board SY-1058, side A, with the rear section removed. The SWD test points sit at the upper-left corner of IC6000. | Close-up: the two sewing-needle tips on CL1100 / CL1101 |
+| ![Probing setup](images/a7rii_probing_setup.jpg) | ![Teardown](images/a7rii_teardown.jpg) |
+| Probing in practice: needles held by hand or in a helping hand, GND clip (yellow) on the chassis | Teardown on the bench |
+
+**Low-budget DIY tools**
+
+| | |
+|---|---|
+| ![RP2040-Zero SWD probe](images/diy_rp2040_zero_swd_probe.jpg) | ![Needle leads with series resistors](images/diy_needle_leads_with_series_resistors.jpg) |
+| SWD probe: Waveshare RP2040-Zero with debugprobe firmware. The SWCLK/SWDIO leads are twisted with GND, and the needles are taped together. | Needle leads, each with a series resistor |
+| ![Sewing-needle probes](images/diy_sewing_needle_probes_closeup.jpg) | ![56k factory-mode adapter](images/diy_56k_factory_mode_adapter.jpg) |
+| Sewing needles soldered to thin stranded wire. Nothing is soldered on the camera. | Multi-terminal adapter: 56 kΩ between `AD_JACK_IN` and `AV_GND` for the factory/adjust boot |
+
+![Fixed: MTP mode](images/a7rii_fixed_mtp_mode_evf.jpg)
+
+*After the fix: the camera boots normally and shows "USB mode: MTP" (camera language set to Italian).*
+
 ## 3. Stage 1, identification (read-only)
 
 ```

@@ -7,6 +7,8 @@ Non-destructive debugging and recovery of boot-looping Sony cameras over **SWD**
 | **ILCE-7RM2 (α7R II)**, FW 4.01: boot loop after installing a PMCA app with an XML launcher icon | ✅ **fixed** | [docs/a7rii-bootloop.md](docs/a7rii-bootloop.md) |
 | **ILCE-5000 (a5000)**: boot loop after a bad firmware flash | 🔧 next on the operating table | (coming) |
 
+![α7R II main board with the SWD test points marked](docs/images/a7rii_board_overview_swd.jpg)
+
 ## What's in here
 - `tools/`: OpenOCD configs (read-only stages 1–2f, stage 3 = force the Sony updater by setting `r0` only), wrappers, log decoders (kernel `__log_buf`, persistent `klog`, Android logger), kallsyms parser, a FIFO-controlled PMCA updatershell session (macOS), an IOKit USB logger, and `check_apk.sh` (pre-install check for PMCA apps).
 - `logs/a7rii/`: kernel log, klog, logcat and SWD/PMCA session logs (serials removed).
