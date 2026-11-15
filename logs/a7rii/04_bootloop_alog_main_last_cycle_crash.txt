@@ -1,0 +1,163 @@
+    2.645471  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    2.650962  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=7
+    2.666102  586/618  W/WindowManager: ***** BOOT TIMEOUT: forcing display enabled
+    2.670278  586/611  V/BATT: update()
+    2.670328  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.670439  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.674370  196/656  I/SurfaceFlinger: Boot is finished (63363 ms)
+    2.694804  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    2.695214  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    2.695605  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    2.695974  586/613  V/BatteryService: BS_notify_cb: from 9241c2
+    2.696424  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    2.738569  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=8
+    2.739779  586/611  V/BATT: update()
+    2.739906  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.741943  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.743021  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=9
+    2.743311  586/611  V/BATT: update()
+    2.744687  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.745831  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.745929  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=10
+    2.746025  586/611  V/BATT: update()
+    2.746056  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.746210  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.746306  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=11
+    2.746373  586/611  V/BATT: update()
+    2.746403  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.746482  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.746541  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=12
+    2.746592  586/611  V/BATT: update()
+    2.746613  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.746715  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.749434  586/618  I/WindowManager: Aspect: 43
+    2.749522  586/618  I/WindowManager: Aspect: 43
+    2.749687  586/618  I/WindowManager: Aspect: 43
+    2.749758  586/618  I/WindowManager: Aspect: 43
+    3.055806  586/598  V/NativeSyncAndroid: SyncAndroid_notify_cb: Res(8)
+    3.055970  586/598  V/SyncAndroidService: :Resume: im_type=8
+    3.069184  586/619  I/WindowManager: Aspect: 43
+    3.069270  586/619  I/WindowManager: Aspect: 43
+    3.071684  586/619  I/WindowManager: Aspect: 43
+    3.071754  586/619  I/WindowManager: Aspect: 43
+    3.072566  586/619  I/ActivityManager: Config changed: {1.0 0mcc0mnc en_US sw288dp w384dp h263dp smll long land -touch -keyb/v/h dpad/v s.6}
+    3.077945  586/598  D/PackageManager: The following path will be sync !!: /data/app /data/app-private
+    3.091084  688/688  D/ScalarALauncher: onConfigurationChanged S:newConfig={1.0 0mcc0mnc en_US sw288dp w384dp h263dp smll long land -touch -keyb/v/h dpad/v s.6}
+    3.091264  688/688  D/ScalarALauncher: onConfigurationChanged oldLocale=en_US, newLocale=en_US
+    3.091512  688/688  D/ScalarALauncher: onConfigurationChanged E
+    3.275022  586/613  V/BatteryService: BS_notify_cb: from 9241c2
+    3.275164  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=13
+    3.275328  586/611  V/BATT: update()
+    3.275394  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    3.275503  586/611  V/BatteryService: android_server_BatteryService_update: End (0, 0, 3, 1, 100)
+    3.301669  586/613  V/BatteryService: BS_notify_cb: from 924126
+    3.304736  586/599  V/BatteryService: BS_notify_cb: from 924126
+    3.375176  586/611  W/BatteryStatsImpl: Couldn't get kernel wake lock stats
+    3.410066  586/601  D/InputMethodManagerService: don't storeSettings because android don't display yet
+    3.410514  586/601  D/InputMethodManagerService: don't storeSettings because android don't display yet
+    3.453735  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=14
+    3.454001  586/611  V/BATT: update()
+    3.454052  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    3.454198  586/611  V/BatteryService: android_server_BatteryService_update: End (0, 0, 3, 1, 100)
+    3.454290  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=15
+    3.454355  586/611  V/BATT: update()
+    3.454854  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    3.454953  586/611  V/BatteryService: android_server_BatteryService_update: End (0, 0, 3, 1, 100)
+    3.640025  586/598  D/PackageManager: New apk found! name:com.github.ma1co.openmemories.tweak
+    3.644539  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    3.645443  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    3.645649  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=16
+    3.645848  586/611  V/BATT: update()
+    3.645878  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    3.645984  586/611  V/BatteryService: android_server_BatteryService_update: End (0, 0, 3, 1, 90)
+    3.648331  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=17
+    3.652909  586/611  V/BATT: update()
+    3.656592  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    3.656731  586/611  V/BatteryService: android_server_BatteryService_update: End (0, 0, 3, 1, 90)
+    3.657321  586/598  I/PackageManager: /data/app/com.a7rii.focus-1.apk changed; collecting certs
+    4.314011  199/199  I/installd: scalara_pkgdir(/data/lib/com.a7rii.focus) is different from pkgdir(/data/data/com.a7rii.focus)
+    4.315848  199/199  I/installd: scalara_libdir(/data/lib/com.a7rii.focus/lib) is different from libdir(/data/data/com.a7rii.focus/lib)
+    4.323422  586/598  D/PackageManager: New apk found! name:com.a7rii.focus
+    4.325340  586/598  I/PackageManager: No files under this dir: /data/app-private
+    4.357049  586/598  D/PackageManager: End in syncAppsFromFilesystemToRam!
+    4.357130  586/598  V/SyncAndroidService: syncAppsFromFilesystemToRam OK
+    4.357177  586/598  V/NativeSyncAndroid: SyncAndroid_notify_cb: Res(8) done.
+    4.368033  586/992  D/PackageManager: broadcasting ACTION_PACKAGE_ADDED continueously for: com.github.ma1co.openmemories.tweak
+    4.371065  586/992  D/PackageManager: broadcasting ACTION_PACKAGE_ADDED continueously for: com.a7rii.focus
+    4.450872  688/688  D/ScalarALauncher.Model: onReceive intent=Intent { act=PackageManagerService.intent.action.ACTION_PACKAGE_LIST_ADDED flg=0x8000010 (has extras) }
+    4.455626  688/688  D/ScalarALauncher.Model: startLoader isLaunching=true
+    4.455926  688/688  D/ScalarALauncher.Model: Posting rendering request for adding now size: 2
+    4.456026  688/720  D/ScalarALauncher.Model: LoaderTask#run start:70601
+    4.456097  688/720  D/ScalarALauncher.Model: loadAndBindAllApps mAllAppsLoaded=false
+    4.484824  688/720  D/ScalarALauncher.Model: call queryIntentActivities 70629
+    4.501952  586/601  D/PackageManager: generateServicesMap(android.accounts.AccountAuthenticator): 0 services unchanged
+    4.572305  586/601  D/PackageManager: generateServicesMap(android.content.SyncAdapter): 0 services unchanged
+    4.585813  688/688  D/ScalarALauncher.Model: onReceive intent=Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.github.ma1co.openmemories.tweak flg=0x8000010 (has extras) }
+    4.586122  586/601  D/BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.github.ma1co.openmemories.tweak flg=0x8000010 (has extras) }
+    4.586346  688/688  D/ScalarALauncher.Model: Skipping the installed icon for apk: com.github.ma1co.openmemories.tweaknum: 2
+    4.593153  688/720  D/ScalarALauncher.Model: called queryIntentActivities 70738
+    4.593248  688/720  D/ScalarALauncher.Model: queryIntentActivities got 5 apps
+    4.593350  688/720  D/ScalarALauncher.Model: start loading icon:70738
+    4.632082  688/688  D/ScalarALauncher.Model: onReceive intent=Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.a7rii.focus flg=0x8000010 (has extras) }
+    4.632387  688/688  D/ScalarALauncher.Model: Skipping the installed icon for apk: com.a7rii.focusnum: 1
+    4.632464  688/688  D/ScalarALauncher.Model: notifySSBComplete
+    4.632515  688/688  D/ScalarALauncher: onSSBCompleted
+    4.644272  688/720  W/ResourceType: No package identifier when getting value for resource number 0x00000000
+    4.651013  586/601  V/BackupManagerService: addPackageParticipantsLocked: #1
+    4.680880  688/720  W/System.err: android.content.res.Resources$NotFoundException: String resource ID #0x0
+    4.685015  586/601  D/PackageManager: generateServicesMap(android.accounts.AccountAuthenticator): 0 services unchanged
+    4.685334  586/601  D/PackageManager: generateServicesMap(android.content.SyncAdapter): 0 services unchanged
+    4.685756  586/601  D/BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.a7rii.focus flg=0x8000010 (has extras) }
+    4.703330  586/601  V/BackupManagerService: addPackageParticipantsLocked: #1
+    4.751568  688/720  W/System.err: 	at android.content.res.Resources.getText(Resources.java:229)
+    4.751931  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.IconCache.cacheLocked(IconCache.java:149)
+    4.752279  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.IconCache.getTitleAndIcon(IconCache.java:92)
+    4.752509  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ApplicationInfo.<init>(ApplicationInfo.java:62)
+    4.752739  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadApplicationInfo(ScalarALauncherModel.java:544)
+    4.753114  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAllAppsByBatch(ScalarALauncherModel.java:509)
+    4.753351  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAndBindAllApps(ScalarALauncherModel.java:431)
+    4.753571  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.run(ScalarALauncherModel.java:346)
+    4.753765  688/720  W/System.err: 	at android.os.Handler.handleCallback(Handler.java:672)
+    4.754056  688/720  W/System.err: 	at android.os.Handler.dispatchMessage(Handler.java:93)
+    4.754751  688/720  W/System.err: 	at android.os.Looper.loop(Looper.java:137)
+    4.754932  688/720  W/System.err: 	at android.os.HandlerThread.run(HandlerThread.java:60)
+    4.755912  688/720  D/IconCahce: applicationLabel = OpenMemories: Tweak
+    4.755960  688/720  D/IconCahce: ApplicationLabel is used
+    4.756015  688/720  D/IconCahce: entry.title = OpenMemories: Tweak
+    4.846031  586/624  I/InputReader: Reconfiguring input devices.  changes=0x00000010
+    4.924568  586/609  W/RecognitionManagerService: no available voice recognition services found
+    4.925311  586/609  W/Searchables: No global search activity found
+    4.928468  586/624  I/InputReader: Reconfiguring input devices.  changes=0x00000010
+    4.932162  586/609  W/RecognitionManagerService: no available voice recognition services found
+    4.933718  586/609  W/Searchables: No global search activity found
+    5.128210  688/720  W/ResourceType: No package identifier when getting value for resource number 0x00000000
+    5.128582  688/720  W/System.err: android.content.res.Resources$NotFoundException: String resource ID #0x0
+    5.129349  688/720  W/System.err: 	at android.content.res.Resources.getText(Resources.java:229)
+    5.129508  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.IconCache.cacheLocked(IconCache.java:149)
+    5.130310  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.IconCache.getTitleAndIcon(IconCache.java:92)
+    5.132084  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ApplicationInfo.<init>(ApplicationInfo.java:62)
+    5.132416  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadApplicationInfo(ScalarALauncherModel.java:544)
+    5.134290  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAllAppsByBatch(ScalarALauncherModel.java:509)
+    5.135530  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAndBindAllApps(ScalarALauncherModel.java:431)
+    5.136526  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.run(ScalarALauncherModel.java:346)
+    5.137768  688/720  W/System.err: 	at android.os.Handler.handleCallback(Handler.java:672)
+    5.138542  688/720  W/System.err: 	at android.os.Handler.dispatchMessage(Handler.java:93)
+    5.138877  688/720  W/System.err: 	at android.os.Looper.loop(Looper.java:137)
+    5.141390  688/720  W/System.err: 	at android.os.HandlerThread.run(HandlerThread.java:60)
+    5.141803  688/720  D/IconCahce: applicationLabel = A7RII Focus
+    5.141836  688/720  D/IconCahce: ApplicationLabel is used
+    5.141885  688/720  D/IconCahce: entry.title = A7RII Focus
+    5.181431  688/720  W/dalvikvm: threadid=10: thread exiting with uncaught exception (group=0x54c7330)
+    5.218408  688/720  E/AndroidRuntime: FATAL EXCEPTION: ScalarALauncher-loader
+java.lang.ClassCastException: android.graphics.drawable.GradientDrawable cannot be cast to android.graphics.drawable.BitmapDrawable
+	at com.sony.scalar.dlsys.scalaralauncher.IconCache.cacheLocked(IconCache.java:194)
+	at com.sony.scalar.dlsys.scalaralauncher.IconCache.getTitleAndIcon(IconCache.java:92)
+	at com.sony.scalar.dlsys.scalaralauncher.ApplicationInfo.<init>(ApplicationInfo.java:62)
+	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadApplicationInfo(ScalarALauncherModel.java:544)
+	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAllAppsByBatch(ScalarALauncherModel.java:509)
+	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAndBindAllApps(ScalarALauncherModel.java:431)
+	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.run(ScalarALauncherModel.java:346)
+	at android.os.Handler.handleCallback(Handler.java:672)
+	at android.os.Handler.dispatchMessage(Handler.java:93)
+	at android.os.Looper.loop(Looper.java:137)
+	at android.os.HandlerThread.run(HandlerThread.java:60)

@@ -1,0 +1,899 @@
+    4.866144  195/195  I/DEBUG: debuggerd: Feb 18 2019 14:43:46
+    5.241658  193/193  I/Vold: Vold 2.1 (the revenge) firing up
+    5.242068  193/193  E/Vold: Error reading configuration (No such file or directory)... continuing anyways
+    5.305794  194/194  I/Netd: Netd 1.0 starting
+    6.560294  194/194  E/BandwidthController: runIptablesCmd(): failed /system/bin/ip6tables -N bw_INPUT res=768
+    6.640075  196/196  I/SurfaceFlinger: SurfaceFlinger is starting
+    6.640958  196/495  I/SurfaceFlinger: SurfaceFlinger's main thread ready to run. Initializing graphics H/W...
+    6.731317  196/495  I/WsClientWrap: [Connect][138]server connection established
+    6.731373  196/495  I/WsClientWrap: [Connect][143]reg_sync_msg_queue_cb(OSAL_MSGQ_GID_HAL=1610456)
+    6.733845  196/495  I/GraphicsHAL:     flag   = 0
+    width  = 640
+    height = 480
+    stride = 2560
+    format = 1
+    xdpi   = 159.216461
+    ydpi   = 158.956985
+    fps    = 30.000000
+    minSwapInterval=1
+    maxSwapInterval=33
+    6.733913  196/495  I/GraphicsHAL: [scalara_gralloc_device_open][74]opened framebuffer device.(err=0)
+    6.733954  196/495  I/WsClientWrap: [Connect][114]already connection established
+    6.734001  196/495  I/GraphicsHAL: [scalara_gralloc_device_open][80]opened alloc device.(err=0)
+    6.743052  196/495  I/WsClientWrap: [Register][57]rglRegistserBuffer succeeded
+    7.022611  194/194  E/BandwidthController: runIptablesCmd(): failed /system/bin/ip6tables -A bw_INPUT -i lo --jump RETURN res=768
+    7.190162  196/495  I/SurfaceFlinger: EGL informations:
+    7.190205  196/495  I/SurfaceFlinger: # of configs : 24
+    7.190221  196/495  I/SurfaceFlinger: vendor    : Android
+    7.190235  196/495  I/SurfaceFlinger: version   : 1.4 Android META-EGL
+    7.190249  196/495  I/SurfaceFlinger: extensions: EGL_KHR_image_base EGL_KHR_fence_sync EGL_ANDROID_image_native_buffer
+    7.190274  196/495  I/SurfaceFlinger: Client API: OpenGL_ES
+    7.190301  196/495  I/SurfaceFlinger: EGLSurface: 8-8-8-8, config=0x4aff1c0
+    7.190321  196/495  I/SurfaceFlinger: OpenGL informations:
+    7.190335  196/495  I/SurfaceFlinger: vendor    : Digital Media Professionals Inc.
+    7.190347  196/495  I/SurfaceFlinger: renderer  : SMAPH-S30
+    7.190360  196/495  I/SurfaceFlinger: version   : OpenGL ES-CM 1.1
+    7.190377  196/495  I/SurfaceFlinger: extensions: GL_EXT_debug_marker GL_OES_read_format GL_OES_compressed_paletted_texture GL_OES_point_size_array GL_OES_point_sprite GL_OES_byte_coordinates GL_OES_blend_equation_separate GL_OES_blend_func_separate GL_OES_blend_subtract GL_OES_compressed_ETC1_RGB8_texture GL_OES_fixed_point GL_OES_framebuffer_object GL_OES_packed_depth_stencil GL_OES_stencil_wrap GL_OES_texture_mirrored_repeat GL_OES_query_matrix GL_OES_single_precision GL_OES_draw_texture GL_OES_matrix_palette GL_EXT_blend_minmax GL_ARM_rgba8 GL_OES_EGL_sync GL_OES_EGL_image
+    7.190398  196/495  I/SurfaceFlinger: GL_MAX_TEXTURE_SIZE = 4096
+    7.190420  196/495  I/SurfaceFlinger: GL_MAX_VIEWPORT_DIMS = 4096 x 4096
+    7.190438  196/495  I/SurfaceFlinger: flags = 00020000
+    7.199762  196/495  I/SurfaceFlinger: =========================================================== Did not create Fake VSync.
+    7.215541  196/495  W/SurfaceFlinger: /sys/power/wait_for_fb_{wake|sleep} don't exist
+    7.216091  196/565  I/SurfaceFlinger: EventThread ready to run.
+    7.662424  198/198  I/mediaserver: ServiceManager: 0x4e65f78
+    7.662909  198/198  I/AudioFlinger: Using default 3000 mSec as standby time.
+    7.664674  198/198  I/CameraService: CameraService started (pid=198)
+    7.812662  198/198  E/AudioPolicyManagerBase: could not load audio policy configuration file, setting defaults
+    7.836103  198/198  I/AudioFlinger: loadHwModule() Loaded primary audio interface from Default audio HW HAL (audio) handle 1
+    7.836443  198/198  I/AudioFlinger: HAL output buffer size 1024 frames, normal mix buffer size 1024 frames
+    7.983863  198/198  I/AudioMixer: found effect "Multichannel Downmix To Stereo" from The Android Open Source Project
+    7.989907  198/198  I/AudioFlinger: Using module 1 has the primary audio interface
+    7.989907  198/569  I/AudioFlinger: AudioFlinger's thread 0x4bec008 ready to run
+    7.990432  198/569  W/AudioFlinger: Thread AudioOut_2 cannot connect to the power manager service
+    7.990789  198/569  W/AudioFlinger: Thread AudioOut_2 cannot connect to the power manager service
+    7.994004  198/198  I/AudioPolicyService: Loaded audio policy from LEGACY Audio Policy HAL (audio_policy)
+    9.868239  197/197  I/SamplingProfilerIntegration: Profiling disabled.
+    9.900127  197/197  I/Zygote: Preloading classes...
+    9.981822  197/197  W/Zygote: Class not found for preloading: android.animation.ValueAnimator$2
+    9.982221  197/197  W/Zygote: Class not found for preloading: android.animation.ValueAnimator$3
+    9.984320  197/197  W/Zygote: Class not found for preloading: android.animation.ValueAnimator$4
+    9.984895  197/197  W/Zygote: Class not found for preloading: android.animation.ValueAnimator$5
+   10.103836  197/197  W/Zygote: Class not found for preloading: android.content.res.Resources$1
+   10.375721  197/197  W/Zygote: Class not found for preloading: android.database.sqlite.SQLiteCompiledSql
+   10.392669  197/197  W/Zygote: Class not found for preloading: android.database.sqlite.SQLiteDatabase$DatabaseReentrantLock
+   10.426845  197/197  D/skia: ---- system font and fallback font files specify a duplicate font Roboto-Bold.ttf, skipping the second occurrence
+   10.426882  197/197  D/skia: ---- system font and fallback font files specify a duplicate font Roboto-Bold.ttf, skipping the second occurrence
+   10.426904  197/197  D/skia: ---- system font and fallback font files specify a duplicate font Roboto-Bold.ttf, skipping the second occurrence
+   10.426925  197/197  D/skia: ---- system font and fallback font files specify a duplicate font Roboto-Bold.ttf, skipping the second occurrence
+   10.426945  197/197  D/skia: ---- system font and fallback font files specify a duplicate font UniversOTS-SJ.ttf, skipping the second occurrence
+   10.426961  197/197  D/skia: ---- system font and fallback font files specify a duplicate font HeiseiKakuGothW5-SJ.ttf, skipping the second occurrence
+   10.426980  197/197  D/skia: ---- system font and fallback font files specify a duplicate font MYingHeiC-KSX1001-SJ.ttf, skipping the second occurrence
+   10.426996  197/197  D/skia: ---- system font and fallback font files specify a duplicate font MYingHeiC-Big5HKSCS-SJ.ttf, skipping the second occurrence
+   10.701769  197/197  W/Zygote: Class not found for preloading: android.media.AudioManager$2
+   10.848551  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libmedia_jni.so)
+   10.850440  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libmedia_jni.so)
+   10.851437  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libmedia_jni.so)
+   10.852662  197/197  W/MediaProfiles: could not find media config xml file
+   10.869353  197/197  W/Zygote: Class not found for preloading: android.media.IRemoteControlClientDispatcher
+   10.869920  197/197  W/Zygote: Class not found for preloading: android.media.IRemoteControlClientDispatcher$Stub
+   11.371703  197/197  W/Zygote: Class not found for preloading: android.os.Power
+   11.991763  197/197  W/Zygote: Class not found for preloading: android.text.TextDirectionHeuristics$CharCount
+   12.004570  197/197  W/Zygote: Class not found for preloading: android.text.method.WordIterator$1
+   12.081770  197/197  W/Zygote: Class not found for preloading: android.view.InputHandler
+   12.082382  197/197  W/Zygote: Class not found for preloading: android.view.InputQueue$FinishedCallback
+   12.157814  197/197  W/Zygote: Class not found for preloading: android.view.ViewRootImpl$3
+   12.539845  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libwebcore.so)
+   12.688462  197/197  W/Zygote: Class not found for preloading: android.widget.EdgeGlow
+   12.861885  197/197  W/Zygote: Class not found for preloading: android.widget.TextView$Blink
+   12.863312  197/197  W/Zygote: Class not found for preloading: android.widget.TextView$EasyEditSpanController
+   12.863686  197/197  W/Zygote: Class not found for preloading: android.widget.TextView$InputContentType
+   12.864004  197/197  W/Zygote: Class not found for preloading: android.widget.TextView$InputMethodState
+   12.864890  197/197  W/Zygote: Class not found for preloading: android.widget.TextView$TextAlign
+   13.012349  197/197  E/PhonePolicy: Could not preload class for phone policy: com.android.internal.policy.impl.PhoneWindow$ContextMenuCallback
+   14.061953  197/197  I/System: Loaded time zone names for  in 451ms (440ms in ICU)
+   14.364856  197/197  I/System: Loaded time zone names for en_US in 303ms (291ms in ICU)
+   14.913532  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libcameraex_jni.so)
+   14.914869  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libcameraex_jni.so)
+   14.915547  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libcameraex_jni.so)
+   14.921193  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libcameraex_jni.so)
+   14.921793  197/197  E/SCR_META-JNI: Called void com_sony_scalar::PrepareScalarDataConverter(JNIEnv*)
+   14.924040  197/197  E/SCR_META-JNI:         Done void com_sony_scalar::PrepareScalarDataConverter(JNIEnv*)
+   14.928105  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libcameraex_jni.so)
+   14.929011  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libcameraex_jni.so)
+   14.929917  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libcameraex_jni.so)
+   14.931187  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libcameraex_jni.so)
+   14.932861  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libcameraex_jni.so)
+   14.933883  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libcameraex_jni.so)
+   14.934158  197/197  V/HighlightMovieMakerJNI: register_com_sony_scalar_media_HighlightMovieMaker
+   14.934972  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libcameraex_jni.so)
+   14.990041  197/197  W/Zygote: Class not found for preloading: com.sony.scalar.hardware.CameraEx$FlashInfo
+   14.990573  197/197  W/Zygote: Class not found for preloading: com.sony.scalar.hardware.CameraEx$FocusArea
+   15.050167  197/197  W/Zygote: Class not found for preloading: com.sony.scalar.hardware.CameraEx$SceneModeChangeListener
+   15.176113  197/197  I/_jniOsalUtil_: SendObjMsg OSAL send. srcId = 0x15e6117, osalErr = 0x0, msgId(android) = 0x11007, msgId(osal) = 0x11007
+   15.176150  197/197  I/_jniOsalUtil_: RecvObjMsg start OSAL Receive waiting...
+   15.179147  197/197  I/_jniOsalUtil_: RecvObjMsg messageId = 0x11008, srcId = 0x15e6117, osalErr = OK
+   15.282088  197/197  D/DisplayManager: call loadLibrary
+   15.294622  197/197  I/DisplayManagerJNI: JNI_OnLoad
+   15.295800  197/197  D/Light: call loadLibrary
+   15.306706  197/197  D/Indicator_JNI: JNI_OnLoad
+   15.306869  197/197  D/Indicator_JNI: RegisterNatives OK
+   15.307042  197/197  D/Indicator_JNI: RegisterNatives OK
+   15.319904  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libStillPlayJNI.so)
+   15.320266  197/197  I/MetaUtil: init() MetaFactory 0x3dd00031
+   15.443384  197/197  D/Caution: call loadLibrary
+   15.454157  197/197  D/Temperature: call loadLibrary
+   15.454640  197/197  I/dalvikvm: threadid=1: recursive native library load attempt (/system/lib/libscalar_caution_jni.so)
+   15.516675  197/197  D/ScalarSystemManager: call loadLibrary
+   15.528521  197/197  D/Settings: call loadLibrary
+   15.564384  197/197  D/TimeUtil: call loadLibrary
+   15.570960  197/197  I/Zygote: ...preloaded 2479 classes in 5671ms.
+   15.625917  197/197  I/Zygote: Preloading resources...
+   15.626576  197/197  I/Zygote: ...preloaded 0 resources in 0ms.
+   15.626822  197/197  I/Zygote: ...preloaded 0 resources in 0ms.
+   15.821856  197/197  I/dalvikvm: System server process 586 has been created
+   15.827480  197/197  I/Zygote: Accepting command socket connections
+   16.001281  586/586  V/DAConnectionManagerService-JNI: register_android_server_DAConnectionManagerService()
+   16.044688  586/586  V/NativeSyncAndroid: int android::register_android_server_SyncAndroid(JNIEnv*)
+   16.051169  586/586  I/sysproc: Entered system_init()
+   16.051648  586/586  I/sysproc: ServiceManager: 0xa1010e8
+   16.058377  586/586  I/SensorArbiterObserver: registerCallback
+   16.059549  586/586  I/Sensors: sensors : activate [handle = 0, enabled = 0]
+   16.059583  586/586  I/AccelerometerSensor: enable - to disable
+   16.059606  586/586  I/Sensors: sensors : activate [handle = 1, enabled = 0]
+   16.059705  586/586  I/SensorService: diadem 3-axis accelerometer
+   16.059754  586/586  I/SensorService: diadem dummy 3-axis Magnetic field sensor
+   16.060835  586/586  I/sysproc: System server: starting Android runtime.
+   16.060879  586/586  I/sysproc: System server: starting Android services.
+   16.061067  586/586  I/SystemServer: Entered the Android system server!
+   16.062572  586/586  I/sysproc: System server: entering thread pool.
+   16.064259  586/601  I/SystemServer: Entropy Mixer
+   16.079181  586/601  W/EntropyMixer: unable to load initial entropy (first boot?)
+java.io.FileNotFoundException: /data/system/entropy.dat: open failed: ENOENT (No such file or directory)
+	at libcore.io.IoBridge.open(IoBridge.java:416)
+	at java.io.FileInputStream.<init>(FileInputStream.java:78)
+	at java.io.FileInputStream.<init>(FileInputStream.java:105)
+	at com.android.server.RandomBlock.fromFile(RandomBlock.java:45)
+	at com.android.server.EntropyMixer.loadInitialEntropy(EntropyMixer.java:99)
+	at com.android.server.EntropyMixer.<init>(EntropyMixer.java:86)
+	at com.android.server.EntropyMixer.<init>(EntropyMixer.java:76)
+	at com.android.server.ServerThread.run(SystemServer.java:149)
+Caused by: libcore.io.ErrnoException: open failed: ENOENT (No such file or directory)
+	at libcore.io.Posix.open(Native Method)
+	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:110)
+	at libcore.io.IoBridge.open(IoBridge.java:400)
+	... 7 more
+   16.098312  586/601  I/SystemServer: Power Manager
+   16.103063  586/601  I/SystemServer: Activity Manager
+   16.112569  586/602  I/ActivityManager: Memory class: 24
+   16.118721  586/602  W/BatteryStats: readLocked: no file associated with this instance
+   16.118792  586/602  W/BatteryStats: writeLocked: no file associated with this instance
+   16.421137  586/601  I/SystemServer: Telephony Registry
+   16.424421  586/601  I/SystemServer: Scheduling Policy
+   16.425439  586/601  I/SystemServer: Package Manager
+   16.666762  586/601  I/PackageManager: No settings file; creating initial state
+   16.912322  586/601  I/PackageManager: /system/framework/framework-res.apk changed; collecting certs
+   18.762686  586/601  I/dalvikvm-heap: Grow heap (frag case) to 6.160MB for 520876-byte allocation
+   18.860090  586/601  I/dalvikvm-heap: Grow heap (frag case) to 6.907MB for 1043458-byte allocation
+   19.035958  586/601  I/dalvikvm-heap: Grow heap (frag case) to 7.289MB for 921202-byte allocation
+   19.332419  586/601  I/dalvikvm-heap: Grow heap (frag case) to 7.770MB for 1044098-byte allocation
+   19.718190  586/601  I/dalvikvm-heap: Grow heap (frag case) to 8.649MB for 1044098-byte allocation
+   19.828069  586/601  I/dalvikvm-heap: Grow heap (frag case) to 9.031MB for 921160-byte allocation
+   23.163884  586/601  I/dalvikvm-heap: Grow heap (frag case) to 13.336MB for 921202-byte allocation
+   26.737435  586/601  I/PackageManager: /system/app/ScalarAUsbDlApp.apk changed; collecting certs
+   26.771938  586/601  I/Installer: connecting...
+   26.773223  199/199  I/installd: new connection
+   26.775164  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.scalar.dlsys.scalarausbdlapp) is different from pkgdir(/data/data/com.sony.scalar.dlsys.scalarausbdlapp)
+   26.777364  199/199  I/installd: scalara_libdir(/data/lib/com.sony.scalar.dlsys.scalarausbdlapp/lib) is different from libdir(/data/data/com.sony.scalar.dlsys.scalarausbdlapp/lib)
+   26.814184  586/601  I/PackageManager: /system/app/ScalarAHotspot.apk changed; collecting certs
+   26.912755  586/601  I/PackageManager: New shared user com.sony.scalar.uid.wifisettings: id=10001
+   26.915202  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.scalar.app.hotspot) is different from pkgdir(/data/data/com.sony.scalar.app.hotspot)
+   26.917763  199/199  I/installd: scalara_libdir(/data/lib/com.sony.scalar.app.hotspot/lib) is different from libdir(/data/data/com.sony.scalar.app.hotspot/lib)
+   26.937415  586/601  I/PackageManager: /system/app/SettingsProvider.apk changed; collecting certs
+   26.968256  199/199  I/installd: scalara_pkgdir(/data/lib/com.android.providers.settings) is different from pkgdir(/data/data/com.android.providers.settings)
+   26.971046  199/199  I/installd: scalara_libdir(/data/lib/com.android.providers.settings/lib) is different from libdir(/data/data/com.android.providers.settings/lib)
+   27.005993  586/601  I/PackageManager: /system/app/WifiSettings.apk changed; collecting certs
+   27.101850  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.scalar.app.wifisettings) is different from pkgdir(/data/data/com.sony.scalar.app.wifisettings)
+   27.104467  199/199  I/installd: scalara_libdir(/data/lib/com.sony.scalar.app.wifisettings/lib) is different from libdir(/data/data/com.sony.scalar.app.wifisettings/lib)
+   27.123227  586/601  I/PackageManager: /system/app/DefaultContainerService.apk changed; collecting certs
+   27.153172  199/199  I/installd: scalara_pkgdir(/data/lib/com.android.defcontainer) is different from pkgdir(/data/data/com.android.defcontainer)
+   27.155857  199/199  I/installd: scalara_libdir(/data/lib/com.android.defcontainer/lib) is different from libdir(/data/data/com.android.defcontainer/lib)
+   27.168321  586/601  I/PackageManager: /system/app/AvindexProvider.apk changed; collecting certs
+   27.194381  586/601  I/PackageManager: New shared user com.sony.scalar.providers.avindex: id=10003
+   27.197293  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.scalar.providers.avindex) is different from pkgdir(/data/data/com.sony.scalar.providers.avindex)
+   27.199869  199/199  I/installd: scalara_libdir(/data/lib/com.sony.scalar.providers.avindex/lib) is different from libdir(/data/data/com.sony.scalar.providers.avindex/lib)
+   27.233240  586/601  I/PackageManager: /system/app/ScalarAAppManager.apk changed; collecting certs
+   27.290501  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.scalar.dlsys.scalaraappmanager) is different from pkgdir(/data/data/com.sony.scalar.dlsys.scalaraappmanager)
+   27.293133  199/199  I/installd: scalara_libdir(/data/lib/com.sony.scalar.dlsys.scalaraappmanager/lib) is different from libdir(/data/data/com.sony.scalar.dlsys.scalaraappmanager/lib)
+   27.332121  586/601  I/PackageManager: /system/app/ScalarAInstaller.apk changed; collecting certs
+   27.388583  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.scalar.dlsys.scalarainstaller) is different from pkgdir(/data/data/com.sony.scalar.dlsys.scalarainstaller)
+   27.390658  199/199  I/installd: scalara_libdir(/data/lib/com.sony.scalar.dlsys.scalarainstaller/lib) is different from libdir(/data/data/com.sony.scalar.dlsys.scalarainstaller/lib)
+   27.441616  586/601  W/ResourceType: Failure getting entry for 0x7f02002d (t=1 e=45) in package 0 (error -75)
+   27.444035  586/601  I/PackageManager: /system/app/SmartRemote.apk changed; collecting certs
+   28.097582  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.imaging.app.srctrl) is different from pkgdir(/data/data/com.sony.imaging.app.srctrl)
+   28.099918  199/199  I/installd: scalara_libdir(/data/lib/com.sony.imaging.app.srctrl/lib) is different from libdir(/data/data/com.sony.imaging.app.srctrl/lib)
+   28.136551  586/601  I/PackageManager: /system/app/ScalarALauncher.apk changed; collecting certs
+   28.185960  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.scalar.dlsys.scalaralauncher) is different from pkgdir(/data/data/com.sony.scalar.dlsys.scalaralauncher)
+   28.189131  199/199  I/installd: scalara_libdir(/data/lib/com.sony.scalar.dlsys.scalaralauncher/lib) is different from libdir(/data/data/com.sony.scalar.dlsys.scalaralauncher/lib)
+   28.213308  586/601  I/PackageManager: /system/app/InputDevices.apk changed; collecting certs
+   28.262275  199/199  I/installd: scalara_pkgdir(/data/lib/com.android.inputdevices) is different from pkgdir(/data/data/com.android.inputdevices)
+   28.265083  199/199  I/installd: scalara_libdir(/data/lib/com.android.inputdevices/lib) is different from libdir(/data/data/com.android.inputdevices/lib)
+   28.296933  586/601  I/PackageManager: /system/app/ScalarASoftKeyboard.apk changed; collecting certs
+   28.360243  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.scalar.dlsys.scalarasoftkeyboard) is different from pkgdir(/data/data/com.sony.scalar.dlsys.scalarasoftkeyboard)
+   28.362393  199/199  I/installd: scalara_libdir(/data/lib/com.sony.scalar.dlsys.scalarasoftkeyboard/lib) is different from libdir(/data/data/com.sony.scalar.dlsys.scalarasoftkeyboard/lib)
+   28.376657  586/601  I/PackageManager: /system/app/UserDictionaryProvider.apk changed; collecting certs
+   28.401696  586/601  I/PackageManager: New shared user android.uid.shared: id=10008
+   28.404230  199/199  I/installd: scalara_pkgdir(/data/lib/com.android.providers.userdictionary) is different from pkgdir(/data/data/com.android.providers.userdictionary)
+   28.407108  199/199  I/installd: scalara_libdir(/data/lib/com.android.providers.userdictionary/lib) is different from libdir(/data/data/com.android.providers.userdictionary/lib)
+   28.446053  586/601  I/PackageManager: /system/app/ScalarADisclaimer.apk changed; collecting certs
+   28.730602  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.scalar.dlsys.scalaradisclaimer) is different from pkgdir(/data/data/com.sony.scalar.dlsys.scalaradisclaimer)
+   28.733622  199/199  I/installd: scalara_libdir(/data/lib/com.sony.scalar.dlsys.scalaradisclaimer/lib) is different from libdir(/data/data/com.sony.scalar.dlsys.scalaradisclaimer/lib)
+   28.774322  586/601  I/PackageManager: /system/app/ScalarAMarket.apk changed; collecting certs
+   28.893465  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.scalar.dlsys.scalaramarket) is different from pkgdir(/data/data/com.sony.scalar.dlsys.scalaramarket)
+   28.897301  199/199  I/installd: scalara_libdir(/data/lib/com.sony.scalar.dlsys.scalaramarket/lib) is different from libdir(/data/data/com.sony.scalar.dlsys.scalaramarket/lib)
+   28.933763  586/601  I/PackageManager: /system/app/ScalarWebAPIDdService.apk changed; collecting certs
+   29.012091  199/199  I/installd: scalara_pkgdir(/data/lib/com.sony.scalar.lib.webapiddservice) is different from pkgdir(/data/data/com.sony.scalar.lib.webapiddservice)
+   29.014309  199/199  I/installd: scalara_libdir(/data/lib/com.sony.scalar.lib.webapiddservice/lib) is different from libdir(/data/data/com.sony.scalar.lib.webapiddservice/lib)
+   29.023159  586/601  D/PackageManager: No files in app dir /vendor/app
+   29.027422  586/601  I/PackageManager: Time to scan packages: 12.36 seconds
+   29.027554  586/601  I/PackageManager: Platform changed from 0 to 16; regranting permissions for internal storage
+   29.028729  586/601  W/PackageManager: Unknown permission android.permission.ACCESS_DOWNLOAD_MANAGER in package com.android.defcontainer
+   29.028821  586/601  W/PackageManager: Unknown permission android.permission.ACCESS_ALL_DOWNLOADS in package com.android.defcontainer
+   29.033868  586/601  W/PackageManager: Not granting permission android.permission.ACCESS_SURFACE_FLINGER to package com.sony.imaging.app.srctrl (protectionLevel=2 flags=0x8be45)
+   29.181940  586/601  I/SystemServer: Account Manager
+   29.185252  586/601  D/PackageManager: generateServicesMap(android.accounts.AccountAuthenticator): 0 services unchanged
+   29.191421  586/601  I/SystemServer: Content Manager
+   29.192533  586/601  I/SystemServer: System Content Providers
+   29.193488  586/601  I/ActivityThread: Pub settings: com.android.providers.settings.SettingsProvider
+   29.336236  586/601  D/SettingsProvider: Generated and saved new ANDROID_ID [731dd520acdc9294]
+   29.347592  586/601  I/SyncManager: No initial accounts
+   29.348078  586/601  I/SyncManager: No initial status
+   29.348997  586/601  I/SyncManager: No initial pending operations
+   29.349442  586/601  I/SyncManager: No initial statistics
+   29.357088  586/601  D/PackageManager: generateServicesMap(android.content.SyncAdapter): 0 services unchanged
+   29.404086  586/608  D/SettingsProvider: cache for settings table 'secure' rows=29; fullycached=true
+   29.411900  586/608  D/SettingsProvider: cache for settings table 'system' rows=46; fullycached=true
+   29.427862  586/601  I/SystemServer: Lights Service
+   29.429645  586/601  I/SystemServer: Battery Service
+   29.431265  586/601  V/BatteryService: android_server_BatteryService_init: Begin
+   29.431996  586/611  V/BatteryService: BS_notify_update_thread: Begin qid:926119
+   29.433108  586/601  V/BatteryService: android_server_BatteryService_init: End
+   29.433192  586/601  V/BATT: native_init()
+   29.433243  586/601  V/BATT: update()
+   29.433270  586/601  V/BatteryService: android_server_BatteryService_update: Begin
+   29.433372  586/601  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 1, 100)
+   29.435633  586/601  I/SystemServer: Vibrator Service
+   29.468814  586/601  E/libsuspend: Error opening /sys/power/autosleep: No such file or directory
+   29.469888  586/601  I/libsuspend: Selected wakeup count
+   29.470951  586/601  I/SystemServer: Alarm Manager
+   29.476150  586/601  I/SystemServer: Init Watchdog
+   29.477288  586/601  I/SystemServer: Window Manager
+   29.496084  586/618  I/InputManager: Initializing input manager
+   29.511496  586/619  W/StatusBarManager: warning: no STATUS_BAR_SERVICE
+   29.526189  586/619  E/SoundPool: error loading /system/media/audio/ui/Lock.ogg
+   29.526738  586/619  E/SoundPool: error loading /system/media/audio/ui/Unlock.ogg
+   29.548212  586/619  I/Sensors: sensors : activate [handle = 0, enabled = 1]
+   29.548245  586/619  I/AccelerometerSensor: enable - to enable
+   29.548342  586/619  I/SDCom: [A:586] SDCom: 14:42:35 Feb 18 2019
+   29.548369  586/619  I/SDComUtil: State is NOT Android yet, so cant't connect scalar daemon
+   29.548782  586/619  E/AccelerometerSensor: Error! Fail to connect ScalarDaemon
+   29.548837  586/619  E/SensorService: Error activating sensor 0 (Unknown error: -2147483648)
+   29.548876  586/619  I/AccelerometerSensor: setDelay() : time = 200000000
+   29.549175  586/618  I/InputManager: Starting input manager
+   29.556857  586/601  I/SystemServer: Bluetooth Service
+   29.563072  586/625  I/BluetoothProfileState: Message:Entering Stable State
+   29.571535  586/624  E/KeyCharacterMap: /system/usr/keychars/Generic.kcm:1: Expected keyword, got '[type=QWERTY]'.
+   29.578679  586/626  I/BluetoothProfileState: Message:Entering Stable State
+   29.578807  586/627  I/BluetoothProfileState: Message:Entering Stable State
+   29.585242  586/628  D/BluetoothAdapterStateMachine: PowerOff process message: 5
+   29.592454  586/624  I/EventHub: New device: id=1, fd=113, path='/dev/input/event0', name='D keyboard', classes=0x25, configuration='', keyLayout='/system/usr/keylayout/Generic.kl', keyCharacterMap='/system/usr/keychars/Virtual.kcm', builtinKeyboard=false, usingSuspendBlockIoctl=false, usingClockIoctl=false
+   29.592656  586/624  E/EventHub: could not get driver version for /dev/input/mouse0, Not a typewriter
+   29.592783  586/624  E/EventHub: could not get driver version for /dev/input/mice, Not a typewriter
+   29.607518  586/601  I/SystemServer: Input Method Service
+   29.610797  586/624  I/InputReader: Device added: id=-1, name='Virtual', sources=0x00000301
+   29.615843  586/624  I/InputReader:   Touch device 'D keyboard' could not query the properties of its associated display 0.  The device will be inoperable until the display size becomes available.
+   29.615950  586/624  I/InputReader: Device added: id=1, name='D keyboard', sources=0x00002303
+   29.616742  586/624  E/Trace: error opening trace file: No such file or directory (2)
+   29.623934  586/601  W/InputMethodManagerService: failed to load settings
+java.io.FileNotFoundException: /data/data/inputmethod.properties: open failed: ENOENT (No such file or directory)
+	at libcore.io.IoBridge.open(IoBridge.java:416)
+	at java.io.FileInputStream.<init>(FileInputStream.java:78)
+	at java.io.FileInputStream.<init>(FileInputStream.java:105)
+	at com.android.server.InputMethodManagerService.readImeProperties(InputMethodManagerService.java:3998)
+	at com.android.server.InputMethodManagerService.restoreSettings(InputMethodManagerService.java:3948)
+	at com.android.server.InputMethodManagerService.<init>(InputMethodManagerService.java:667)
+	at com.android.server.ServerThread.run(SystemServer.java:289)
+Caused by: libcore.io.ErrnoException: open failed: ENOENT (No such file or directory)
+	at libcore.io.Posix.open(Native Method)
+	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:110)
+	at libcore.io.IoBridge.open(IoBridge.java:400)
+	... 6 more
+   29.624086  586/601  D/InputMethodManagerService: restoreSettings:defaultIme=null
+   29.642646  586/601  W/InputMethodManagerService: No IME selected. Choose the most applicable IME.
+   29.643207  586/601  I/InputMethodManagerService: No default found, using com.sony.scalar.dlsys.scalarasoftkeyboard/.SoftKeyboard
+   29.654337  586/601  D/InputMethodManagerService: clearCurMethodLocked:kill keyboard process without current keyboard
+   29.656580  586/601  I/SystemServer: Accessibility Manager
+   29.661531  586/624  I/InputReader: Reconfiguring input devices.  changes=0x00000004
+   29.717843  586/601  I/WindowManager: Aspect: 43
+   29.717925  586/601  I/WindowManager: Aspect: 43
+   29.717986  586/601  I/WindowManager: Aspect: 43
+   29.718045  586/601  I/WindowManager: Aspect: 43
+   29.718273  586/624  I/InputReader: Device reconfigured: id=1, name='D keyboard', surface size is now 640x480, mode is 3
+   29.719407  586/601  W/ActivityManager: Unable to write /sys/module/lowmemorykiller/parameters/adj
+   29.720220  586/601  W/ActivityManager: Unable to write /sys/module/lowmemorykiller/parameters/minfree
+   29.720914  586/601  I/ActivityManager: Config changed: {1.0 0mcc0mnc en_US sw288dp w384dp h263dp smll long land ?uimode ?night -touch -keyb/h/h dpad/v s.2}
+   29.726388  586/601  I/SystemServer: Mount Service
+   29.727389  586/601  V/MountServiceCore: MountServiceCore()
+   29.728298  586/601  I/MountServiceCore-JNI: void android::android_server_MountServiceCore_init(JNIEnv*, jobject)
+   29.728327  586/601  I/MountServiceCore-JNI: gSdcomClient new
+   29.728370  586/601  I/SDCom: [A:586] SDCom: 14:42:35 Feb 18 2019
+   29.728771  586/601  I/SystemServer: LockSettingsService
+   29.729753  586/601  I/SystemServer: Device Policy
+   29.733895  586/601  I/SystemServer: Status Bar
+   29.735852  586/601  I/SystemServer: Clipboard Service
+   29.738194  586/601  I/SystemServer: NetworkManagement Service
+   29.745676  586/601  I/SystemServer: Text Service Manager Service
+   29.747767  586/601  W/TextServicesManagerService: no available spell checker services found
+   29.748139  586/601  I/SystemServer: NetworkStats Service
+   29.753479  196/564  E/Trace: error opening trace file: No such file or directory (2)
+   29.755556  586/601  I/SystemServer: NetworkPolicy Service
+   29.760554  586/601  I/SystemServer: Wi-Fi P2pService
+   29.771808  586/633  D/WifiP2pService: P2pDisabledState
+   29.773346  586/601  I/SystemServer: Wi-Fi Service
+   29.792036  586/601  D/StateMachine: completeConstruction: E
+   29.792301  586/601  D/StateMachine: completeConstruction: maxDepth=6
+   29.792520  586/601  D/StateMachine: setupInitialStateStack: E mInitialState=InitialState
+   29.792618  586/601  D/StateMachine: moveTempStackToStateStack: i=1,j=0
+   29.792680  586/601  D/StateMachine: moveTempStackToStateStack: i=0,j=1
+   29.792797  586/601  D/StateMachine: moveTempStackToStateStack: X mStateStackTop=1,startingIndex=0,Top=InitialState
+   29.793103  586/634  D/StateMachine: handleMessage: E msg.what=-2
+   29.793201  586/634  D/StateMachine: invokeEnterMethods: DefaultState
+   29.793261  586/634  D/StateMachine: invokeEnterMethods: InitialState
+   29.793454  586/634  D/WifiStateMachine: InitialState
+   29.793779  586/634  D/StateMachine: transitionTo: destState=DriverUnloadedState
+   29.794143  586/601  D/StateMachine: completeConstruction: X
+   29.805567  194/551  E/CommandListener: Failed to open /proc/sys/net/ipv6/conf/ath0/disable_ipv6: No such file or directory
+   29.807892  586/601  I/SystemServer: Connectivity Service
+   29.809901  586/601  D/ConnectivityService: ConnectivityService starting up
+   29.809917  586/634  E/WifiStateMachine: Failed to disable IPv6: java.lang.IllegalStateException: command '1 interface ipv6 ath0 disable' failed with '400 1 Failed to change IPv6 state (No such file or directory)'
+   29.809972  586/634  D/StateMachine: handleMessage: new destination call exit
+   29.810219  586/634  D/StateMachine: setupTempStateStackWithStatesToEnter: X mTempStateStackCount=1,curStateInfo: state=DefaultState,active=true,parent=null
+   29.810311  586/634  D/StateMachine: invokeExitMethods: InitialState
+   29.810379  586/634  D/StateMachine: moveTempStackToStateStack: i=0,j=1
+   29.810532  586/634  D/StateMachine: moveTempStackToStateStack: X mStateStackTop=1,startingIndex=1,Top=DriverUnloadedState
+   29.816519  586/634  D/StateMachine: invokeEnterMethods: DriverUnloadedState
+   29.816613  586/634  D/WifiStateMachine: DriverUnloadedState
+   29.816734  586/634  D/StateMachine: handleMessage: X
+   29.816935  586/634  D/StateMachine: handleMessage: E msg.what=69632
+   29.817018  586/634  D/StateMachine: processMsg: DriverUnloadedState
+   29.817696  586/634  D/WifiStateMachine: DriverUnloadedState{ what=69632 when=-22ms obj=com.android.internal.util.AsyncChannel@5b96c18 }
+   29.817781  586/634  D/StateMachine: processMsg: DefaultState
+   29.818080  586/634  D/WifiStateMachine: DefaultState{ what=69632 when=-23ms obj=com.android.internal.util.AsyncChannel@5b96c18 }
+   29.818537  586/633  D/WifiP2pService: P2pDisabledState{ what=69633 when=0 }
+   29.818694  586/633  D/WifiP2pService: DefaultState{ what=69633 when=0 }
+   29.819019  586/633  D/WifiP2pService: P2pDisabledState{ what=69632 when=0 obj=com.android.internal.util.AsyncChannel@5ba4540 }
+   29.819198  586/633  D/WifiP2pService: DefaultState{ what=69632 when=0 obj=com.android.internal.util.AsyncChannel@5ba4540 }
+   29.819256  586/633  D/WifiP2pService: Full connection with WifiStateMachine established
+   29.819486  586/634  D/StateMachine: handleMessage: X
+   29.819920  586/634  D/StateMachine: handleMessage: E msg.what=131154
+   29.820068  586/634  D/StateMachine: processMsg: DriverUnloadedState
+   29.820355  586/634  D/WifiStateMachine: DriverUnloadedState{ what=131154 when=-18ms arg1=1 }
+   29.820428  586/634  D/StateMachine: processMsg: DefaultState
+   29.820612  586/634  D/WifiStateMachine: DefaultState{ what=131154 when=-18ms arg1=1 }
+   29.820668  586/634  D/StateMachine: handleMessage: X
+   29.834675  586/634  D/StateMachine: handleMessage: E msg.what=131085
+   29.834775  586/634  D/StateMachine: processMsg: DriverUnloadedState
+   29.835125  586/634  D/WifiStateMachine: DriverUnloadedState{ what=131085 when=-1ms }
+   29.835384  586/634  D/StateMachine: processMsg: DefaultState
+   29.835816  586/634  D/WifiStateMachine: DefaultState{ what=131085 when=-1ms }
+   29.835900  586/634  D/StateMachine: handleMessage: X
+   29.836047  586/634  D/StateMachine: handleMessage: E msg.what=131147
+   29.836116  586/634  D/StateMachine: processMsg: DriverUnloadedState
+   29.836835  586/634  D/WifiStateMachine: DriverUnloadedState{ what=131147 when=-2ms }
+   29.836885  586/601  E/MobileDataStateTracker: default: Ignoring feature request because could not acquire PhoneService
+   29.836919  586/634  D/StateMachine: processMsg: DefaultState
+   29.837100  586/601  E/MobileDataStateTracker: default: Could not enable APN type "default"
+   29.837165  586/634  D/WifiStateMachine: DefaultState{ what=131147 when=-3ms }
+   29.837240  586/634  D/StateMachine: handleMessage: X
+   29.845847  586/601  I/WifiService: WifiService starting up with Wi-Fi disabled
+   29.859327  586/601  I/SystemServer: Network Service Discovery Service
+   29.862807  586/601  D/NsdService: Network service discovery enabled true
+   29.867278  586/601  I/SystemServer: Throttle Service
+   29.880771  586/601  I/SystemServer: UpdateLock Service
+   29.884783  586/601  D/PackageManager: generateServicesMap(android.accounts.AccountAuthenticator): 0 services unchanged
+   29.884870  586/601  I/SystemServer: Notification Manager
+   29.890753  586/601  I/SystemServer: Device Storage Monitor
+   29.896191  586/601  I/SystemServer: Location Manager
+   29.899504  586/601  I/SystemServer: Country Detector
+   29.900521  586/601  I/SystemServer: Search Service
+   29.901851  586/601  I/SystemServer: DropBox Service
+   29.904019  586/601  I/SystemServer: Wallpaper Service
+   29.908644  586/601  W/WallpaperService: failed parsing /data/system/users/0/wallpaper_info.xml java.io.FileNotFoundException: /data/system/users/0/wallpaper_info.xml: open failed: ENOENT (No such file or directory)
+   29.909315  586/601  I/SystemServer: Audio Service
+   30.044613  586/601  I/SystemServer: Dock Observer
+   30.045461  586/601  W/DockObserver: This kernel does not have dock station support
+   30.045525  586/601  I/SystemServer: Wired Accessory Observer
+   30.046187  586/601  W/WiredAccessoryObserver: This kernel does not have wired headset support
+   30.046840  586/601  W/WiredAccessoryObserver: This kernel does not have usb audio support
+   30.047354  586/601  W/WiredAccessoryObserver: This kernel does not have HDMI audio support
+   30.048016  586/601  I/SystemServer: USB Service
+   30.051198  586/601  I/SystemServer: Serial Service
+   30.051845  586/601  I/SystemServer: UI Mode Manager Service
+   30.057940  586/601  I/SystemServer: Backup Service
+   30.066159  586/601  V/BackupManagerService: Initializing package tracking
+   30.067311  586/601  V/BackupManagerService: No ancestral data
+   30.078780  586/601  V/BackupManagerService: addPackageParticipantsLocked: all
+   30.079032  586/601  I/BackupManagerService: New app android never backed up; scheduling
+   30.079403  586/601  D/BackupManagerService: Now staging backup of android
+   30.100289  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+   30.100628  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=1
+   30.100849  586/611  V/BATT: update()
+   30.100878  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+   30.100980  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 1, 100)
+   30.101950  586/601  I/BackupManagerService: New app com.android.providers.settings never backed up; scheduling
+   30.102188  586/601  D/BackupManagerService: Now staging backup of com.android.providers.settings
+   30.113846  586/601  I/BackupManagerService: New app com.android.providers.userdictionary never backed up; scheduling
+   30.114106  586/601  D/BackupManagerService: Now staging backup of com.android.providers.userdictionary
+   30.122120  586/601  V/BackupManagerService: Registering transport android/com.android.internal.backup.LocalTransport = com.android.internal.backup.LocalTransport@6678668
+   30.126867  586/601  V/BackupManagerService: Starting with transport android/com.android.internal.backup.LocalTransport
+   30.127093  586/601  V/BackupManagerService: Google transport not present
+   30.127946  586/601  I/BackupManagerService: Found stale backup journal, scheduling
+   30.129049  586/601  I/BackupManagerService:   android
+   30.129381  586/601  I/BackupManagerService:   com.android.providers.settings
+   30.129652  586/601  I/BackupManagerService:   com.android.providers.userdictionary
+   30.137521  586/601  I/BackupManagerService: Backup enabled => false
+   30.137986  586/601  I/BackupManagerService: Opting out of backup
+   30.138655  586/601  I/SystemServer: AppWidget Service
+   30.141397  586/601  I/SystemServer: Recognition Service
+   30.142150  586/601  I/SystemServer: DiskStats Service
+   30.142587  586/601  I/SystemServer: DAConnection Service
+   30.142945  586/601  D/DAConnectionManagerService: Constructor - DAConnectionManagerService
+   30.142990  586/601  V/DAConnectionManagerService-JNI: nativeInit
+   30.143427  586/601  D/DAConnectionManagerService-JNI: [osal_reg_sync_msg_queue_cb] finished
+   30.143456  586/601  D/DAConnectionManagerService-JNI: [osal_reg_msg_queue_cb] finished
+   30.143474  586/601  V/DAConnectionManagerService-JNI: registerObserver
+   30.143504  586/601  V/DAConnectionManagerService-JNI: ABT_reg_observer err=0
+   30.151382  586/644  D/DAConnectionManagerService-JNI: start waiting...
+   30.151669  586/601  I/SystemServer: SyncAndroid Service
+   30.152672  586/601  V/SyncAndroidService: :constructor: begin
+   30.152751  586/601  V/NativeSyncAndroid: android_server_SyncAndroid_init: Begin
+   30.152918  586/601  V/NativeSyncAndroid: android_server_SyncAndroid_init: End
+   30.152973  586/601  V/SyncAndroidService: :constructor: end
+   30.154232  586/601  I/SystemServer: SamplingProfiler Service
+   30.201293  586/601  I/SystemServer: NetworkTimeUpdateService
+   30.202499  586/601  I/SystemServer: CommonTimeManagementService
+   30.204472  586/601  I/SystemServer: CertBlacklister
+   30.205878  586/601  I/SystemServer: AppData Service
+   30.211111  586/601  D/AppDataManagerService: Constructor - AppDataManagerService
+   30.212396  586/601  I/SystemServer: WifiSettingManager Service
+   30.298182  586/601  D/WifiSettingService: WssDdStatusListener called, REQUEST : DD_START
+   30.298293  586/601  D/WifiSettingService: WssDdStatusListener called, REQUEST : DD_STOP
+   30.299431  586/601  I/WindowManager: SAFE MODE not enabled
+   30.330571  586/601  I/WindowManager: Aspect: 43
+   30.330656  586/601  I/WindowManager: Aspect: 43
+   30.330777  586/601  I/WindowManager: Aspect: 43
+   30.330843  586/601  I/WindowManager: Aspect: 43
+   30.331595  586/601  D/PowerManagerService: system ready!
+   30.342648  586/601  I/LockSettingsService: Migrated lock settings to new location
+   30.343956  586/601  I/ActivityManager: System now ready
+   30.345781  586/601  I/SystemServer: Making services ready
+   30.346036  586/601  D/SystemServer: Starting service: Intent { cmp=com.android.systemui/.SystemUIService }
+   30.346720  586/601  W/ActivityManager: Unable to start service Intent { cmp=com.android.systemui/.SystemUIService }: not found
+   30.347464  586/601  D/NetworkManagementService: not enabling bandwidth control
+   30.348467  586/601  W/NetworkStats: bandwidth controls disabled, unable to track stats
+   30.348576  586/601  W/NetworkPolicy: bandwidth controls disabled, unable to enforce policy
+   30.350315  586/601  I/ActivityManager: Config changed: {1.0 0mcc0mnc en_US sw288dp w384dp h263dp smll long land -touch -keyb/h/h dpad/v s.3}
+   30.352607  586/601  W/RecognitionManagerService: no available voice recognition services found
+   30.357142  586/601  W/AppWidgetServiceImpl: Failed to read state: java.io.FileNotFoundException: /data/system/users/0/appwidgets.xml: open failed: ENOENT (No such file or directory)
+   30.359079  586/601  W/WallpaperService: Unknown component ComponentInfo{com.android.systemui/com.android.systemui.ImageWallpaper}
+   30.359195  586/601  W/WallpaperService: Failure starting previous wallpaper
+   30.360213  586/601  W/WallpaperService: Unknown component ComponentInfo{com.android.systemui/com.android.systemui.ImageWallpaper}
+   30.360395  586/601  E/WallpaperService: Default wallpaper component not found!
+   30.362437  586/601  W/InputMethodManagerService: Ignoring setImeWindowStatus of uid 1000 token: null
+   30.372116  586/601  W/InputMethodManagerService: Reset the default IME as "Resource" is ready here.
+   30.374857  586/601  W/InputMethodManagerService: Found no subtypes in a system IME: com.sony.scalar.dlsys.scalarasoftkeyboard
+   30.375111  586/601  I/InputMethodManagerService: No default found, using com.sony.scalar.dlsys.scalarasoftkeyboard/.SoftKeyboard
+   30.381555  586/601  D/InputMethodManagerService: clearCurMethodLocked:kill keyboard process without current keyboard
+   30.388303  586/601  I/Zygote: Process: zygote socket opened
+   30.430958  586/601  I/ActivityManager: Start proc com.sony.scalar.dlsys.scalarasoftkeyboard for service com.sony.scalar.dlsys.scalarasoftkeyboard/.SoftKeyboard: pid=647 uid=10007 gids={1028}
+   30.431339  586/619  I/WindowManager: Aspect: 43
+   30.431418  586/619  I/WindowManager: Aspect: 43
+   30.431485  586/619  I/WindowManager: Aspect: 43
+   30.431546  586/619  I/WindowManager: Aspect: 43
+   30.432086  586/619  I/ActivityManager: Config changed: {1.0 0mcc0mnc en_US sw288dp w384dp h263dp smll long land -touch -keyb/v/h dpad/v s.4}
+   30.459932  586/660  E/ThrottleService: Error reading data file
+   30.469013  586/601  I/CommonTimeManagementService: No common time service detected on this platform.  Common time services will be unavailable.
+   30.471823  586/624  I/InputReader: Reconfiguring input devices.  changes=0x00000020
+   30.474116  586/658  I/LocationManagerService: whitelist: []
+   30.474220  586/658  I/LocationManagerService: blacklist: []
+   30.491321  586/660  E/ThrottleService: problem during onPollAlarm: java.lang.IllegalStateException: problem parsing stats: java.io.FileNotFoundException: /proc/net/xt_qtaguid/iface_stat_all: open failed: ENOENT (No such file or directory)
+   30.509230  586/624  I/InputReader: Reconfiguring input devices.  changes=0x00000010
+   30.547553  586/601  I/ActivityManager: Start proc com.sony.scalar.providers.avindex.process for added application com.sony.scalar.providers.avindex.process: pid=666 uid=10003 gids={1028}
+   30.605585  586/601  I/ActivityManager: Start proc com.sony.scalar.dlsys.scalaralauncher for added application com.sony.scalar.dlsys.scalaralauncher: pid=688 uid=10006 gids={1028}
+   30.611202  586/601  I/ActivityManager: START {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.sony.scalar.dlsys.scalaralauncher/.ScalarALauncher u=0} from pid 0
+   30.641225  586/601  I/LocationManagerService: request passive (pid 586) 0 0
+   30.649566  647/647  E/Trace: error opening trace file: No such file or directory (2)
+   30.650620  586/660  E/ThrottleService: problem during onPollAlarm: java.lang.IllegalStateException: problem parsing stats: java.io.FileNotFoundException: /proc/net/xt_qtaguid/iface_stat_all: open failed: ENOENT (No such file or directory)
+   30.657838  586/586  I/WindowManager: Aspect: 43
+   30.657938  586/586  I/WindowManager: Aspect: 43
+   30.658191  586/586  I/WindowManager: Aspect: 43
+   30.658303  586/586  I/WindowManager: Aspect: 43
+   30.660281  666/666  E/Trace: error opening trace file: No such file or directory (2)
+   30.664006  586/601  D/InputMethodManagerService: storeSettings:{default_input_method=com.sony.scalar.dlsys.scalarasoftkeyboard/.SoftKeyboard}
+   30.676331  688/688  E/Trace: error opening trace file: No such file or directory (2)
+   30.719647  666/666  W/dalvikvm: Refusing to reopen boot DEX '/system/framework/com.sony.scalar.database_library.jar'
+   30.721277  666/666  W/dalvikvm: Refusing to reopen boot DEX '/system/framework/com.sony.scalar.stillPlay.jar'
+   30.738452  666/666  I/ActivityThread: Pub com.sony.scalar.providers.avindex: com.sony.scalar.providers.avindex.AvindexProvider
+   30.768143  688/688  D/ScalarALauncherApplication: onCreate start:29583
+   30.819714  688/688  D/ScalarALauncherApplication: onCreate end:29635
+   30.829252  688/688  D/ScalarALauncher: onCreate start:29644
+   30.908695  688/688  I/dalvikvm-heap: Grow heap (frag case) to 3.851MB for 1048592-byte allocation
+   31.042164  688/688  I/dalvikvm-heap: Grow heap (frag case) to 5.025MB for 1228816-byte allocation
+   31.332757  688/688  D/ScalarALauncher.AllAppsGridView: setMode from null to APP_LIST
+   31.393493  688/688  D/ScalarALauncher: restoreMode
+   31.427983  688/688  E/ScalarALauncher: restoreMode failed
+java.io.FileNotFoundException: /data/data/com.sony.scalar.dlsys.scalaralauncher/files/last_mode: open failed: ENOENT (No such file or directory)
+	at libcore.io.IoBridge.open(IoBridge.java:416)
+	at java.io.FileInputStream.<init>(FileInputStream.java:78)
+	at java.io.FileReader.<init>(FileReader.java:42)
+	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncher.restoreMode(ScalarALauncher.java:540)
+	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncher.onCreate(ScalarALauncher.java:174)
+	at android.app.Activity.performCreate(Activity.java:5008)
+	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1079)
+	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2023)
+	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2084)
+	at android.app.ActivityThread.access$600(ActivityThread.java:130)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1195)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:137)
+	at android.app.ActivityThread.main(ActivityThread.java:4745)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:511)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:786)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)
+	at dalvik.system.NativeStart.main(Native Method)
+Caused by: libcore.io.ErrnoException: open failed: ENOENT (No such file or directory)
+	at libcore.io.Posix.open(Native Method)
+	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:110)
+	at libcore.io.IoBridge.open(IoBridge.java:400)
+	... 18 more
+   31.428090  688/688  D/ScalarALauncher: setMode from NONE to BLACK
+   31.428670  688/688  D/ScalarALauncher.AllAppsGridView: setMode from APP_LIST to BLACK
+   31.431622  688/688  D/ScalarALauncher.Model: startLoader isLaunching=true
+   31.432486  688/720  D/ScalarALauncher.Model: LoaderTask#run start:30247
+   31.432619  688/720  D/ScalarALauncher.Model: loadAndBindAllApps mAllAppsLoaded=false
+   31.433116  688/720  D/ScalarALauncher.Model: call queryIntentActivities 30248
+   31.439134  688/720  D/ScalarALauncher.Model: called queryIntentActivities 30254
+   31.440275  688/720  D/ScalarALauncher.Model: queryIntentActivities got 3 apps
+   31.440322  688/688  D/ScalarALauncher: onCreate mMode=BLACK
+   31.440402  688/720  D/ScalarALauncher.Model: start loading icon:30255
+   31.440405  688/688  D/ScalarALauncher: onCreate end:30255
+   31.441413  688/688  D/ScalarALauncher: onResume start:30256
+   31.441524  688/688  D/ScalarALauncher: onResume Gridview requestFocus
+   31.441744  688/688  D/ScalarALauncher: onResume end:30257
+   31.453908  688/720  D/IconCahce: activityLabel = Application
+Management
+   31.453971  688/720  D/IconCahce: ActivityLabel is used
+   31.454033  688/720  D/IconCahce: entry.title = Application
+Management
+   31.469003  688/720  D/IconCahce: activityLabel = Smart Remote
+Embedded
+   31.469046  688/720  D/IconCahce: ActivityLabel is used
+   31.469095  688/720  D/IconCahce: entry.title = Smart Remote
+Embedded
+   31.483571  688/720  D/IconCahce: activityLabel = PlayMemories
+Camera Apps
+   31.484037  688/720  D/IconCahce: ActivityLabel is used
+   31.484107  688/720  D/IconCahce: entry.title = PlayMemories
+Camera Apps
+   31.490185  688/720  D/ScalarALauncher.Model: finish loading icon:30305
+   31.493003  688/720  D/ScalarALauncher.Model: in, out closed is called
+   31.494949  688/720  D/ScalarALauncher.Model: finish rearranging apps:30310
+   31.495482  688/720  D/ScalarALauncher.Model: saveAlignment head:30310
+   31.498426  688/720  D/ScalarALauncher.Model: saveAlignment end:30313
+   31.498606  688/720  D/ScalarALauncher.Model: finish loading appinfo:30313
+   31.499453  688/720  D/ScalarALauncher.Model: called loadAndBindAllApps:30314
+   31.499782  688/720  D/ScalarALauncher.Model: LoaderTask#run end:30315
+   31.528004  688/688  D/ScalarALauncher.Model: call bindAllApplications:30343
+   31.528209  688/688  D/ScalarALauncher.AllAppsGridView: setApps Gridview checkFocus
+   31.528345  688/688  D/ScalarALauncher.AllAppsGridView: setApps Gridview requestFocus
+   31.528772  688/688  D/ScalarALauncher.Model: called bindAllApplications:30344
+   31.554656  196/566  I/WsClientWrap: [Connect][114]already connection established
+   31.555208  196/566  I/GraphicsHAL: [scalara_gralloc_device_open][80]opened alloc device.(err=0)
+   31.584771  586/618  I/ActivityManager: Displayed com.sony.scalar.dlsys.scalaralauncher/.ScalarALauncher: +960ms
+   31.613274  586/601  D/PowerManagerService: bootCompleted
+   31.613839  586/601  V/DevicePolicyManagerService: Sending password expiration notifications for action android.intent.action.BOOT_COMPLETED
+   31.621480  586/601  W/ActivityManager: Unable to start service Intent { act=android.bluetooth.IBluetoothHeadset }: not found
+   31.622563  586/721  I/SearchManagerService: Building list of searchable activities
+   31.623922  586/601  E/BluetoothHeadset: Could not bind to Bluetooth Headset Service
+   31.625509  586/642  E/SoundPool: error loading /system/media/audio/ui/Effect_Tick.ogg
+   31.625644  586/642  W/AudioService: Soundpool could not load file: /system/media/audio/ui/Effect_Tick.ogg
+   31.626122  586/642  E/SoundPool: error loading /system/media/audio/ui/Effect_Tick.ogg
+   31.626184  586/642  W/AudioService: Soundpool could not load file: /system/media/audio/ui/Effect_Tick.ogg
+   31.626593  586/721  W/Searchables: No global search activity found
+   31.626882  586/642  E/SoundPool: error loading /system/media/audio/ui/Effect_Tick.ogg
+   31.626949  586/642  W/AudioService: Soundpool could not load file: /system/media/audio/ui/Effect_Tick.ogg
+   31.627197  586/642  E/SoundPool: error loading /system/media/audio/ui/Effect_Tick.ogg
+   31.627258  586/642  W/AudioService: Soundpool could not load file: /system/media/audio/ui/Effect_Tick.ogg
+   31.627521  586/642  E/SoundPool: error loading /system/media/audio/ui/Effect_Tick.ogg
+   31.627610  586/642  W/AudioService: Soundpool could not load file: /system/media/audio/ui/Effect_Tick.ogg
+   31.627903  586/642  E/SoundPool: error loading /system/media/audio/ui/KeypressStandard.ogg
+   31.627963  586/642  W/AudioService: Soundpool could not load file: /system/media/audio/ui/KeypressStandard.ogg
+   31.628244  586/642  E/SoundPool: error loading /system/media/audio/ui/KeypressSpacebar.ogg
+   31.628329  586/642  W/AudioService: Soundpool could not load file: /system/media/audio/ui/KeypressSpacebar.ogg
+   31.628631  586/642  E/SoundPool: error loading /system/media/audio/ui/KeypressDelete.ogg
+   31.628711  586/642  W/AudioService: Soundpool could not load file: /system/media/audio/ui/KeypressDelete.ogg
+   31.629074  586/642  E/SoundPool: error loading /system/media/audio/ui/KeypressReturn.ogg
+   31.629147  586/642  W/AudioService: Soundpool could not load file: /system/media/audio/ui/KeypressReturn.ogg
+   31.629350  586/642  W/AudioService: loadSoundEffects(), Error -1 while loading samples
+   31.630682  586/601  V/WiredAccessoryObserver: init()
+   31.632445  586/601  D/DAConnectionManagerService: onReceive - receive BOOT_COMPLETED intent!
+   31.632552  586/601  V/DAConnectionManagerService-JNI: setState:state=6, flag=0
+   31.633834  586/601  V/DAConnectionManagerService-JNI: ABT_set_state err=0
+   31.644093  586/598  V/DAConnectionManagerService-JNI: arbiter callback: cmd=6
+   31.644151  586/598  D/DAConnectionManagerService-JNI: pthread cond signal - wake up a thread
+   31.644266  586/644  I/DAConnectionManagerService-JNI: language env isn't set
+   31.644306  586/644  D/DAConnectionManagerService-JNI: function :
+   31.644337  586/644  D/DAConnectionManagerService-JNI: function is NULL
+   31.644785  586/644  D/DAConnectionManagerService: onChange: state = 6
+   31.644913  586/644  D/DAConnectionManagerService-JNI: start waiting...
+   31.669502  586/727  I/RecoverySystem: No recovery log file
+   31.707155  586/727  E/ActivityThread: Failed to find provider info for downloads
+   31.711379  586/727  E/BootReceiver: Can't remove old update packages
+java.lang.IllegalArgumentException: Unknown URL content://downloads/my_downloads
+	at android.content.ContentResolver.delete(ContentResolver.java:952)
+	at android.provider.Downloads.removeAllDownloadsByPackage(Downloads.java:800)
+	at com.android.server.BootReceiver.removeOldUpdatePackages(BootReceiver.java:82)
+	at com.android.server.BootReceiver.access$100(BootReceiver.java:39)
+	at com.android.server.BootReceiver$1.run(BootReceiver.java:72)
+   32.315728  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+   32.316034  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=2
+   32.316249  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+   32.316881  586/612  V/BatteryService: BS_notify_cb: from 924126
+   32.317118  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+   32.320585  586/611  V/BATT: update()
+   32.320638  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+   32.320843  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 1, 100)
+   32.321016  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=3
+   32.321094  586/611  V/BATT: update()
+   32.321118  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+   32.321212  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 1, 100)
+   32.321272  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=4
+   32.321324  586/611  V/BATT: update()
+   32.321345  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+   32.321423  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 1, 100)
+   32.321511  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=5
+   32.321570  586/611  V/BATT: update()
+   32.321592  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+   32.321695  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 1, 100)
+   34.780921  586/598  V/BatteryService: BS_notify_cb: from 9241c2
+   34.781026  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=6
+   34.781241  586/611  V/BATT: update()
+   34.781271  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+   34.781385  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 1, 100)
+   34.938278  586/598  V/NativeSyncAndroid: SyncAndroid_notify_cb: Sus(8)
+   34.938435  586/598  V/SyncAndroidService: :Suspend: im_type=8
+   34.946731  586/601  D/InputMethodManagerService: mSystemStateReciever#onReceive:com.android.server.SyncAndroidService.SUSPEND
+   34.946913  586/601  D/InputMethodManagerService: create SSBI
+   34.948231  586/601  D/AppDataManagerService: mSystemStateReciever#onReceive:com.android.server.SyncAndroidService.SUSPEND
+   34.948357  586/601  D/AppDataManagerService: mDeleteApplicationDataList.size() is zero
+   34.951844  688/688  D/ScalarALauncher.Model: onReceive intent=Intent { act=com.android.server.SyncAndroidService.SUSPEND flg=0x10 (has extras) }
+   34.984710  666/666  V/AvindexProviderReceiver: onReceive : com.android.server.SyncAndroidService.SUSPEND
+   34.985147  666/666  V/AvindexProviderReceiver: Extra : im_type = 8
+   34.986466  586/601  V/SyncAndroidService: :onReceive: last
+   34.999420  586/601  D/InputMethodManagerService: don't storeSettings because android don't display yet
+   35.020932  586/598  V/NativeSyncAndroid: SyncAndroid_notify_cb: Sus(8) done.
+   35.033228  586/619  I/WindowManager: Aspect: 43
+   35.033340  586/619  I/WindowManager: Aspect: 43
+   35.033414  586/619  I/WindowManager: Aspect: 43
+   35.033479  586/619  I/WindowManager: Aspect: 43
+   35.035754  586/601  D/InputMethodManagerService: clearCurMethodLocked:kill keyboard process without current keyboard
+   35.037570  586/619  I/ActivityManager: Config changed: {1.0 0mcc0mnc en_US sw288dp w384dp h263dp smll long land -touch -keyb/h/h dpad/v s.5}
+   35.048639  688/688  D/ScalarALauncher: onConfigurationChanged S:newConfig={1.0 0mcc0mnc en_US sw288dp w384dp h263dp smll long land -touch -keyb/h/h dpad/v s.5}
+   35.048858  688/688  D/ScalarALauncher: onConfigurationChanged oldLocale=null, newLocale=en_US
+   35.053296  586/601  D/InputMethodManagerService: clearCurMethodLocked:kill com.sony.scalar.dlsys.scalarasoftkeyboard
+   35.053535  586/601  I/Process: Sending signal. PID: 647 SIG: 9
+   35.053791  586/601  D/InputMethodManagerService: don't storeSettings because android don't display yet
+   35.089926  688/688  D/ScalarALauncher.AllAppsGridView: setMode from null to APP_LIST
+   35.100480  688/688  D/ScalarALauncher.AllAppsGridView: setApps Gridview checkFocus
+   35.100527  688/688  D/ScalarALauncher.AllAppsGridView: setApps Gridview requestFocus
+   35.100627  688/688  D/ScalarALauncher: setMode from BLACK to BLACK
+   35.100785  688/688  D/ScalarALauncher.AllAppsGridView: setMode from APP_LIST to BLACK
+   35.106460  688/688  D/ScalarALauncher.Model: new terminate is called
+   35.113682  586/596  I/ActivityManager: Process com.sony.scalar.dlsys.scalarasoftkeyboard (pid 647) has died.
+   35.121137  688/688  D/ScalarALauncher.Model: startLoader isLaunching=true
+   35.121351  688/688  D/ScalarALauncher: onConfigurationChanged E
+   35.121530  688/720  D/ScalarALauncher.Model: LoaderTask#run start:33936
+   35.121623  688/720  D/ScalarALauncher.Model: loadAndBindAllApps mAllAppsLoaded=false
+   35.121854  688/720  D/ScalarALauncher.Model: call queryIntentActivities 33937
+   35.126535  688/720  D/ScalarALauncher.Model: called queryIntentActivities 33941
+   35.126642  688/720  D/ScalarALauncher.Model: queryIntentActivities got 3 apps
+   35.126954  688/720  D/ScalarALauncher.Model: start loading icon:33942
+   35.137701  688/720  D/IconCahce: activityLabel = Application
+Management
+   35.137798  688/720  D/IconCahce: ActivityLabel is used
+   35.138115  688/720  D/IconCahce: entry.title = Application
+Management
+   35.155891  688/720  D/IconCahce: activityLabel = Smart Remote
+Embedded
+   35.155945  688/720  D/IconCahce: ActivityLabel is used
+   35.156014  688/720  D/IconCahce: entry.title = Smart Remote
+Embedded
+   35.180728  688/720  D/IconCahce: activityLabel = PlayMemories
+Camera Apps
+   35.181090  688/720  D/IconCahce: ActivityLabel is used
+   35.181318  688/720  D/IconCahce: entry.title = PlayMemories
+Camera Apps
+   35.189788  688/720  D/ScalarALauncher.Model: finish loading icon:34005
+   35.193059  688/720  D/ScalarALauncher.Model: finish rearranging apps:34008
+   35.193276  688/720  D/ScalarALauncher.Model: saveAlignment head:34008
+   35.197972  688/720  D/ScalarALauncher.Model: saveAlignment end:34013
+   35.198103  688/720  D/ScalarALauncher.Model: finish loading appinfo:34013
+   35.198423  688/720  D/ScalarALauncher.Model: called loadAndBindAllApps:34013
+   35.198547  688/688  D/ScalarALauncher.Model: call bindAllApplications:34013
+   35.198638  688/720  D/ScalarALauncher.Model: LoaderTask#run end:34013
+   35.198723  688/688  D/ScalarALauncher.AllAppsGridView: setApps Gridview checkFocus
+   35.198767  688/688  D/ScalarALauncher.AllAppsGridView: setApps Gridview requestFocus
+   35.199404  688/688  D/ScalarALauncher.Model: called bindAllApplications:34014
+    2.645471  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    2.650962  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=7
+    2.666102  586/618  W/WindowManager: ***** BOOT TIMEOUT: forcing display enabled
+    2.670278  586/611  V/BATT: update()
+    2.670328  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.670439  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.674370  196/656  I/SurfaceFlinger: Boot is finished (63363 ms)
+    2.694804  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    2.695214  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    2.695605  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    2.695974  586/613  V/BatteryService: BS_notify_cb: from 9241c2
+    2.696424  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    2.738569  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=8
+    2.739779  586/611  V/BATT: update()
+    2.739906  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.741943  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.743021  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=9
+    2.743311  586/611  V/BATT: update()
+    2.744687  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.745831  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.745929  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=10
+    2.746025  586/611  V/BATT: update()
+    2.746056  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.746210  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.746306  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=11
+    2.746373  586/611  V/BATT: update()
+    2.746403  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.746482  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.746541  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=12
+    2.746592  586/611  V/BATT: update()
+    2.746613  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    2.746715  586/611  V/BatteryService: android_server_BatteryService_update: End (1, 0, 2, 0, 100)
+    2.749434  586/618  I/WindowManager: Aspect: 43
+    2.749522  586/618  I/WindowManager: Aspect: 43
+    2.749687  586/618  I/WindowManager: Aspect: 43
+    2.749758  586/618  I/WindowManager: Aspect: 43
+    3.055806  586/598  V/NativeSyncAndroid: SyncAndroid_notify_cb: Res(8)
+    3.055970  586/598  V/SyncAndroidService: :Resume: im_type=8
+    3.069184  586/619  I/WindowManager: Aspect: 43
+    3.069270  586/619  I/WindowManager: Aspect: 43
+    3.071684  586/619  I/WindowManager: Aspect: 43
+    3.071754  586/619  I/WindowManager: Aspect: 43
+    3.072566  586/619  I/ActivityManager: Config changed: {1.0 0mcc0mnc en_US sw288dp w384dp h263dp smll long land -touch -keyb/v/h dpad/v s.6}
+    3.077945  586/598  D/PackageManager: The following path will be sync !!: /data/app /data/app-private
+    3.091084  688/688  D/ScalarALauncher: onConfigurationChanged S:newConfig={1.0 0mcc0mnc en_US sw288dp w384dp h263dp smll long land -touch -keyb/v/h dpad/v s.6}
+    3.091264  688/688  D/ScalarALauncher: onConfigurationChanged oldLocale=en_US, newLocale=en_US
+    3.091512  688/688  D/ScalarALauncher: onConfigurationChanged E
+    3.275022  586/613  V/BatteryService: BS_notify_cb: from 9241c2
+    3.275164  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=13
+    3.275328  586/611  V/BATT: update()
+    3.275394  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    3.275503  586/611  V/BatteryService: android_server_BatteryService_update: End (0, 0, 3, 1, 100)
+    3.301669  586/613  V/BatteryService: BS_notify_cb: from 924126
+    3.304736  586/599  V/BatteryService: BS_notify_cb: from 924126
+    3.375176  586/611  W/BatteryStatsImpl: Couldn't get kernel wake lock stats
+    3.410066  586/601  D/InputMethodManagerService: don't storeSettings because android don't display yet
+    3.410514  586/601  D/InputMethodManagerService: don't storeSettings because android don't display yet
+    3.453735  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=14
+    3.454001  586/611  V/BATT: update()
+    3.454052  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    3.454198  586/611  V/BatteryService: android_server_BatteryService_update: End (0, 0, 3, 1, 100)
+    3.454290  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=15
+    3.454355  586/611  V/BATT: update()
+    3.454854  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    3.454953  586/611  V/BatteryService: android_server_BatteryService_update: End (0, 0, 3, 1, 100)
+    3.640025  586/598  D/PackageManager: New apk found! name:com.github.ma1co.openmemories.tweak
+    3.644539  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    3.645443  586/612  V/BatteryService: BS_notify_cb: from 9241c2
+    3.645649  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=16
+    3.645848  586/611  V/BATT: update()
+    3.645878  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    3.645984  586/611  V/BatteryService: android_server_BatteryService_update: End (0, 0, 3, 1, 90)
+    3.648331  586/611  V/BatteryService: BS_notify_update_thread: CMD: Update  qid:926119, count=17
+    3.652909  586/611  V/BATT: update()
+    3.656592  586/611  V/BatteryService: android_server_BatteryService_update: Begin
+    3.656731  586/611  V/BatteryService: android_server_BatteryService_update: End (0, 0, 3, 1, 90)
+    3.657321  586/598  I/PackageManager: /data/app/com.a7rii.focus-1.apk changed; collecting certs
+    4.314011  199/199  I/installd: scalara_pkgdir(/data/lib/com.a7rii.focus) is different from pkgdir(/data/data/com.a7rii.focus)
+    4.315848  199/199  I/installd: scalara_libdir(/data/lib/com.a7rii.focus/lib) is different from libdir(/data/data/com.a7rii.focus/lib)
+    4.323422  586/598  D/PackageManager: New apk found! name:com.a7rii.focus
+    4.325340  586/598  I/PackageManager: No files under this dir: /data/app-private
+    4.357049  586/598  D/PackageManager: End in syncAppsFromFilesystemToRam!
+    4.357130  586/598  V/SyncAndroidService: syncAppsFromFilesystemToRam OK
+    4.357177  586/598  V/NativeSyncAndroid: SyncAndroid_notify_cb: Res(8) done.
+    4.368033  586/992  D/PackageManager: broadcasting ACTION_PACKAGE_ADDED continueously for: com.github.ma1co.openmemories.tweak
+    4.371065  586/992  D/PackageManager: broadcasting ACTION_PACKAGE_ADDED continueously for: com.a7rii.focus
+    4.450872  688/688  D/ScalarALauncher.Model: onReceive intent=Intent { act=PackageManagerService.intent.action.ACTION_PACKAGE_LIST_ADDED flg=0x8000010 (has extras) }
+    4.455626  688/688  D/ScalarALauncher.Model: startLoader isLaunching=true
+    4.455926  688/688  D/ScalarALauncher.Model: Posting rendering request for adding now size: 2
+    4.456026  688/720  D/ScalarALauncher.Model: LoaderTask#run start:70601
+    4.456097  688/720  D/ScalarALauncher.Model: loadAndBindAllApps mAllAppsLoaded=false
+    4.484824  688/720  D/ScalarALauncher.Model: call queryIntentActivities 70629
+    4.501952  586/601  D/PackageManager: generateServicesMap(android.accounts.AccountAuthenticator): 0 services unchanged
+    4.572305  586/601  D/PackageManager: generateServicesMap(android.content.SyncAdapter): 0 services unchanged
+    4.585813  688/688  D/ScalarALauncher.Model: onReceive intent=Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.github.ma1co.openmemories.tweak flg=0x8000010 (has extras) }
+    4.586122  586/601  D/BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.github.ma1co.openmemories.tweak flg=0x8000010 (has extras) }
+    4.586346  688/688  D/ScalarALauncher.Model: Skipping the installed icon for apk: com.github.ma1co.openmemories.tweaknum: 2
+    4.593153  688/720  D/ScalarALauncher.Model: called queryIntentActivities 70738
+    4.593248  688/720  D/ScalarALauncher.Model: queryIntentActivities got 5 apps
+    4.593350  688/720  D/ScalarALauncher.Model: start loading icon:70738
+    4.632082  688/688  D/ScalarALauncher.Model: onReceive intent=Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.a7rii.focus flg=0x8000010 (has extras) }
+    4.632387  688/688  D/ScalarALauncher.Model: Skipping the installed icon for apk: com.a7rii.focusnum: 1
+    4.632464  688/688  D/ScalarALauncher.Model: notifySSBComplete
+    4.632515  688/688  D/ScalarALauncher: onSSBCompleted
+    4.644272  688/720  W/ResourceType: No package identifier when getting value for resource number 0x00000000
+    4.651013  586/601  V/BackupManagerService: addPackageParticipantsLocked: #1
+    4.680880  688/720  W/System.err: android.content.res.Resources$NotFoundException: String resource ID #0x0
+    4.685015  586/601  D/PackageManager: generateServicesMap(android.accounts.AccountAuthenticator): 0 services unchanged
+    4.685334  586/601  D/PackageManager: generateServicesMap(android.content.SyncAdapter): 0 services unchanged
+    4.685756  586/601  D/BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.a7rii.focus flg=0x8000010 (has extras) }
+    4.703330  586/601  V/BackupManagerService: addPackageParticipantsLocked: #1
+    4.751568  688/720  W/System.err: 	at android.content.res.Resources.getText(Resources.java:229)
+    4.751931  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.IconCache.cacheLocked(IconCache.java:149)
+    4.752279  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.IconCache.getTitleAndIcon(IconCache.java:92)
+    4.752509  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ApplicationInfo.<init>(ApplicationInfo.java:62)
+    4.752739  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadApplicationInfo(ScalarALauncherModel.java:544)
+    4.753114  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAllAppsByBatch(ScalarALauncherModel.java:509)
+    4.753351  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAndBindAllApps(ScalarALauncherModel.java:431)
+    4.753571  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.run(ScalarALauncherModel.java:346)
+    4.753765  688/720  W/System.err: 	at android.os.Handler.handleCallback(Handler.java:672)
+    4.754056  688/720  W/System.err: 	at android.os.Handler.dispatchMessage(Handler.java:93)
+    4.754751  688/720  W/System.err: 	at android.os.Looper.loop(Looper.java:137)
+    4.754932  688/720  W/System.err: 	at android.os.HandlerThread.run(HandlerThread.java:60)
+    4.755912  688/720  D/IconCahce: applicationLabel = OpenMemories: Tweak
+    4.755960  688/720  D/IconCahce: ApplicationLabel is used
+    4.756015  688/720  D/IconCahce: entry.title = OpenMemories: Tweak
+    4.846031  586/624  I/InputReader: Reconfiguring input devices.  changes=0x00000010
+    4.924568  586/609  W/RecognitionManagerService: no available voice recognition services found
+    4.925311  586/609  W/Searchables: No global search activity found
+    4.928468  586/624  I/InputReader: Reconfiguring input devices.  changes=0x00000010
+    4.932162  586/609  W/RecognitionManagerService: no available voice recognition services found
+    4.933718  586/609  W/Searchables: No global search activity found
+    5.128210  688/720  W/ResourceType: No package identifier when getting value for resource number 0x00000000
+    5.128582  688/720  W/System.err: android.content.res.Resources$NotFoundException: String resource ID #0x0
+    5.129349  688/720  W/System.err: 	at android.content.res.Resources.getText(Resources.java:229)
+    5.129508  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.IconCache.cacheLocked(IconCache.java:149)
+    5.130310  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.IconCache.getTitleAndIcon(IconCache.java:92)
+    5.132084  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ApplicationInfo.<init>(ApplicationInfo.java:62)
+    5.132416  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadApplicationInfo(ScalarALauncherModel.java:544)
+    5.134290  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAllAppsByBatch(ScalarALauncherModel.java:509)
+    5.135530  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAndBindAllApps(ScalarALauncherModel.java:431)
+    5.136526  688/720  W/System.err: 	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.run(ScalarALauncherModel.java:346)
+    5.137768  688/720  W/System.err: 	at android.os.Handler.handleCallback(Handler.java:672)
+    5.138542  688/720  W/System.err: 	at android.os.Handler.dispatchMessage(Handler.java:93)
+    5.138877  688/720  W/System.err: 	at android.os.Looper.loop(Looper.java:137)
+    5.141390  688/720  W/System.err: 	at android.os.HandlerThread.run(HandlerThread.java:60)
+    5.141803  688/720  D/IconCahce: applicationLabel = A7RII Focus
+    5.141836  688/720  D/IconCahce: ApplicationLabel is used
+    5.141885  688/720  D/IconCahce: entry.title = A7RII Focus
+    5.181431  688/720  W/dalvikvm: threadid=10: thread exiting with uncaught exception (group=0x54c7330)
+    5.218408  688/720  E/AndroidRuntime: FATAL EXCEPTION: ScalarALauncher-loader
+java.lang.ClassCastException: android.graphics.drawable.GradientDrawable cannot be cast to android.graphics.drawable.BitmapDrawable
+	at com.sony.scalar.dlsys.scalaralauncher.IconCache.cacheLocked(IconCache.java:194)
+	at com.sony.scalar.dlsys.scalaralauncher.IconCache.getTitleAndIcon(IconCache.java:92)
+	at com.sony.scalar.dlsys.scalaralauncher.ApplicationInfo.<init>(ApplicationInfo.java:62)
+	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadApplicationInfo(ScalarALauncherModel.java:544)
+	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAllAppsByBatch(ScalarALauncherModel.java:509)
+	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.loadAndBindAllApps(ScalarALauncherModel.java:431)
+	at com.sony.scalar.dlsys.scalaralauncher.ScalarALauncherModel$LoaderTask.run(ScalarALauncherModel.java:346)
+	at android.os.Handler.handleCallback(Handler.java:672)
+	at android.os.Handler.dispatchMessage(Handler.java:93)
+	at android.os.Looper.loop(Looper.java:137)
+	at android.os.HandlerThread.run(HandlerThread.java:60)

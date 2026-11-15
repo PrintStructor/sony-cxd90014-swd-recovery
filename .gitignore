@@ -1,0 +1,6 @@
+# Never commit device dumps, APKs or backups
+*.bin
+*.apk
+*.dex
+sicherung*/
+.DS_Store

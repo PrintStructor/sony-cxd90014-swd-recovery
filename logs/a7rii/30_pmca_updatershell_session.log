@@ -1,0 +1,115 @@
+Using drivers libusb-MSC, libusb-MTP, libusb-vendor-specific
+Looking for Sony devices
+Querying mass storage device
+Sony DSC is a camera in updater mode
+fdat 13312 Bytes, Gerät SonyMscUpdaterDevice
+Initializing firmware update
+Writing firmware
+100%
+SHELL BEREIT
+>>> info
+Model:              ILCE-7RM2
+Product code:       32828030
+Serial number:      <SERIAL>
+Backup region:      CX79501_CEC
+Firmware version:   4.01
+Android platform version: 2.14
+<<< fertig
+>>> mount
+Android-Daten eingehängt unter: /mnt
+<<< fertig
+>>> sh ls -la /mnt; ls -la /mnt/app /mnt/app-private /mnt/lib; ls -la /mnt/system; ls -la /mnt/data | head -40; ls -la /mnt/dalvik-cache 2>/dev/null | grep -i -E "a7rii|openmemories"; df -h /mnt 2>/dev/null
+sh: can't access tty; job control turned off
+BusyBox v1.13.4 (2012-07-17 15:11:04 JST) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+/ # drwxrwxrwx   20 0        0           16384 Jan  1  1970 .
+drwxrwxr-x    1 57762    232           396 Jan  1  1970 ..
+drwxrwxrwx    2 65535    65535        2048 Nov  6  2026 app
+drwx------    2 0        0            2048 Jan  1  1980 app-asec
+drwxrwxrwx    2 65535    65535        2048 Jan  1  1980 app-private
+drwxrwxrwx    4 0        0            2048 Jan  1  1980 backup
+drwxrwxrwx    2 65535    65535        2048 Nov  6  2026 dalvik-cache
+drwxrwxrwx   20 1000     1000         1024 Jan  1  1970 data
+drwxr-xr-x    2 0        0            2048 Jan  1  1980 dontpanic
+drwxrwxrwx    2 65535    65535        2048 Jan  1  1980 drm
+drwxr-xr-x   20 65535    65535        4096 Nov  6  2026 lib
+drwxr-xr-x    3 0        0            2048 Jan  1  1980 local
+drwxrwxrwx    2 0        0            2048 Jan  1  1980 lost+found
+drwxrwxrwx    2 65535    65535        2048 Jan  1  1980 media
+drwxrwxrwx    9 65535    65535        2048 Jan  1  1980 misc
+drwx------    2 0        0            2048 Jan  1  1980 property
+drwxrwxrwx    2 65535    65535        2048 Jan  1  1980 resource-cache
+-rwx------    1 65535    65535         100 Jan  1  1980 resume_info.txt
+drwxr-xr-x    3 0        0            2048 Jan  1  1980 ssh
+drwxrwxr-x   11 1000     1000         1024 Jan  1  1970 system
+drwx--x--x    2 65535    65535        2048 Jan  1  1980 user
+/mnt/app:
+drwxrwxrwx    2 65535    65535        2048 Nov  6  2026 .
+drwxrwxrwx   20 0        0           16384 Jan  1  1970 ..
+-rw-r--r--    1 65535    65535 <size/date removed> com.a7rii.focus-1.apk
+-rw-r--r--    1 65535    65535       84606 Jan  1  1980 com.github.ma1co.openmemories.tweak-1.apk
+/mnt/app-private:
+drwxrwxrwx    2 65535    65535        2048 Jan  1  1980 .
+drwxrwxrwx   20 0        0           16384 Jan  1  1970 ..
+/mnt/lib:
+drwxr-xr-x   20 65535    65535        4096 Nov  6  2026 .
+drwxrwxrwx   20 0        0           16384 Jan  1  1970 ..
+drwxr-xr-x    3 65535    65535 <size/date removed> com.a7rii.focus
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.android.defcontainer
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.android.inputdevices
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.android.providers.settings
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.android.providers.userdictionary
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.github.ma1co.openmemories.tweak
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.imaging.app.srctrl
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.scalar.app.hotspot
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.scalar.app.wifisettings
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.scalar.dlsys.scalaraappmanager
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.scalar.dlsys.scalaradisclaimer
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.scalar.dlsys.scalarainstaller
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.scalar.dlsys.scalaralauncher
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.scalar.dlsys.scalaramarket
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.scalar.dlsys.scalarasoftkeyboard
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.scalar.dlsys.scalarausbdlapp
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.scalar.lib.webapiddservice
+drwxr-xr-x    3 65535    65535        2048 Jan  1  1980 com.sony.scalar.providers.avindex
+drwxrwxr-x   11 1000     1000         1024 Jan  1  1970 .
+drwxrwxrwx   20 0        0           16384 Jan  1  1970 ..
+drwx------    2 1000     1000         1024 Jan  1  1970 dropbox
+-rw-------    1 1000     1000         4096 Jan  1  1970 entropy.dat
+drwx------    2 1000     1000         1024 Jan  1  1970 inputmethod
+drwx------    2 0        0           12288 Jan  1  1970 lost+found
+drwx------    2 1000     1000         1024 Jan  1  1970 netstats
+-rw-rw----    1 1000     1000         1151 Jan  1  1970 packages.list
+-rw-rw----    1 1000     1000        30851 Jan  1  1970 packages.xml
+drwx------    2 1000     1000         1024 Jan  1  1970 sync
+drwx------    2 1000     1000         1024 Jan  1  1970 throttle
+-rwxrwxr--    1 1000     1000         7220 Jan  1  1970 uiderrors.txt
+drwx------    2 1000     1000         1024 Jan  1  1970 usagestats
+drwxrwxr-x    3 1000     1000         1024 Jan  1  1970 users
+drwxr-x---    2 1010     1010         1024 Jan  1  1970 wpa_supplicant
+-rw-rw----    1 1000     1010          402 Jan  1  1970 wpa_supplicant.conf
+-rw-rw----    1 1000     1010          720 Jan  1  1970 wpa_supplicant_p2p.conf
+sh: head: not found
+-rw-r--r--    1 65535    65535 <size/date removed> data@app@com.a7rii.focus-1.apk@classes.dex
+-rw-r--r--    1 65535    65535       50336 Jan  1  1980 data@app@com.github.ma1co.openmemories.tweak-1.apk@classes.dex
+/ # 
+<<< fertig
+>>> sh rm /mnt/app/com.a7rii.focus-1.apk; rm "/mnt/dalvik-cache/data@app@com.a7rii.focus-1.apk@classes.dex"; rm -r /mnt/lib/com.a7rii.focus; sync; echo ---; ls -la /mnt/app; ls /mnt/dalvik-cache; ls /mnt/lib | grep -c a7rii
+sh: can't access tty; job control turned off
+BusyBox v1.13.4 (2012-07-17 15:11:04 JST) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+/ # ---
+drwxrwxrwx    2 65535    65535        2048 Jan  1 00:08 .
+drwxrwxrwx   20 0        0           16384 Jan  1  1970 ..
+-rw-r--r--    1 65535    65535       84606 Jan  1  1980 com.github.ma1co.openmemories.tweak-1.apk
+data@app@com.github.ma1co.openmemories.tweak-1.apk@classes.dex
+0
+/ # 
+<<< fertig
+>>> umount 0
+ausgehängt
+<<< fertig
+>>> quit
+Shell beendet
+Done
+Programm beendet

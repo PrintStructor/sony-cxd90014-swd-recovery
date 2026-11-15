@@ -1,0 +1,61 @@
+Open On-Chip Debugger 0.12.0
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+debug_level: 2
+
+Info : Using CMSIS-DAPv2 interface with VID:PID=0x2e8a:0x000c, serial=<PROBE-SERIAL>
+Info : CMSIS-DAP: SWD supported
+Info : CMSIS-DAP: Atomic commands supported
+Info : CMSIS-DAP: Test domain timer supported
+Info : CMSIS-DAP: FW Version = 2.0.0
+Info : CMSIS-DAP: Interface Initialised (SWD)
+Info : SWCLK/TCK = 0 SWDIO/TMS = 0 TDI = 0 TDO = 0 nTRST = 0 nRESET = 1
+Info : CMSIS-DAP: Interface ready
+Info : clock speed 100 kHz
+Info : SWD DPIDR 0x3ba02477
+Info : gdb port disabled
+Info : gdb port disabled
+DBGDIDR  Kern 0 (0x80110000):
+0x80110000: 1203f001 
+
+DBGDSCR  Kern 0 (0x80110088, externe Sicht, ohne Nebenwirkung):
+0x80110088: 02000002 
+
+MIDR/CPUID Kern 0 (0x80110d00, A5000/A6000: 0x410fc05x = Cortex-A5):
+0x80110d00: 410fc051 
+
+PC-Stichproben Kern 0 (DBGPCSR 0x80110084), 8x:
+0x80110084: 40049f40 
+
+0x80110084: 40049f40 
+
+0x80110084: 40049f40 
+
+0x80110084: 40049f40 
+
+0x80110084: 40049f40 
+
+0x80110084: 40049f40 
+
+0x80110084: 40049f40 
+
+0x80110084: 40049f40 
+
+BootROM-Kopf 0xffff0000:
+0xffff0000: ea000014 ea000005 ea000004 ea000003 ea000002 ea000001 ea000000 eaffffff 
+
+dumped 24576 bytes in 3.849890s (6.234 KiB/s)
+
+RAM 0xc01f0000 (A5000: Loader3-Einstieg):
+0xc01f0000: ea000008 ea000005 ea000004 ea000003 ea000002 ea000001 ea000000 eaffffff 
+
+RAM 0xc01f15b0 (A5000: Updater-Prüfung):
+0xc01f15b0: 22004cf5 e0074df5 4283785b f855d103 2b013022 1c52d006 1342eb04 2e17781e 
+
+RAM 0xc01f1e10 (A5000: BootMode-Auswahl):
+0xc01f1e10: f002380b 2800fbf2 f003db10 7b82f905 f89d7b40 f0001004 f01100f0 eb020f20 
+
+dumped 135168 bytes in 21.268547s (6.206 KiB/s)
+
+shutdown command invoked

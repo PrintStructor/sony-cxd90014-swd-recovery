@@ -1,0 +1,85 @@
+Open On-Chip Debugger 0.12.0
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+debug_level: 2
+
+Info : Using CMSIS-DAPv2 interface with VID:PID=0x2e8a:0x000c, serial=<PROBE-SERIAL>
+Info : CMSIS-DAP: SWD supported
+Info : CMSIS-DAP: Atomic commands supported
+Info : CMSIS-DAP: Test domain timer supported
+Info : CMSIS-DAP: FW Version = 2.0.0
+Info : CMSIS-DAP: Interface Initialised (SWD)
+Info : SWCLK/TCK = 0 SWDIO/TMS = 0 TDI = 0 TDO = 0 nTRST = 0 nRESET = 1
+Info : CMSIS-DAP: Interface ready
+Info : clock speed 1000 kHz
+Info : SWD DPIDR 0x3ba02477
+Info : gdb port disabled
+Info : gdb port disabled
+Info : gdb port disabled
+      0 ms  Stufe 3 gestartet. Warte auf Kern 0 im Loader3 ...
+      1 ms  Kern 0 im Loader3 (PCSR c01f4ced) -> anhalten
+Info : a7rm2.cpu0: hardware has 3 breakpoints, 2 watchpoints
+Info : a7rm2.cpu0: MPIDR level2 0, cluster 0, core 0, multi core, no SMT
+target halted in ARM state due to debug-request, current mode: Supervisor
+cpsr: 0x800001d3 pc: 0xc01f2fb8
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+     55 ms  Angehalten bei pc c01f2fb8
+     65 ms  Code-Abgleich OK (5 Blöcke identisch mit Dump vom 14.11.).
+Error: no breakpoint at address 0xc01f15a2 found
+Error: no breakpoint at address 0xc01f152c found
+Error: no breakpoint at address 0xc01f1362 found
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x400001f3 pc: 0xc01f15a2
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+   2056 ms  Treffer chk_updater: r0 fffffed2 -> 00000000 (zurückgelesen 00000000)
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x600001f3 pc: 0xc01f15a4
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+Error: Error connecting DP: cannot read IDR
+Polling target a7rm2.cpu0 failed, trying to reexamine
+Info : SWD DPIDR 0x3ba02477
+Info : a7rm2.cpu0: hardware has 3 breakpoints, 2 watchpoints
+   5896 ms  Kein Treffer innerhalb 4 s (Zyklus verpasst?) -> neuer Versuch beim nächsten Start.
+target halted in Thumb state due to debug-request, current mode: Supervisor
+cpsr: 0x200001f3 pc: 0xc00310e0
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+   6534 ms  Kern 0 im Loader3 (PCSR c01f931f) -> anhalten
+target halted in Thumb state due to debug-request, current mode: Supervisor
+cpsr: 0x000001f3 pc: 0xc01fae82
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+   6573 ms  Angehalten bei pc c01fae82
+   6584 ms  Code-Abgleich OK (5 Blöcke identisch mit Dump vom 14.11.).
+Error: no breakpoint at address 0xc01f15a2 found
+Error: no breakpoint at address 0xc01f152c found
+Error: no breakpoint at address 0xc01f1362 found
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x400001f3 pc: 0xc01f15a2
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+   6746 ms  Treffer chk_updater: r0 fffffed2 -> 00000000 (zurückgelesen 00000000)
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x600001f3 pc: 0xc01f15a4
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x400001f3 pc: 0xc01f15a2
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+   6840 ms  Treffer chk_updater: r0 fffffed2 -> 00000000 (zurückgelesen 00000000)
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x600001f3 pc: 0xc01f15a4
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x200001f3 pc: 0xc01f152c
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+   6931 ms  Treffer set_bootmode aus BOM (lr c01f1737): Modus 3 -> 3 (zurückgelesen 3)
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x200001f3 pc: 0xc01f152e
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x800001f3 pc: 0xc01f1362
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+   7025 ms  Treffer Updater-Lader 0xc01f1362 -> ERFOLG. Breakpoints entfernen, Kamera läuft weiter.
+Error: no breakpoint at address 0xc01f15a2 found
+Error: no breakpoint at address 0xc01f152c found
+Error: no breakpoint at address 0xc01f1362 found
+   7041 ms  Ende: Erfolg=1 Abbruch=0
+shutdown command invoked

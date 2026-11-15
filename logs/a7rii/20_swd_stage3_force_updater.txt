@@ -1,0 +1,14 @@
+      0 ms  Stufe 3 gestartet. Warte auf Kern 0 im Loader3 ...
+      1 ms  Kern 0 im Loader3 (PCSR c01f4ced) -> anhalten
+     55 ms  Angehalten bei pc c01f2fb8
+     65 ms  Code-Abgleich OK (5 Blöcke identisch mit Dump vom 14.11.).
+   2056 ms  Treffer chk_updater: r0 fffffed2 -> 00000000 (zurückgelesen 00000000)
+   5896 ms  Kein Treffer innerhalb 4 s (Zyklus verpasst?) -> neuer Versuch beim nächsten Start.
+   6534 ms  Kern 0 im Loader3 (PCSR c01f931f) -> anhalten
+   6573 ms  Angehalten bei pc c01fae82
+   6584 ms  Code-Abgleich OK (5 Blöcke identisch mit Dump vom 14.11.).
+   6746 ms  Treffer chk_updater: r0 fffffed2 -> 00000000 (zurückgelesen 00000000)
+   6840 ms  Treffer chk_updater: r0 fffffed2 -> 00000000 (zurückgelesen 00000000)
+   6931 ms  Treffer set_bootmode aus BOM (lr c01f1737): Modus 3 -> 3 (zurückgelesen 3)
+   7025 ms  Treffer Updater-Lader 0xc01f1362 -> ERFOLG. Breakpoints entfernen, Kamera läuft weiter.
+   7041 ms  Ende: Erfolg=1 Abbruch=0

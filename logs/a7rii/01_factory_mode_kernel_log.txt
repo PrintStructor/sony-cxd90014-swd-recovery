@@ -1,0 +1,131 @@
+>[    0.981560]     modules : 0x3f000000 - 0x40000000   (  16 MB)
+<5>[    0.981572]       .text : 0x40038000 - 0x4039f024   (3485 kB)
+<5>[    0.981584]       .init : 0x403a0000 - 0x403cc500   ( 178 kB)
+<5>[    0.981596]       .data : 0x403ce000 - 0x403fdc80   ( 192 kB)
+<5>[    0.981608]        .bss : 0x403fdc80 - 0x40441048   ( 269 kB)
+<6>[    0.982165] NR_IRQS:256
+<6>[    0.985879] sched_clock: 32 bits at 2000kHz, resolution 500ns, wraps every 2147483ms
+<4>[    0.985918] cxd4115_clocksource_init: 4194304000 23 
+<6>[    1.078976] allocated 18874368 bytes of page_cgroup
+<6>[    1.078997] please try 'cgroup_disable=memory' option if you don't want memory cgroups
+<6>[    1.079235] Calibrating delay loop (skipped) preset value.. 334.23 BogoMIPS (lpj=1671168)
+<6>[    1.079269] pid_max: default: 4096 minimum: 301
+<6>[    1.080003] Mount-cache hash table entries: 512
+<6>[    1.081576] Initializing cgroup subsys memory
+<6>[    1.081872] CPU: Testing write buffer coherency: ok
+<7>[    1.159798] Synthetic TSC timer will fire each 131104 jiffies.
+<4>[    1.236445] CPU1: Booted secondary processor
+<4>[    1.297821] CPU2: Booted secondary processor
+<4>[    1.299960] CPU3: Booted secondary processor
+<6>[    1.300192] Brought up 4 CPUs
+<6>[    1.300217] SMP: Total of 4 processors activated.
+<6>[    1.330627] NET: Registered protocol family 16
+<4>[    1.331557] resume vector: 0x80021054
+<4>[    1.331577] resume entry:  0x80052d2c
+<4>[    1.331595] sus_error address: 0x80021060
+<7>[    1.333973] pcie_refclk: 0
+<6>[    1.360608] bio: create slab <bio-0> at 0
+<6>[    1.363383] Switching to clocksource cxd4105-freerun-timer
+<6>[    1.366367] NET: Registered protocol family 2
+<6>[    1.366839] IP route cache hash table entries: 2048 (order: 1, 8192 bytes)
+<6>[    1.368063] TCP established hash table entries: 8192 (order: 4, 65536 bytes)
+<6>[    1.368507] TCP bind hash table entries: 8192 (order: 6, 262144 bytes)
+<6>[    1.369539] TCP: Hash tables configured (established 8192 bind 8192)
+<6>[    1.369565] TCP reno registered
+<6>[    1.370687] NET: Registered protocol family 1
+<7>[    1.370774] PCI: CLS 0 bytes, default 32
+<6>[    1.371408] Trying to unpack rootfs image as initramfs...
+<6>[    1.372199] rootfs image is not initramfs (junk in compressed archive); looks like an initrd
+<6>[    1.477612] Freeing initrd memory: 8192K
+<6>[    1.477799] PMU: registered new PMU device of type 0
+<4>[    1.478549] hwtimer cpu0 OK
+<4>[    1.478647] hwtimer cpu1 OK
+<4>[    1.478718] hwtimer cpu2 OK
+<4>[    1.478787] hwtimer cpu3 OK
+<4>[    1.478840] hwtimer jitter 0
+<6>[    1.480960] klog: initialize logging buffer: 0x00020000@0x834e0000, magic wrong nbit: 20(0x00000000)
+<6>[    1.489345] console [klog0] enabled
+<6>[    1.491866] ashmem: initialized
+<6>[    1.493548] fuse init (API version 7.16)
+<6>[    1.494036] msgmni has been set to 393
+<6>[    1.496090] io scheduler noop registered (default)
+<6>[    1.496745] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+<6>[    1.496998] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+<6>[    1.497594] uart0: ttyAM0 at MMIO 0xf2000000 (irq = 150) is a AMBA/PL011
+<6>[    1.498072] uart2: ttyAM1 at MMIO 0xf2002000 (irq = 152) is a AMBA/PL011
+<6>[    1.499576] console [ttynull0] enabled
+<4>[    1.499647] ttynull: NULL console driver $Revision: 1.1.2.1 $
+<6>[    1.513424] brd: module loaded
+<6>[    1.520848] loop: module loaded
+<6>[    1.520926] CompSwap: num_devices not specified. Using default: 1
+<6>[    1.521032] CompSwap: Creating 1 devices ...
+<4>[    1.522149] Register CompSwap LZO compressor/decompressor
+<6>[    1.524634] mousedev: PS/2 mouse device common for all mice
+<6>[    1.525893] Logger@Get alog.addr: 8345ffc0 & alog.size: 384K
+<6>[    1.526083] log_main start: 4345ffc0-trailer: 4349ffc0-nxt addr: 4349ffe0-magic: MAIN
+<6>[    1.526225] log_events start: 4349ffe0-trailer: 434bffe0-nxt addr: 434c0000-magic: EVENTS
+<6>[    1.526579] logger: created 256K log 'log_main'
+<6>[    1.526833] logger: created 128K log 'log_events'
+<6>[    1.527088] logger: created 64K log 'log_radio'
+<6>[    1.527914] IPv4 over IPv4 tunneling driver
+<6>[    1.529142] GRE over IPv4 demultiplexor driver
+<6>[    1.529230] GRE over IPv4 tunneling driver
+<6>[    1.530408] ip_tables: (C) 2000-2006 Netfilter Core Team
+<6>[    1.530994] TCP cubic registered
+<6>[    1.531598] NET: Registered protocol family 10
+<6>[    1.534536] Mobile IPv6
+<6>[    1.534602] IPv6 over IPv4 tunneling driver
+<6>[    1.537429] NET: Registered protocol family 17
+<6>[    1.537564] lib80211: common routines for IEEE802.11 drivers
+<7>[    1.537672] lib80211_crypt: registered algorithm 'NULL'
+<6>[    1.537714] VFP support v0.3: implementor 41 architecture 2 part 30 variant 5 rev 1
+<6>[    1.539087] sony_usb_init: CXD4132
+<6>[    1.539338] f_usb20hdc_udc f_usb20hdc_udc.0: F_USB20HDC UDC driver (version 1.0.5) is registered.
+<3>[    1.539794] /vobs/Kernel_131H/drivers/rtc/hctosys.c: unable to open rtc device (rtc0)
+<5>[    1.540913] RAMDISK: ext2 filesystem found at block 0
+<5>[    1.541037] RAMDISK: Loading 4036KiB [1 disk] into ram disk... |/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|done.
+<6>[    1.769598] VFS: Mounted root (ext2 filesystem) on device 1:0.
+<6>[    1.770641] Freeing init memory: 176K
+<4>[    1.770728] default_nodeorder is not valid. Force it to 0.
+<4>[    1.816688] devno: module license 'unspecified' taints kernel.
+<4>[    1.816813] Disabling lock debugging due to kernel taint
+<4>[    1.840568] 
+<6>[    1.840621]  nflasha0: p1 p2 p3 p4 p5 p6 p7 p10 p11 p15 p16 p17 p18 p23wb_default_device: sector_size=0x40000,phys_sector_size=0x200
+<4>[    1.845810] WBI partition[5]: id=2, start_secor=0, num_sectors=100864
+<4>[    1.898579] Set MinDrv: b-252
+<6>[    2.055921] !!! GPE HW: async fix 0x00000500 0x00000020 -> disabled.
+<4>[    2.056072] !!! GPE HW: bar remapped 0xf1000000->0xf1000000 size 4000
+<4>[    2.110338] p_reg c2a32d00
+<4>[    2.163399] [BEAUNE_DRVIVER][DEBUG]: insmod start, /home/jp10239/git-work/build/151H/151H.DSLR.GC.reco.LATEST.diadem.set/DSP-Drivers-Beaune_141H/driver/bdrv_driver.c, 135
+<4>[    2.164145] [BEAUNE_DRVIVER][DEBUG]: insmod done, /home/jp10239/git-work/build/151H/151H.DSLR.GC.reco.LATEST.diadem.set/DSP-Drivers-Beaune_141H/driver/bdrv_driver.c, 148
+<4>[    2.166745] init (1): /proc/1/oom_adj is deprecated, please use /proc/1/oom_score_adj instead.
+<4>[    3.704201] ----------------------------------------
+<4>[    3.704310] LIRO (liro) rev:4-MUSASHI
+<4>[    3.704380] Param:adrs=83541000, debug=0, delay=0
+<4>[    3.704545] entry point:43541000
+<4>[    3.704836] tsk_entry
+<4>[    3.704890] tsk_entry - 48
+<4>[    3.704942] API support list
+<4>[    3.704995]   OSAL
+<4>[    3.705034]   Backup 2
+<4>[    3.705087] entry(pre)  - 43541044
+<4>[    3.705150] entry(main) - 43541058
+<4>[    3.705213] suspend     - 43541068
+<4>[    3.705276] resume      - 43541078
+<4>[    3.705339] exit        - 43541088
+<4>[    3.705401] func1       - 43541098
+<4>[    3.705464] func2       - 4354109c
+<4>[    3.705527] func3       - 435410a0
+<4>[    3.705591] ram 4416b700 + 0008fc50
+<4>[    3.705657] bss 43e08750 + 002eb3ec
+<4>[    3.705722] tail 44295200 + 00000004
+<4>[    3.705789] limit 44340ffc + 00000004
+<4>[    3.705858] start entry_pre(43541044)
+<4>[    3.736088] end entry_pre
+<4>[    3.736163] start entry_main(43541058)
+<4>[    3.748667] end entry_main
+<4>[    4.084193] wlanMemoryAllocator: Memory Allocated. g_pMemGfpKernel[0] = 40a78000, size = 32768
+<4>[    4.084459] wlanMemoryAllocator: Memory Allocated. g_pMemGfpKernel[1] = 40a18000, size = 32768
+<4>[    4.084708] wlanMemoryAllocator: Memory Allocated. g_pMemGfpKernelDma[0] = 40a00000, size = 32768
+<4>[    6.018057] MMC:Failed mcmnd_api_checkmediapower
+

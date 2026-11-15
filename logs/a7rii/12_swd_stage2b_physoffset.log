@@ -1,0 +1,23 @@
+Open On-Chip Debugger 0.12.0
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+debug_level: 2
+
+Info : Using CMSIS-DAPv2 interface with VID:PID=0x2e8a:0x000c, serial=<PROBE-SERIAL>
+Info : CMSIS-DAP: SWD supported
+Info : CMSIS-DAP: Atomic commands supported
+Info : CMSIS-DAP: Test domain timer supported
+Info : CMSIS-DAP: FW Version = 2.0.0
+Info : CMSIS-DAP: Interface Initialised (SWD)
+Info : SWCLK/TCK = 0 SWDIO/TMS = 0 TDI = 0 TDO = 0 nTRST = 0 nRESET = 1
+Info : CMSIS-DAP: Interface ready
+Info : clock speed 100 kHz
+Info : SWD DPIDR 0x3ba02477
+Info : gdb port disabled
+PHYS-Kandidat 0x80000000: e321f0d3 eb005a0d
+>>> Kernel gefunden: PHYS_OFFSET = 0x80000000
+log_buf_len 0x2000  log_buf 0x4041ff9d  log_end 13635  log_start 5443  con_start 13635  logged_chars 8192
+dumped 8192 bytes in 1.296908s (6.169 KiB/s)
+
+shutdown command invoked
