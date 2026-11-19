@@ -1,0 +1,70 @@
+Open On-Chip Debugger 0.12.0
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+debug_level: 2
+
+Info : Using CMSIS-DAPv2 interface with VID:PID=0x2e8a:0x000c, serial=<PROBE-SERIAL>
+Info : CMSIS-DAP: SWD supported
+Info : CMSIS-DAP: Atomic commands supported
+Info : CMSIS-DAP: Test domain timer supported
+Info : CMSIS-DAP: FW Version = 2.0.0
+Info : CMSIS-DAP: Interface Initialised (SWD)
+Info : SWCLK/TCK = 0 SWDIO/TMS = 0 TDI = 0 TDO = 0 nTRST = 0 nRESET = 1
+Info : CMSIS-DAP: Interface ready
+Info : clock speed 100 kHz
+Info : SWD DPIDR 0x3ba02477
+Info : gdb port disabled
+Info : gdb port disabled
+DBGDIDR  Kern 0 (0x80110000):
+0x80110000: 1203f001 
+
+DBGDSCR  Kern 0 (0x80110088, externe Sicht, ohne Nebenwirkung):
+0x80110088: 02000002 
+
+MIDR/CPUID Kern 0 (0x80110d00, erwartet 0x410fc05x = Cortex-A5):
+0x80110d00: 410fc051 
+
+PC-Stichproben Kern 0 (DBGPCSR 0x80110084), 8x:
+0x80110084: c01f5145 
+
+0x80110084: c01f5145 
+
+0x80110084: c01f93c7 
+
+0x80110084: c01f5d95 
+
+0x80110084: c01f5d95 
+
+0x80110084: c01f5d95 
+
+0x80110084: c01f5d95 
+
+0x80110084: c01f5d95 
+
+BootROM-Kopf 0xffff0000:
+0xffff0000: ea000014 ea000005 ea000004 ea000003 ea000002 ea000001 ea000000 eaffffff 
+
+Error: Error connecting DP: cannot read IDR
+Error: Failed to read memory and, additionally, failed to find out where
+
+Loader3 0xc01f0000:
+Error: Error connecting DP: cannot read IDR
+Error: Error connecting DP: cannot read IDR
+Error: Failed to read memory and, additionally, failed to find out where
+
+Loader3 0xc01f15b0 (Updater-Prüfung):
+Error: Error connecting DP: cannot read IDR
+Error: Error connecting DP: cannot read IDR
+Error: Failed to read memory and, additionally, failed to find out where
+
+Loader3 0xc01f1e10 (BootMode-Auswahl):
+Error: Error connecting DP: cannot read IDR
+Error: Error connecting DP: cannot read IDR
+Error: Failed to read memory and, additionally, failed to find out where
+
+Error: Error connecting DP: cannot read IDR
+Error: Error connecting DP: cannot read IDR
+Error: Failed to read memory and, additionally, failed to find out where
+
+shutdown command invoked

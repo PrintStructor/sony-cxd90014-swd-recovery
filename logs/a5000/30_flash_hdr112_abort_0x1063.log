@@ -1,0 +1,42 @@
+Native driver not installed
+Using drivers libusb-MSC, libusb-MTP, libusb-vendor-specific
+Looking for Sony devices
+
+Querying mass storage device
+Sony DSC is a camera in updater mode
+
+Initializing firmware update
+Updating from version 1.11 to version 1.12
+Writing firmware
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+Traceback (most recent call last):
+  File "~/Downloads/a5000-hdmi-mod/tools/pmca/pmca-console.py", line 104, in <module>
+    main()
+    ~~~~^^
+  File "~/Downloads/a5000-hdmi-mod/tools/pmca/pmca-console.py", line 84, in main
+    firmwareUpdateCommand(args.datFile, args.driver)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "~/Downloads/a5000-hdmi-mod/tools/pmca/pmca/commands/usb.py", line 347, in firmwareUpdateCommand
+    firmwareUpdateCommandInternal(driver, device, file, offset, size)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "~/Downloads/a5000-hdmi-mod/tools/pmca/pmca/commands/usb.py", line 421, in firmwareUpdateCommandInternal
+    dev.writeFirmware(ProgressFile(file, size), size, complete)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "~/Downloads/a5000-hdmi-mod/tools/pmca/pmca/usb/sony.py", line 578, in writeFirmware
+    self._sendWriteCommands(self.CMD_WRITE_FIRM, file, size, complete)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "~/Downloads/a5000-hdmi-mod/tools/pmca/pmca/usb/sony.py", line 527, in _sendWriteCommands
+    windowSize, status = self._parseWriteResponse(self._sendCommand(command, writeParam + data))
+                                                  ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "~/Downloads/a5000-hdmi-mod/tools/pmca/pmca/usb/sony.py", line 514, in _sendCommand
+    raise Exception('Response error: 0x%x' % responseHeader.responseId)
+Exception: Response error: 0x1063

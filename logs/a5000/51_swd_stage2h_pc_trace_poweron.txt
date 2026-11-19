@@ -1,0 +1,3224 @@
+     0 ms  Kernel
+    11 ms  anders 3f4080e0
+    12 ms  Kernel
+    22 ms  anders 3f04c650
+    22 ms  Kernel
+    31 ms  anders 3f04c850
+    32 ms  Kernel
+    51 ms  anders 3f4080b8
+    51 ms  Kernel
+    62 ms  anders 3f057368
+    62 ms  Kernel
+    91 ms  anders 3f04c324
+    91 ms  Kernel
+   111 ms  anders 3f04c310
+   111 ms  Kernel
+   122 ms  anders 3f04c630
+   122 ms  Kernel
+   182 ms  anders 3f0491f8
+   183 ms  Kernel
+   222 ms  anders 3f0491d8
+   222 ms  Kernel
+   231 ms  anders 3f04e330
+   231 ms  Kernel
+   243 ms  anders 3f04bd20
+   243 ms  Kernel
+   263 ms  anders 3f04cbd8
+   263 ms  Kernel
+   291 ms  anders 3f04b1c4
+   291 ms  Kernel
+   323 ms  anders 3f0491e4
+   323 ms  Kernel
+   364 ms  anders 3f402ee4
+   365 ms  Kernel
+   371 ms  anders 3f04c5dc
+   372 ms  Kernel
+   374 ms  anders 3f0492a4
+   375 ms  Kernel
+   391 ms  anders 3f057938
+   391 ms  Kernel
+   451 ms  anders 3f04bbc8
+   452 ms  Kernel
+   502 ms  anders 3f40737c
+   502 ms  Kernel
+   522 ms  anders 3f04b1b4
+   522 ms  Kernel
+   571 ms  anders 3f0491d4
+   571 ms  Kernel
+   582 ms  anders 3f04be64
+   582 ms  Kernel
+   622 ms  anders 3f04c6a4
+   622 ms  Kernel
+   631 ms  anders 3f04c594
+   631 ms  Kernel
+   691 ms  anders 3f04c758
+   692 ms  Kernel
+   743 ms  anders 3f04b1d8
+   744 ms  Kernel
+   762 ms  anders 3f4011e8
+   762 ms  Kernel
+   799 ms  anders 3f04cc14
+   800 ms  Kernel
+   811 ms  anders 3f04928c
+   811 ms  Kernel
+   831 ms  anders 3f04c6a4
+   831 ms  Kernel
+   891 ms  anders 3f04b1d4
+   892 ms  Kernel
+   923 ms  anders 3f04b1d8
+   924 ms  Kernel
+   942 ms  anders 3f04c580
+   945 ms  Kernel
+   982 ms  anders 3f4080ac
+   982 ms  Kernel
+  1000 ms  anders 3f400a14
+  1001 ms  Kernel
+  1091 ms  anders 3f04e334
+  1092 ms  Kernel
+  1123 ms  anders 3f04c580
+  1123 ms  Kernel
+  1191 ms  anders 3f04b1a0
+  1191 ms  Kernel
+  1212 ms  anders 3f080218
+  1213 ms  Kernel
+  1231 ms  anders 3f04c660
+  1231 ms  Kernel
+  1291 ms  anders 3f0573ec
+  1292 ms  Kernel
+  1311 ms  anders 3f049220
+  1311 ms  Kernel
+  1350 ms  anders 3f07e024
+  1351 ms  Kernel
+  1423 ms  anders 3f401004
+  1423 ms  Kernel
+  1431 ms  anders 3f057364
+  1431 ms  Kernel
+  1451 ms  anders 3f400a14
+  1451 ms  Kernel
+  1463 ms  anders 3f056310
+  1464 ms  Kernel
+  1591 ms  anders 3f04c664
+  1592 ms  Kernel
+  1619 ms  anders 3f05743c
+  1620 ms  Kernel
+  1731 ms  anders 3f401660
+  1732 ms  Kernel
+  1771 ms  anders 3f04d870
+  1771 ms  Kernel
+  1782 ms  anders 3f4011bc
+  1782 ms  Kernel
+  1814 ms  anders 3f0578a8
+  1815 ms  Kernel
+  1952 ms  anders 3f057448
+  1952 ms  Kernel
+  1971 ms  anders 3f04d8d8
+  1972 ms  Kernel
+  1982 ms  anders 3f401030
+  1983 ms  Kernel
+  1999 ms  anders 3f049234
+  2000 ms  Kernel
+  2120 ms  anders 3f04ca50
+  2121 ms  Kernel
+  2207 ms  anders 3f405064
+  2208 ms  Kernel
+  2243 ms  anders 3f04d870
+  2244 ms  Kernel
+  2291 ms  anders 3f04c648
+  2291 ms  Kernel
+  2303 ms  anders 3f04bbc8
+  2304 ms  Kernel
+  2351 ms  anders 3f0573f0
+  2356 ms  Kernel
+  2383 ms  anders 3f04bb6c
+  2383 ms  Kernel
+  2463 ms  anders 3f049284
+  2463 ms  Kernel
+  2523 ms  anders 3f057a8c
+  2524 ms  Kernel
+  2531 ms  anders 3f04d884
+  2532 ms  Kernel
+  2651 ms  anders 3f057954
+  2652 ms  Kernel
+  2663 ms  anders 3f04dd10
+  2664 ms  Kernel
+  2702 ms  anders 3f04c760
+  2703 ms  Kernel
+  2891 ms  anders 3f400f24
+  2891 ms  Kernel
+  3083 ms  anders 3f049284
+  3084 ms  Kernel
+  3103 ms  anders 3f04da14
+  3103 ms  Kernel
+  3131 ms  anders 3f04b198
+  3131 ms  Kernel
+  3211 ms  anders 3f400a14
+  3211 ms  Kernel
+  3222 ms  anders 3f401000
+  3222 ms  Kernel
+  3243 ms  anders 3f04cac4
+  3243 ms  Kernel
+  3311 ms  anders 3f04e2c4
+  3311 ms  Kernel
+  3343 ms  anders 3f4080dc
+  3343 ms  Kernel
+  3351 ms  anders 3f049200
+  3352 ms  Kernel
+  3423 ms  anders 3f04d8d0
+  3423 ms  Kernel
+  3451 ms  anders 3f04b2ac
+  3451 ms  Kernel
+  3549 ms  anders 3f401664
+  3549 ms  Kernel
+  3623 ms  anders 3f04cb44
+  3623 ms  Kernel
+  3644 ms  anders 3f05633c
+  3644 ms  Kernel
+  3651 ms  anders 3f049210
+  3651 ms  Kernel
+  3659 ms  anders 3f04c358
+  3660 ms  Kernel
+  3691 ms  anders 3f0491ec
+  3691 ms  Kernel
+  3711 ms  anders 3f04c460
+  3712 ms  Kernel
+  3723 ms  anders 3f04b2a8
+  3723 ms  Kernel
+  3756 ms  anders 3f04b1d4
+  3756 ms  Kernel
+  3759 ms  anders 3f04bae0
+  3760 ms  Kernel
+  3762 ms  anders 3f0491f8
+  3762 ms  Kernel
+  3772 ms  anders 3f4080dc
+  3772 ms  Kernel
+  3891 ms  anders 3f049238
+  3891 ms  Kernel
+  3923 ms  anders 3f04dafc
+  3923 ms  Kernel
+  3931 ms  anders 3f04b1c4
+  3931 ms  Kernel
+  3959 ms  anders 3f04bb24
+  3960 ms  Kernel
+  3998 ms  anders 3f403940
+  3999 ms  Kernel
+  4042 ms  anders 3f04b1d8
+  4042 ms  Kernel
+  4051 ms  ROM ffff0230
+  4051 ms  Kernel
+  4082 ms  anders 3f04bb6c
+  4083 ms  Kernel
+  4102 ms  anders 3f04b1cc
+  4102 ms  Kernel
+  4373 ms  anders 3f056024
+  4374 ms  Kernel
+  4459 ms  anders 3f056310
+  4460 ms  Kernel
+  4462 ms  anders 3f04dd10
+  4462 ms  Kernel
+  4483 ms  anders 3f04bdd4
+  4483 ms  Kernel
+  4570 ms  anders 3f04d8ac
+  4571 ms  Kernel
+  4600 ms  anders 3f406a40
+  4601 ms  Kernel
+  4663 ms  anders 3f049238
+  4664 ms  Kernel
+  4703 ms  anders 3f4011bc
+  4703 ms  Kernel
+  4851 ms  anders 3f049284
+  4851 ms  Kernel
+  4871 ms  anders 3f402f64
+  4872 ms  Kernel
+  4891 ms  anders 3f403030
+  4892 ms  Kernel
+  4931 ms  anders 3f0491f0
+  4932 ms  Kernel
+  4983 ms  anders 3f0573ec
+  4983 ms  Kernel
+  4991 ms  anders 3f04e28c
+  4991 ms  Kernel
+  5011 ms  anders 3f04c7a0
+  5012 ms  Kernel
+  5063 ms  anders 3f400f24
+  5063 ms  Kernel
+  5131 ms  anders 3f04d784
+  5131 ms  Kernel
+  5162 ms  anders 3f04c5c8
+  5163 ms  Kernel
+  5171 ms  anders 3f04c6c0
+  5171 ms  Kernel
+  5191 ms  anders 3f04d790
+  5191 ms  Kernel
+  5219 ms  anders 3f0562d8
+  5220 ms  Kernel
+  5223 ms  anders 3f0491f4
+  5223 ms  Kernel
+  5331 ms  anders 3f04c41c
+  5331 ms  Kernel
+  5351 ms  anders 3f04c290
+  5351 ms  Kernel
+  5359 ms  anders 3f0491f8
+  5360 ms  Kernel
+  5383 ms  anders 3f04b1d0
+  5383 ms  Kernel
+  5391 ms  anders 3f04b1b4
+  5391 ms  Kernel
+  5431 ms  anders 3f04e334
+  5431 ms  Kernel
+  5502 ms  anders 3f400fe8
+  5502 ms  Kernel
+  5511 ms  anders 3f04c80c
+  5512 ms  Kernel
+  5542 ms  anders 3f0491f0
+  5542 ms  Kernel
+  5611 ms  anders 3f04c420
+  5611 ms  Kernel
+  5631 ms  anders 3f04b2c4
+  5631 ms  Kernel
+  5742 ms  anders 3f401664
+  5742 ms  Kernel
+  5879 ms  anders 3f057364
+  5880 ms  Kernel
+  5882 ms  anders 3f04c310
+  5882 ms  Kernel
+  5892 ms  anders 3f04daf0
+  5893 ms  Kernel
+  5951 ms  anders 3f40810c
+  5951 ms  Kernel
+  6051 ms  anders 3f401004
+  6052 ms  Kernel
+  6122 ms  anders 3f04c530
+  6122 ms  Kernel
+  6131 ms  anders 3f04c41c
+  6131 ms  Kernel
+  6212 ms  anders 3f04daec
+  6213 ms  Kernel
+  6312 ms  anders 3f04bae0
+  6313 ms  Kernel
+  6342 ms  anders 3f057a9c
+  6342 ms  Kernel
+  6431 ms  anders 3f0491f0
+  6432 ms  Kernel
+  6451 ms  anders 3f0492ac
+  6451 ms  Kernel
+  6458 ms  anders 3f40113c
+  6459 ms  Kernel
+  6470 ms  anders 3f080170
+  6471 ms  Kernel
+  6523 ms  anders 3f407384
+  6523 ms  Kernel
+  6531 ms  anders 3f04b1ac
+  6531 ms  Kernel
+  6551 ms  anders 3f408134
+  6551 ms  Kernel
+  6580 ms  anders 3f0491d4
+  6581 ms  Kernel
+  6591 ms  anders 3f049220
+  6593 ms  Kernel
+  6627 ms  anders 3f4045d4
+  6628 ms  Kernel
+  6631 ms  anders 3f04b2b4
+  6631 ms  Kernel
+  6647 ms  anders 3f4032a0
+  6648 ms  Kernel
+  6688 ms  anders 3f04c804
+  6689 ms  Kernel
+  6691 ms  anders 3f04c798
+  6691 ms  Kernel
+  6703 ms  anders 3f4036e0
+  6704 ms  Kernel
+  6707 ms  anders 3f401070
+  6708 ms  Kernel
+  6727 ms  anders 3f401054
+  6729 ms  Kernel
+  6731 ms  anders 3f04c41c
+  6732 ms  Kernel
+  6763 ms  anders 3f4035f4
+  6764 ms  Kernel
+  6792 ms  anders 3f04dc8c
+  6793 ms  Kernel
+  6819 ms  anders 3f04cbfc
+  6820 ms  Kernel
+  6858 ms  anders 3f40111c
+  6859 ms  Kernel
+  6862 ms  anders 3f04bbd0
+  6863 ms  Kernel
+  6924 ms  anders 3f4011c8
+  6925 ms  Kernel
+  7023 ms  anders 3f04b1a4
+  7023 ms  Kernel
+  7031 ms  anders 3f4011f0
+  7032 ms  Kernel
+  7151 ms  anders 3f04c244
+  7152 ms  Kernel
+  7200 ms  anders 3f04ca1c
+  7201 ms  Kernel
+  7238 ms  anders 3f4050b0
+  7238 ms  Kernel
+  7283 ms  anders 3f049208
+  7283 ms  Kernel
+  7323 ms  anders 3f401664
+  7323 ms  Kernel
+  7331 ms  anders 3f04c41c
+  7331 ms  Kernel
+  7371 ms  anders 3f04d8d8
+  7371 ms  Kernel
+  7391 ms  anders 3f04baec
+  7392 ms  Kernel
+  7403 ms  anders 3f049210
+  7403 ms  Kernel
+  7462 ms  anders 3f40128c
+  7463 ms  Kernel
+  7531 ms  anders 3f0492a8
+  7532 ms  Kernel
+  7591 ms  anders 3f04b1c4
+  7591 ms  Kernel
+  7623 ms  anders 3f04dce4
+  7623 ms  Kernel
+  7651 ms  anders 3f4080c0
+  7651 ms  Kernel
+  7663 ms  anders 3f04ca04
+  7664 ms  Kernel
+  7711 ms  anders 3f049284
+  7712 ms  Kernel
+  7731 ms  anders 3f04b1b4
+  7731 ms  Kernel
+  7739 ms  anders 3f057bd0
+  7740 ms  Kernel
+  7819 ms  anders 3f057bcc
+  7820 ms  Kernel
+  7842 ms  anders 3f04b184
+  7842 ms  Kernel
+  7891 ms  anders 3f057920
+  7891 ms  Kernel
+  7923 ms  anders 3f04cb7c
+  7923 ms  Kernel
+  8005 ms  anders 3f401044
+  8006 ms  Kernel
+  8011 ms  anders 3f04c248
+  8011 ms  Kernel
+  8031 ms  anders 3f049284
+  8031 ms  Kernel
+  8051 ms  anders 3f049284
+  8051 ms  Kernel
+  8062 ms  anders 3f40105c
+  8063 ms  Kernel
+  8066 ms  anders 3f049210
+  8066 ms  Kernel
+  8079 ms  anders 3f04e310
+  8080 ms  Kernel
+  8103 ms  anders 3f400fec
+  8103 ms  Kernel
+  8187 ms  anders 3f40104c
+  8188 ms  Kernel
+  8202 ms  anders 3f04c460
+  8203 ms  Kernel
+  8216 ms  anders 3f056060
+  8216 ms  Kernel
+  8239 ms  anders 3f04ccbc
+  8240 ms  Kernel
+  8243 ms  anders 3f04d8d4
+  8243 ms  Kernel
+  8283 ms  anders 3f04dcc8
+  8283 ms  Kernel
+  8303 ms  anders 3f049234
+  8304 ms  Kernel
+  8306 ms  anders 3f402ff4
+  8306 ms  Kernel
+  8371 ms  anders 3f04c248
+  8371 ms  Kernel
+  8391 ms  anders 3f0492a8
+  8392 ms  Kernel
+  8471 ms  anders 3f057404
+  8471 ms  Kernel
+  8519 ms  anders 3f04e2f8
+  8520 ms  Kernel
+  8523 ms  anders 3f04da14
+  8523 ms  Kernel
+  8542 ms  anders 3f04b590
+  8543 ms  Kernel
+  8563 ms  anders 3f04dcdc
+  8564 ms  Kernel
+  8591 ms  anders 3f04c7bc
+  8592 ms  Kernel
+  8619 ms  anders 3f04ccf4
+  8620 ms  Kernel
+  8682 ms  anders 3f04b188
+  8683 ms  Kernel
+  8691 ms  anders 3f0491d0
+  8691 ms  Kernel
+  8742 ms  anders 3f4050c0
+  8743 ms  Kernel
+  8772 ms  anders 0404dc9f
+  8772 ms  Kernel
+  8779 ms  anders 042cdf91
+  8780 ms  Kernel
+  8783 ms  anders 20464c4f
+  8784 ms  Kernel
+  8785 ms  anders 22e1acc3
+  8786 ms  Kernel
+  8788 ms  anders 3f0491dc
+  8789 ms  Kernel
+  8793 ms  anders 073560d7
+  8794 ms  Kernel
+  8797 ms  anders 0600a3a7
+  8798 ms  Kernel
+  8800 ms  anders 3f0492ac
+  8800 ms  Kernel
+  8822 ms  anders 3f04e2c4
+  8823 ms  Kernel
+  8827 ms  anders 3f4036b4
+  8830 ms  Kernel
+  8831 ms  anders 3f049284
+  8831 ms  Kernel
+  8832 ms  anders 3f04c300
+  8833 ms  Kernel
+  8852 ms  anders 3f0492ac
+  8853 ms  Kernel
+  8872 ms  ROM ffff0230
+  8873 ms  Kernel
+  8874 ms  anders 3f35a8f8
+  8874 ms  Kernel
+  8896 ms  anders 3f400fec
+  8897 ms  Kernel
+  8919 ms  anders 3f401054
+  8922 ms  Kernel
+  8931 ms  anders 3f04b884
+  8934 ms  Kernel
+  8949 ms  anders 3f04ba78
+  8951 ms  Kernel
+  8951 ms  anders 3f04e308
+  8952 ms  Kernel
+  8982 ms  anders 044063d1
+  8982 ms  Kernel
+  8997 ms  anders 04048089
+  8998 ms  Kernel
+  9006 ms  anders 04406c6f
+  9010 ms  Kernel
+  9014 ms  anders 0402c6d0
+  9021 ms  Kernel
+  9021 ms  anders 062b456b
+  9022 ms  Kernel
+  9040 ms  anders 042d1e08
+  9041 ms  Kernel
+  9042 ms  anders 04406c87
+  9042 ms  Kernel
+  9044 ms  anders 061235a5
+  9045 ms  Kernel
+  9048 ms  anders 3f0491f8
+  9049 ms  Kernel
+  9051 ms  anders 3f04b2b4
+  9052 ms  Kernel
+  9080 ms  anders 3f056274
+  9080 ms  Kernel
+  9095 ms  anders 042cba03
+  9100 ms  Kernel
+  9111 ms  anders 3f04c648
+  9115 ms  Kernel
+  9118 ms  anders 3f40104c
+  9118 ms  Kernel
+  9119 ms  anders 3f04bdd4
+  9120 ms  Kernel
+  9121 ms  anders 3f04bde8
+  9122 ms  Kernel
+  9122 ms  anders 3f401054
+  9123 ms  Kernel
+  9124 ms  anders 04046ce0
+  9126 ms  Kernel
+  9127 ms  anders 0440eccd
+  9128 ms  Kernel
+  9129 ms  anders 0440ec19
+  9130 ms  Kernel
+  9151 ms  anders 3f04e330
+  9152 ms  Kernel
+  9168 ms  anders 062ab0f5
+  9169 ms  Kernel
+  9169 ms  anders 3f049684
+  9171 ms  ROM ffff0fc8
+  9172 ms  Kernel
+  9174 ms  anders 05ff53dd
+  9175 ms  Kernel
+  9175 ms  anders 04410585
+  9176 ms  Kernel
+  9178 ms  anders 0430b1dc
+  9179 ms  Kernel
+  9182 ms  anders 3f405088
+  9183 ms  Kernel
+  9186 ms  anders 06b4acd7
+  9191 ms  Kernel
+  9224 ms  anders 3f049284
+  9225 ms  Kernel
+  9243 ms  anders 3f049284
+  9244 ms  Kernel
+  9250 ms  anders 3f080658
+  9251 ms  Kernel
+  9275 ms  anders 3f04c258
+  9275 ms  Kernel
+  9290 ms  anders 3f04dfc0
+  9291 ms  Kernel
+  9291 ms  anders 3f0491f0
+  9292 ms  Kernel
+  9302 ms  anders 3f04b87c
+  9303 ms  Kernel
+  9351 ms  anders 22e13fcd
+  9352 ms  Kernel
+  9360 ms  anders 3f049234
+  9360 ms  Kernel
+  9369 ms  anders 3f4011c4
+  9370 ms  Kernel
+  9419 ms  anders 3f04bda8
+  9420 ms  Kernel
+  9431 ms  anders 3f04ca70
+  9432 ms  Kernel
+  9442 ms  anders 3f04da14
+  9442 ms  Kernel
+  9482 ms  anders 3f400cb8
+  9483 ms  Kernel
+  9500 ms  anders 3f04920c
+  9500 ms  Kernel
+  9503 ms  anders 3f04ca34
+  9504 ms  Kernel
+  9524 ms  anders 042c8b49
+  9524 ms  Kernel
+  9525 ms  anders 3f04920c
+  9525 ms  Kernel
+  9526 ms  anders 041a56a1
+  9528 ms  Kernel
+  9529 ms  anders 10e06e4c
+  9530 ms  Kernel
+  9530 ms  anders 22e37f87
+  9531 ms  Kernel
+  9532 ms  anders 2041705c
+  9532 ms  Kernel
+  9533 ms  anders 204123cc
+  9534 ms  Kernel
+  9535 ms  anders 22e0cec4
+  9536 ms  Kernel
+  9541 ms  anders 2041bdc4
+  9541 ms  Kernel
+  9543 ms  anders 204430b1
+  9543 ms  Kernel
+  9544 ms  anders 1d71c4c9
+  9548 ms  Kernel
+  9549 ms  anders 2041221c
+  9551 ms  Kernel
+  9552 ms  anders 22e1c305
+  9555 ms  Kernel
+  9558 ms  anders 20470187
+  9561 ms  Kernel
+  9562 ms  anders 21b07f60
+  9562 ms  Kernel
+  9563 ms  anders 22e100ec
+  9563 ms  Kernel
+  9563 ms  anders 20411dc8
+  9565 ms  Kernel
+  9573 ms  anders 3f04921c
+  9573 ms  Kernel
+  9593 ms  anders 3f056264
+  9593 ms  Kernel
+  9638 ms  anders 3f049220
+  9639 ms  Kernel
+  9640 ms  anders 3f0491d8
+  9642 ms  Kernel
+  9644 ms  anders 3f049238
+  9647 ms  Kernel
+  9651 ms  anders 3f04b1c4
+  9652 ms  Kernel
+  9652 ms  anders 0408a62f
+  9653 ms  Kernel
+  9653 ms  anders 041da415
+  9654 ms  Kernel
+  9661 ms  anders 040d4143
+  9661 ms  Kernel
+  9669 ms  anders 04210aa9
+  9670 ms  Kernel
+  9671 ms  anders 3f0491fc
+  9671 ms  Kernel
+  9678 ms  anders 041e5445
+  9682 ms  Kernel
+  9685 ms  anders 041e540d
+  9685 ms  Kernel
+  9688 ms  anders 0002b58d
+  9688 ms  Kernel
+  9690 ms  anders 041fc83f
+  9690 ms  Kernel
+  9691 ms  anders 0000b64c
+  9692 ms  Kernel
+  9693 ms  anders 0000b8c4
+  9694 ms  Kernel
+  9699 ms  anders 041fdeaf
+  9700 ms  Kernel
+  9711 ms  anders 3f049200
+  9713 ms  Kernel
+  9718 ms  anders 041e4ed9
+  9719 ms  Kernel
+  9725 ms  anders 04218b89
+  9725 ms  Kernel
+  9733 ms  anders 0000bec4
+  9734 ms  Kernel
+  9748 ms  anders 00013a99
+  9749 ms  Kernel
+  9783 ms  anders 3f04cd6c
+  9784 ms  Kernel
+  9789 ms  anders 042d282c
+  9790 ms  Kernel
+  9794 ms  anders 042d282c
+  9794 ms  Kernel
+  9796 ms  anders 042d282c
+  9796 ms  Kernel
+  9801 ms  anders 042d281c
+  9802 ms  Kernel
+  9805 ms  anders 042d2828
+  9806 ms  Kernel
+  9808 ms  anders 042d2820
+  9809 ms  Kernel
+  9812 ms  anders 042d282c
+  9813 ms  Kernel
+  9822 ms  anders 3f049284
+  9823 ms  Kernel
+  9828 ms  anders 042d282c
+  9828 ms  Kernel
+  9847 ms  anders 3f401068
+  9848 ms  Kernel
+  9856 ms  anders 3f04bb24
+  9857 ms  Kernel
+  9910 ms  anders 3f408144
+  9911 ms  Kernel
+  9943 ms  anders 3f04b19c
+  9943 ms  Kernel
+  9951 ms  anders 3f04bda8
+  9952 ms  Kernel
+ 10002 ms  anders 3f049220
+ 10003 ms  Kernel
+ 10007 ms  anders 3f04ca10
+ 10008 ms  Kernel
+ 10042 ms  anders 3f04b2c4
+ 10043 ms  Kernel
+ 10049 ms  ROM ffff0214
+ 10050 ms  Kernel
+ 10051 ms  anders 3f0491f0
+ 10052 ms  Kernel
+ 10111 ms  anders 3f014660
+ 10112 ms  Kernel
+ 10151 ms  anders 3f049284
+ 10152 ms  Kernel
+ 10164 ms  anders 3f04bd38
+ 10164 ms  Kernel
+ 10171 ms  anders 3f04cd60
+ 10172 ms  Kernel
+ 10229 ms  anders 3f401128
+ 10230 ms  Kernel
+ 10240 ms  ROM ffff0230
+ 10240 ms  Kernel
+ 10306 ms  anders 3f0146fc
+ 10306 ms  Kernel
+ 10334 ms  anders 3f0146fc
+ 10335 ms  Kernel
+ 10342 ms  anders 3f04b5a4
+ 10343 ms  Kernel
+ 10411 ms  anders 3f04c690
+ 10412 ms  Kernel
+ 10461 ms  anders 042d4671
+ 10466 ms  Kernel
+ 10470 ms  anders 042d2820
+ 10471 ms  Kernel
+ 10475 ms  anders 042d282c
+ 10475 ms  Kernel
+ 10477 ms  anders 042d282c
+ 10478 ms  Kernel
+ 10482 ms  anders 042d281c
+ 10483 ms  Kernel
+ 10483 ms  anders 3f04b1d8
+ 10484 ms  Kernel
+ 10485 ms  anders 042d2820
+ 10486 ms  Kernel
+ 10502 ms  anders 3f4011f0
+ 10502 ms  Kernel
+ 10506 ms  anders 042d282c
+ 10507 ms  Kernel
+ 10509 ms  anders 042d282c
+ 10509 ms  Kernel
+ 10550 ms  anders 3f080860
+ 10551 ms  Kernel
+ 10604 ms  anders 3f404dc0
+ 10604 ms  Kernel
+ 10620 ms  anders 3f049238
+ 10620 ms  Kernel
+ 10675 ms  anders 3f014710
+ 10675 ms  Kernel
+ 10691 ms  anders 3f04b5b0
+ 10691 ms  Kernel
+ 10723 ms  anders 3f04dce4
+ 10723 ms  Kernel
+ 10759 ms  anders 3f0492a0
+ 10760 ms  Kernel
+ 10778 ms  anders 3f403404
+ 10779 ms  Kernel
+ 10791 ms  anders 3f04b1c4
+ 10792 ms  Kernel
+ 10811 ms  anders 3f04dcdc
+ 10812 ms  Kernel
+ 10830 ms  anders 3f04dcc0
+ 10830 ms  Kernel
+ 10838 ms  anders 3f4011cc
+ 10839 ms  Kernel
+ 10858 ms  anders 3f04d8d4
+ 10859 ms  Kernel
+ 10910 ms  anders 3f04c598
+ 10911 ms  Kernel
+ 10958 ms  anders 3f401050
+ 10958 ms  Kernel
+ 10983 ms  anders 3f4011c8
+ 10983 ms  Kernel
+ 11044 ms  anders 3f04bae0
+ 11044 ms  Kernel
+ 11060 ms  anders 3f403064
+ 11061 ms  Kernel
+ 11107 ms  anders 3f405070
+ 11108 ms  Kernel
+ 11119 ms  anders 042d282c
+ 11119 ms  Kernel
+ 11121 ms  anders 042d2828
+ 11123 ms  Kernel
+ 11125 ms  anders 042d282c
+ 11127 ms  Kernel
+ 11130 ms  anders 042d282c
+ 11130 ms  Kernel
+ 11131 ms  anders 3f04c420
+ 11131 ms  Kernel
+ 11134 ms  anders 042d282c
+ 11135 ms  Kernel
+ 11141 ms  anders 042d2828
+ 11142 ms  Kernel
+ 11146 ms  anders 042d282c
+ 11146 ms  Kernel
+ 11168 ms  anders 042d282c
+ 11169 ms  Kernel
+ 11175 ms  anders 042d2828
+ 11175 ms  Kernel
+ 11183 ms  anders 042a9769
+ 11185 ms  Kernel
+ 11185 ms  anders 3f0573ec
+ 11186 ms  Kernel
+ 11192 ms  anders 3f04a91c
+ 11192 ms  Kernel
+ 11194 ms  anders 042a7c39
+ 11195 ms  Kernel
+ 11196 ms  anders 042a9a8f
+ 11196 ms  Kernel
+ 11202 ms  anders 3f404fe4
+ 11203 ms  Kernel
+ 11203 ms  anders 3f04c648
+ 11204 ms  Kernel
+ 11212 ms  anders 042ca31d
+ 11215 ms  Kernel
+ 11218 ms  anders 3f04cae0
+ 11218 ms  Kernel
+ 11244 ms  anders 3f04c280
+ 11244 ms  Kernel
+ 11267 ms  anders 3f04928c
+ 11268 ms  Kernel
+ 11269 ms  anders 3f04b7ec
+ 11270 ms  Kernel
+ 11271 ms  anders 3f04c7bc
+ 11271 ms  Kernel
+ 11277 ms  anders 0430b1d0
+ 11278 ms  Kernel
+ 11281 ms  anders 3f049284
+ 11282 ms  Kernel
+ 11283 ms  anders 3f04b198
+ 11284 ms  Kernel
+ 11284 ms  anders 3f049284
+ 11285 ms  Kernel
+ 11285 ms  anders 3f04966c
+ 11287 ms  Kernel
+ 11288 ms  anders 3f049284
+ 11289 ms  Kernel
+ 11289 ms  anders 3f06196c
+ 11290 ms  Kernel
+ 11308 ms  anders 3f04b29c
+ 11309 ms  Kernel
+ 11315 ms  anders 3f04928c
+ 11316 ms  Kernel
+ 11330 ms  anders 3f049284
+ 11330 ms  Kernel
+ 11332 ms  anders 3f04b28c
+ 11334 ms  Kernel
+ 11341 ms  anders 3f04928c
+ 11343 ms  Kernel
+ 11343 ms  anders 3f04b7b8
+ 11343 ms  Kernel
+ 11346 ms  anders 3f049274
+ 11347 ms  Kernel
+ 11348 ms  anders 3f049288
+ 11349 ms  Kernel
+ 11355 ms  anders 3f04c574
+ 11356 ms  Kernel
+ 11356 ms  anders 3f04b1a4
+ 11357 ms  Kernel
+ 11358 ms  anders 3f04b1b4
+ 11358 ms  Kernel
+ 11364 ms  anders 3f04b1d0
+ 11364 ms  Kernel
+ 11367 ms  ROM ffff0230
+ 11368 ms  Kernel
+ 11372 ms  anders 3f04927c
+ 11373 ms  Kernel
+ 11377 ms  anders 3f04b290
+ 11378 ms  Kernel
+ 11381 ms  anders 3f04ad8c
+ 11382 ms  Kernel
+ 11382 ms  anders 3f061994
+ 11383 ms  Kernel
+ 11385 ms  anders 3f049210
+ 11386 ms  Kernel
+ 11386 ms  anders 3f04a800
+ 11387 ms  Kernel
+ 11403 ms  anders 3f049264
+ 11405 ms  Kernel
+ 11417 ms  anders 3f049284
+ 11417 ms  Kernel
+ 11421 ms  anders 3f04ad8c
+ 11421 ms  Kernel
+ 11422 ms  anders 3f04b81c
+ 11423 ms  Kernel
+ 11423 ms  anders 3f04b74c
+ 11424 ms  Kernel
+ 11428 ms  anders 3f049284
+ 11428 ms  Kernel
+ 11435 ms  anders 3f04b188
+ 11435 ms  Kernel
+ 11436 ms  anders 3f049210
+ 11437 ms  Kernel
+ 11441 ms  anders 3f04928c
+ 11442 ms  Kernel
+ 11447 ms  anders 3f04920c
+ 11448 ms  Kernel
+ 11451 ms  anders 3f04c77c
+ 11452 ms  Kernel
+ 11459 ms  anders 0402ed1f
+ 11459 ms  Kernel
+ 11468 ms  anders 3f049254
+ 11469 ms  Kernel
+ 11470 ms  anders 3f04cbd0
+ 11471 ms  Kernel
+ 11482 ms  anders 3f0491d8
+ 11483 ms  Kernel
+ 11487 ms  anders 3f049648
+ 11488 ms  Kernel
+ 11500 ms  anders 3f04a69c
+ 11500 ms  Kernel
+ 11519 ms  anders 3f04b7c8
+ 11520 ms  Kernel
+ 11523 ms  anders 3f04b1d0
+ 11523 ms  Kernel
+ 11525 ms  ROM ffff0010
+ 11525 ms  Kernel
+ 11527 ms  anders 3f04964c
+ 11527 ms  Kernel
+ 11578 ms  anders 3f049200
+ 11578 ms  Kernel
+ 11584 ms  anders 3f04bbc8
+ 11584 ms  Kernel
+ 11586 ms  anders 3f0cde7c
+ 11587 ms  Kernel
+ 11588 ms  anders 3f049234
+ 11589 ms  Kernel
+ 11600 ms  anders 3f080504
+ 11601 ms  Kernel
+ 11785 ms  anders 042d202c
+ 11786 ms  Kernel
+ 11786 ms  anders 042d0874
+ 11787 ms  Kernel
+ 11790 ms  anders 042a7b9d
+ 11790 ms  Kernel
+ 11828 ms  anders 042c8aa1
+ 11829 ms  Kernel
+ 11883 ms  anders 3f401e84
+ 11884 ms  Kernel
+ 11889 ms  anders 3f402068
+ 11890 ms  Kernel
+ 11933 ms  anders 3f4077a0
+ 11933 ms  Kernel
+ 12708 ms  anders 3f062c14
+ 12722 ms  Kernel
+ 12952 ms  anders 3f062c20
+ 12963 ms  Kernel
+ 13013 ms  anders c00200ec
+ 14071 ms  keine Verbindung
+ 14225 ms  ROM ffff1439
+ 14227 ms  L2 c0030230
+ 14234 ms  L3 c01f93c7
+ 14235 ms  L3 c01f5115
+ 14236 ms  L3 c01f5115
+ 14236 ms  L3 c01f5115
+ 14237 ms  L3 c01f8767
+ 14237 ms  L3 c01f5145
+ 14238 ms  L3 c01f5145
+ 14238 ms  L2 c0038b63
+ 14239 ms  L3 c01f5145
+ 14239 ms  L3 c01f513d
+ 14240 ms  L3 c01f5145
+ 14240 ms  L3 c01f513d
+ 14240 ms  L3 c01f5145
+ 14241 ms  L3 c01f5145
+ 14242 ms  L3 c01f4f6b
+ 14242 ms  L3 c01f513f
+ 14243 ms  L3 c01f5145
+ 14244 ms  L3 c01f3514
+ 14245 ms  L3 c01f513f
+ 14246 ms  L3 c01fd719
+ 14247 ms  L3 c01f5117
+ 14247 ms  L3 c01f5115
+ 14248 ms  L3 c01f5115
+ 14248 ms  L3 c01f5115
+ 14248 ms  L3 c01f5115
+ 14249 ms  L3 c01f5115
+ 14249 ms  L3 c01f93c7
+ 14250 ms  L3 c01f5115
+ 14251 ms  L3 c01f5115
+ 14251 ms  L3 c01f5115
+ 14252 ms  L3 c01f5115
+ 14252 ms  L3 c01f93c7
+ 14252 ms  L3 c01f5115
+ 14253 ms  L3 c01f5115
+ 14253 ms  L3 c01f5115
+ 14254 ms  L3 c01f5115
+ 14254 ms  L3 c01f5115
+ 14255 ms  L3 c01f5115
+ 14255 ms  L3 c01f5115
+ 14256 ms  L3 c01f5115
+ 14256 ms  L3 c01f5115
+ 14257 ms  L3 c01f8773
+ 14257 ms  L3 c01f93c7
+ 14258 ms  L3 c01f5115
+ 14259 ms  L3 c01f5115
+ 14259 ms  L3 c01f5115
+ 14259 ms  L3 c01f5115
+ 14260 ms  L3 c01f93c7
+ 14260 ms  L3 c01f5115
+ 14261 ms  L3 c01f5115
+ 14261 ms  L3 c01f5115
+ 14262 ms  L3 c01f5115
+ 14263 ms  L3 c01f5145
+ 14263 ms  L3 c01f5145
+ 14263 ms  L3 c01f93c7
+ 14264 ms  L3 c01f5115
+ 14265 ms  L3 c01f5115
+ 14265 ms  L3 c01f5115
+ 14265 ms  L3 c01f5117
+ 14266 ms  L3 c020c555
+ 14267 ms  Kernel
+ 14298 ms  anders 3f0620e4
+ 14299 ms  Kernel
+ 14337 ms  anders 3f0d0798
+ 14338 ms  Kernel
+ 14346 ms  anders 3f40248c
+ 14349 ms  Kernel
+ 14358 ms  anders 040ba4e1
+ 14359 ms  Kernel
+ 14362 ms  anders 0440a2b9
+ 14362 ms  Kernel
+ 14368 ms  anders 20c45d11
+ 14369 ms  Kernel
+ 14374 ms  anders 0402e69b
+ 14375 ms  Kernel
+ 14384 ms  anders 20c4f3af
+ 14385 ms  Kernel
+ 14386 ms  anders 22a080ef
+ 14388 ms  Kernel
+ 14389 ms  anders 3f04b1d8
+ 14389 ms  Kernel
+ 14390 ms  anders 20425bc4
+ 14391 ms  Kernel
+ 14391 ms  anders 20416f4c
+ 14392 ms  Kernel
+ 14393 ms  anders 0736586d
+ 14395 ms  Kernel
+ 14400 ms  anders 22e20073
+ 14402 ms  Kernel
+ 14403 ms  anders 22e1fcc1
+ 14404 ms  Kernel
+ 14410 ms  anders 0600b369
+ 14411 ms  Kernel
+ 14412 ms  anders 1d61ce0d
+ 14413 ms  Kernel
+ 14414 ms  anders 2044312f
+ 14415 ms  Kernel
+ 14416 ms  anders 204130b4
+ 14417 ms  Kernel
+ 14420 ms  anders 3f403024
+ 14420 ms  Kernel
+ 14421 ms  ROM ffff000c
+ 14421 ms  Kernel
+ 14424 ms  ROM ffff0010
+ 14424 ms  Kernel
+ 14425 ms  anders 044103db
+ 14425 ms  Kernel
+ 14427 ms  anders 3f04964c
+ 14428 ms  Kernel
+ 14430 ms  anders 3f04cbd8
+ 14430 ms  Kernel
+ 14432 ms  anders 3f0620d8
+ 14434 ms  Kernel
+ 14434 ms  anders 042ca2d3
+ 14435 ms  Kernel
+ 14437 ms  anders 20416f4c
+ 14437 ms  Kernel
+ 14438 ms  anders 20416f4c
+ 14441 ms  Kernel
+ 14442 ms  anders 22e0d1a4
+ 14445 ms  Kernel
+ 14446 ms  anders 20415da8
+ 14448 ms  Kernel
+ 14449 ms  anders 3f04cdf8
+ 14450 ms  Kernel
+ 14450 ms  anders 2046f42d
+ 14452 ms  Kernel
+ 14453 ms  anders 2046af89
+ 14454 ms  Kernel
+ 14454 ms  anders 22e11128
+ 14455 ms  Kernel
+ 14455 ms  anders 20442da3
+ 14457 ms  Kernel
+ 14460 ms  anders 042cbdab
+ 14461 ms  Kernel
+ 14464 ms  anders 3f04aa80
+ 14466 ms  Kernel
+ 14467 ms  anders 204429a7
+ 14468 ms  Kernel
+ 14470 ms  anders 0ebf3b7f
+ 14471 ms  Kernel
+ 14471 ms  anders 04049bad
+ 14473 ms  Kernel
+ 14474 ms  anders 22e0e5ac
+ 14475 ms  Kernel
+ 14477 ms  anders 204614b9
+ 14478 ms  Kernel
+ 14479 ms  anders 20411dbc
+ 14480 ms  Kernel
+ 14481 ms  anders 22a0852f
+ 14482 ms  Kernel
+ 14485 ms  anders 22e0cdec
+ 14485 ms  Kernel
+ 14486 ms  anders 0ebf3b55
+ 14486 ms  Kernel
+ 14488 ms  anders 3f04da14
+ 14489 ms  Kernel
+ 14491 ms  anders 22a0314c
+ 14493 ms  Kernel
+ 14494 ms  anders 3f049298
+ 14495 ms  Kernel
+ 14496 ms  anders 2044e4a3
+ 14496 ms  Kernel
+ 14501 ms  anders 05da07fb
+ 14502 ms  Kernel
+ 14502 ms  anders 3f049248
+ 14503 ms  Kernel
+ 14504 ms  anders 2044e499
+ 14504 ms  Kernel
+ 14505 ms  anders 0440565c
+ 14506 ms  Kernel
+ 14506 ms  anders 0735804b
+ 14507 ms  Kernel
+ 14508 ms  anders 05a0199b
+ 14508 ms  Kernel
+ 14511 ms  anders 04411b63
+ 14512 ms  Kernel
+ 14512 ms  anders 04410473
+ 14516 ms  Kernel
+ 14517 ms  anders 0ebff451
+ 14518 ms  Kernel
+ 14518 ms  anders 3f04e2c0
+ 14519 ms  Kernel
+ 14519 ms  anders 3f04cb60
+ 14520 ms  Kernel
+ 14521 ms  anders 044058a8
+ 14521 ms  Kernel
+ 14522 ms  anders 0ebfeaaf
+ 14523 ms  Kernel
+ 14524 ms  anders 22e13fbb
+ 14526 ms  Kernel
+ 14527 ms  anders 22a08555
+ 14527 ms  Kernel
+ 14528 ms  anders 3f04dccc
+ 14529 ms  Kernel
+ 14530 ms  anders 20c4f36b
+ 14531 ms  Kernel
+ 14532 ms  anders 0ebf042f
+ 14533 ms  Kernel
+ 14534 ms  anders 3f05ffd0
+ 14534 ms  Kernel
+ 14535 ms  anders 0ebef054
+ 14535 ms  Kernel
+ 14536 ms  anders 20c4f40f
+ 14536 ms  Kernel
+ 14537 ms  anders 2045fd85
+ 14537 ms  Kernel
+ 14541 ms  anders 3f04cd50
+ 14542 ms  Kernel
+ 14543 ms  anders 3f014344
+ 14545 ms  Kernel
+ 14545 ms  anders 0ebf87c9
+ 14546 ms  Kernel
+ 14546 ms  anders 04419e9f
+ 14548 ms  Kernel
+ 14550 ms  anders 0ebff3f7
+ 14550 ms  Kernel
+ 14551 ms  anders 22e11048
+ 14552 ms  Kernel
+ 14553 ms  anders 2044e735
+ 14553 ms  Kernel
+ 14555 ms  anders 22a074ef
+ 14556 ms  Kernel
+ 14556 ms  anders 22e1743f
+ 14557 ms  Kernel
+ 14558 ms  anders 22e11024
+ 14560 ms  Kernel
+ 14561 ms  anders 3f04cb14
+ 14562 ms  Kernel
+ 14562 ms  anders 0644b9d7
+ 14568 ms  Kernel
+ 14570 ms  anders 05d7077b
+ 14571 ms  Kernel
+ 14571 ms  anders 2045fc7b
+ 14577 ms  Kernel
+ 14578 ms  anders 3f057334
+ 14581 ms  Kernel
+ 14583 ms  anders 22e0d1b8
+ 14585 ms  Kernel
+ 14585 ms  anders 0ebf3e51
+ 14586 ms  Kernel
+ 14589 ms  anders 3f04bd4c
+ 14590 ms  Kernel
+ 14593 ms  anders 0ebf442d
+ 14593 ms  Kernel
+ 14594 ms  anders 0ebef1f0
+ 14595 ms  Kernel
+ 14596 ms  anders 0ebf0031
+ 14599 ms  Kernel
+ 14601 ms  anders 044070e3
+ 14602 ms  Kernel
+ 14605 ms  anders 0ec03029
+ 14606 ms  Kernel
+ 14607 ms  anders 3f04cc88
+ 14608 ms  Kernel
+ 14610 ms  anders 0ebef160
+ 14611 ms  Kernel
+ 14612 ms  anders 204445bd
+ 14613 ms  Kernel
+ 14615 ms  anders 2047ef88
+ 14616 ms  Kernel
+ 14617 ms  anders 22e13feb
+ 14618 ms  Kernel
+ 14618 ms  anders 3f04928c
+ 14619 ms  Kernel
+ 14620 ms  anders 12e2b84d
+ 14621 ms  Kernel
+ 14622 ms  anders 3f04ccdc
+ 14623 ms  Kernel
+ 14623 ms  anders 061245a1
+ 14623 ms  Kernel
+ 14624 ms  anders 22e13fed
+ 14625 ms  Kernel
+ 14627 ms  anders 3f04928c
+ 14628 ms  Kernel
+ 14629 ms  anders 22e11054
+ 14637 ms  Kernel
+ 14641 ms  anders 0ebfba77
+ 14642 ms  Kernel
+ 14649 ms  anders 3f057954
+ 14649 ms  Kernel
+ 14670 ms  anders 3f0beacc
+ 14671 ms  Kernel
+ 14687 ms  anders 3f3e164c
+ 14687 ms  Kernel
+ 14689 ms  anders 3f0492ac
+ 14689 ms  Kernel
+ 14710 ms  anders 3f04d8c8
+ 14711 ms  Kernel
+ 14728 ms  anders 3f04e270
+ 14729 ms  Kernel
+ 14737 ms  anders 3f4080c0
+ 14740 ms  Kernel
+ 14743 ms  anders 3f04928c
+ 14743 ms  Kernel
+ 14744 ms  ROM ffff0228
+ 14745 ms  Kernel
+ 14749 ms  anders 3f408118
+ 14750 ms  Kernel
+ 14760 ms  anders 3f40112c
+ 14761 ms  Kernel
+ 14767 ms  anders 3f39d7e8
+ 14770 ms  Kernel
+ 14777 ms  anders 3f401298
+ 14785 ms  Kernel
+ 14786 ms  anders 3f04c3d8
+ 14789 ms  Kernel
+ 14897 ms  anders 3f04b1d4
+ 14898 ms  Kernel
+ 14917 ms  anders 3f0491f0
+ 14918 ms  Kernel
+ 14997 ms  anders 3f04b87c
+ 14998 ms  Kernel
+ 14999 ms  anders 3f062c20
+ 14999 ms  Kernel
+ 15042 ms  anders 3f049284
+ 15043 ms  Kernel
+ 15058 ms  anders 3f04c80c
+ 15058 ms  Kernel
+ 15089 ms  anders 3f408074
+ 15090 ms  Kernel
+ 15124 ms  anders 3f0146a4
+ 15124 ms  Kernel
+ 15178 ms  anders 3f04c3c4
+ 15178 ms  Kernel
+ 15198 ms  anders 3f401680
+ 15198 ms  Kernel
+ 15208 ms  anders 3f403654
+ 15208 ms  Kernel
+ 15209 ms  anders 3f04dfe0
+ 15210 ms  Kernel
+ 15211 ms  anders 3f401e38
+ 15211 ms  Kernel
+ 15281 ms  anders 3f04bb30
+ 15282 ms  Kernel
+ 15298 ms  anders 3f062c20
+ 15302 ms  Kernel
+ 15306 ms  anders 3f04bae0
+ 15306 ms  Kernel
+ 15315 ms  anders 3f04cd40
+ 15316 ms  Kernel
+ 15318 ms  anders 3f04bde8
+ 15324 ms  Kernel
+ 15324 ms  anders 042d2098
+ 15328 ms  Kernel
+ 15348 ms  anders 3f401264
+ 15348 ms  Kernel
+ 15349 ms  anders 0430b1d0
+ 15349 ms  Kernel
+ 15354 ms  anders 3f405064
+ 15354 ms  Kernel
+ 15357 ms  anders 3f04e150
+ 15358 ms  Kernel
+ 15363 ms  anders 07356099
+ 15364 ms  Kernel
+ 15365 ms  anders 06009df1
+ 15366 ms  Kernel
+ 15370 ms  anders 22e0ff90
+ 15370 ms  Kernel
+ 15371 ms  anders 3f0573e8
+ 15374 ms  Kernel
+ 15376 ms  anders 0ebf50e1
+ 15377 ms  Kernel
+ 15378 ms  anders 0ebef1a8
+ 15383 ms  Kernel
+ 15384 ms  anders 20419fc0
+ 15384 ms  Kernel
+ 15385 ms  anders 2046e7a1
+ 15385 ms  Kernel
+ 15387 ms  anders 20416dd8
+ 15388 ms  Kernel
+ 15389 ms  anders 204126cc
+ 15391 ms  Kernel
+ 15391 ms  anders 3f04d880
+ 15392 ms  Kernel
+ 15393 ms  anders 2043fc49
+ 15394 ms  Kernel
+ 15395 ms  anders 2046eea9
+ 15396 ms  Kernel
+ 15402 ms  anders 20416f68
+ 15402 ms  Kernel
+ 15414 ms  anders 04405d18
+ 15414 ms  Kernel
+ 15426 ms  anders 05ff52a1
+ 15427 ms  Kernel
+ 15428 ms  anders 05f5883b
+ 15429 ms  Kernel
+ 15434 ms  anders 3f04c8e8
+ 15435 ms  Kernel
+ 15469 ms  anders 3f049284
+ 15470 ms  Kernel
+ 15491 ms  anders 3f0491e4
+ 15492 ms  Kernel
+ 15498 ms  anders 05ffb727
+ 15499 ms  Kernel
+ 15499 ms  anders 05db2235
+ 15506 ms  Kernel
+ 15520 ms  anders 0404bad7
+ 15521 ms  Kernel
+ 15528 ms  anders 3f04bae0
+ 15529 ms  Kernel
+ 15537 ms  anders 3f049284
+ 15538 ms  Kernel
+ 15540 ms  anders 040754db
+ 15541 ms  Kernel
+ 15542 ms  anders 0404bb67
+ 15543 ms  Kernel
+ 15546 ms  anders 3f0564b0
+ 15546 ms  Kernel
+ 15549 ms  anders 3f0491d4
+ 15550 ms  Kernel
+ 15561 ms  anders 3f05639c
+ 15561 ms  Kernel
+ 15568 ms  anders 3f04c530
+ 15569 ms  Kernel
+ 15591 ms  anders 044103e7
+ 15594 ms  Kernel
+ 15595 ms  anders 0640f6e3
+ 15595 ms  Kernel
+ 15597 ms  anders 3f049210
+ 15598 ms  Kernel
+ 15628 ms  anders 3f04b1d0
+ 15629 ms  Kernel
+ 15640 ms  anders 04049bbb
+ 15640 ms  Kernel
+ 15651 ms  anders 3f0caa48
+ 15651 ms  Kernel
+ 15652 ms  anders 042d1b8b
+ 15652 ms  Kernel
+ 15653 ms  anders 0440ea4b
+ 15654 ms  Kernel
+ 15654 ms  anders 0402fa5b
+ 15656 ms  Kernel
+ 15657 ms  anders 044103f9
+ 15657 ms  Kernel
+ 15657 ms  anders 3f04d8d8
+ 15659 ms  Kernel
+ 15669 ms  anders 04049ba9
+ 15670 ms  Kernel
+ 15673 ms  anders 040c148d
+ 15684 ms  Kernel
+ 15688 ms  anders 3f04928c
+ 15689 ms  Kernel
+ 15714 ms  anders 3f049268
+ 15716 ms  Kernel
+ 15717 ms  anders 3f049284
+ 15718 ms  Kernel
+ 15719 ms  anders 3f04ad50
+ 15719 ms  Kernel
+ 15723 ms  anders 3f04b7ac
+ 15723 ms  Kernel
+ 15749 ms  anders 3f04ca24
+ 15750 ms  Kernel
+ 15789 ms  anders 22e193c3
+ 15791 ms  Kernel
+ 15792 ms  anders 0735622d
+ 15796 ms  Kernel
+ 15796 ms  anders 05ffcd7d
+ 15797 ms  Kernel
+ 15816 ms  anders 3f062310
+ 15817 ms  Kernel
+ 15877 ms  anders 3f04c5fc
+ 15878 ms  Kernel
+ 15897 ms  anders 3f04e13c
+ 15898 ms  Kernel
+ 15899 ms  anders 0600b2c7
+ 15899 ms  Kernel
+ 15900 ms  anders 042d2820
+ 15900 ms  Kernel
+ 15905 ms  anders 3f3570f4
+ 15906 ms  Kernel
+ 15917 ms  anders 3f04b1ac
+ 15918 ms  Kernel
+ 15954 ms  anders 044103e7
+ 15957 ms  Kernel
+ 15958 ms  anders 04049bad
+ 15962 ms  Kernel
+ 15964 ms  anders 0440671c
+ 15964 ms  Kernel
+ 15975 ms  anders 061233df
+ 15975 ms  Kernel
+ 16009 ms  anders 3f04cba4
+ 16010 ms  Kernel
+ 16032 ms  anders 3f425110
+ 16033 ms  Kernel
+ 16040 ms  anders 3f0491f4
+ 16041 ms  Kernel
+ 16053 ms  anders 3f401128
+ 16054 ms  Kernel
+ 16078 ms  anders 3f04b2c4
+ 16078 ms  Kernel
+ 16079 ms  anders 05956dcb
+ 16082 ms  Kernel
+ 16097 ms  anders 3f04bd58
+ 16098 ms  Kernel
+ 16100 ms  anders 05ee98a1
+ 16100 ms  Kernel
+ 16129 ms  anders 3f04d8c4
+ 16130 ms  Kernel
+ 16137 ms  anders 3f049210
+ 16138 ms  Kernel
+ 16157 ms  anders 3f04b2a0
+ 16158 ms  Kernel
+ 16169 ms  anders 3f401030
+ 16170 ms  Kernel
+ 16171 ms  anders 060e40a3
+ 16173 ms  Kernel
+ 16174 ms  anders 060b738d
+ 16175 ms  Kernel
+ 16179 ms  anders 0440671c
+ 16185 ms  Kernel
+ 16189 ms  anders 3f403b0c
+ 16189 ms  Kernel
+ 16191 ms  anders 0440ec09
+ 16191 ms  Kernel
+ 16194 ms  anders 3f401104
+ 16194 ms  Kernel
+ 16196 ms  anders 044103d7
+ 16196 ms  Kernel
+ 16197 ms  anders 060cace5
+ 16197 ms  Kernel
+ 16198 ms  anders 044061c0
+ 16200 ms  Kernel
+ 16210 ms  anders 3f04c420
+ 16211 ms  Kernel
+ 16211 ms  anders 0440ec17
+ 16213 ms  Kernel
+ 16215 ms  anders 044103d7
+ 16217 ms  Kernel
+ 16219 ms  anders 0440a2a9
+ 16220 ms  Kernel
+ 16220 ms  anders 060e40b1
+ 16221 ms  Kernel
+ 16221 ms  anders 0440c897
+ 16223 ms  Kernel
+ 16234 ms  anders 0440ea4b
+ 16235 ms  Kernel
+ 16238 ms  anders 0440684d
+ 16246 ms  Kernel
+ 16258 ms  anders 3f04be24
+ 16259 ms  Kernel
+ 16260 ms  anders 044103e7
+ 16260 ms  Kernel
+ 16261 ms  anders 04404550
+ 16262 ms  Kernel
+ 16262 ms  anders 060e7b31
+ 16263 ms  Kernel
+ 16265 ms  anders 0440ec13
+ 16266 ms  Kernel
+ 16269 ms  anders 3f04b19c
+ 16270 ms  Kernel
+ 16278 ms  anders 04404554
+ 16279 ms  Kernel
+ 16279 ms  anders 060e869b
+ 16282 ms  Kernel
+ 16287 ms  anders 0440684d
+ 16288 ms  ROM ffff0fd0
+ 16288 ms  anders 04405eec
+ 16289 ms  Kernel
+ 16289 ms  anders 3f04d8cc
+ 16291 ms  Kernel
+ 16303 ms  anders 0402ef5f
+ 16304 ms  Kernel
+ 16304 ms  anders 0402f74f
+ 16307 ms  Kernel
+ 16308 ms  anders 0402dae3
+ 16309 ms  Kernel
+ 16310 ms  anders 3f04b1ac
+ 16310 ms  Kernel
+ 16311 ms  anders 04404545
+ 16311 ms  Kernel
+ 16323 ms  anders 05afb4f8
+ 16324 ms  Kernel
+ 16325 ms  anders 060e40a3
+ 16326 ms  Kernel
+ 16326 ms  anders 044062f0
+ 16327 ms  Kernel
+ 16328 ms  anders 0609edc1
+ 16328 ms  Kernel
+ 16329 ms  anders 060b76f5
+ 16329 ms  Kernel
+ 16330 ms  ROM ffff0fd4
+ 16330 ms  anders 060e7bbd
+ 16331 ms  Kernel
+ 16343 ms  anders 060e7b31
+ 16344 ms  Kernel
+ 16346 ms  anders 04404545
+ 16346 ms  Kernel
+ 16347 ms  anders 3f42510c
+ 16348 ms  Kernel
+ 16349 ms  anders 0609edd7
+ 16349 ms  ROM ffff0fc8
+ 16352 ms  anders 042d2058
+ 16353 ms  Kernel
+ 16359 ms  anders 042d281c
+ 16363 ms  Kernel
+ 16364 ms  anders 0440ea47
+ 16365 ms  Kernel
+ 16386 ms  anders 3f0491d4
+ 16387 ms  Kernel
+ 16388 ms  anders 04049bf5
+ 16388 ms  Kernel
+ 16389 ms  anders 0402fe63
+ 16389 ms  Kernel
+ 16390 ms  anders 044103e7
+ 16396 ms  Kernel
+ 16396 ms  anders 0440ec19
+ 16397 ms  Kernel
+ 16398 ms  anders 060cace9
+ 16399 ms  Kernel
+ 16399 ms  anders 060e40b1
+ 16400 ms  Kernel
+ 16401 ms  anders 0440ec09
+ 16401 ms  Kernel
+ 16403 ms  anders 060cad35
+ 16404 ms  Kernel
+ 16409 ms  anders 3f04ca38
+ 16409 ms  Kernel
+ 16416 ms  anders 0440ec0f
+ 16417 ms  Kernel
+ 16422 ms  anders 044052cd
+ 16423 ms  Kernel
+ 16423 ms  anders 042d205c
+ 16424 ms  Kernel
+ 16424 ms  anders 3f4036d8
+ 16425 ms  Kernel
+ 16436 ms  anders 3f04be64
+ 16437 ms  Kernel
+ 16437 ms  anders 3f049294
+ 16438 ms  Kernel
+ 16440 ms  anders 06123403
+ 16441 ms  Kernel
+ 16451 ms  anders 3f04e254
+ 16452 ms  Kernel
+ 16457 ms  anders 3f04b1a4
+ 16458 ms  Kernel
+ 16478 ms  anders 07de6f03
+ 16479 ms  Kernel
+ 16483 ms  anders 041c596b
+ 16484 ms  Kernel
+ 16518 ms  anders 3f04dbc0
+ 16518 ms  Kernel
+ 16549 ms  anders 3f04c880
+ 16550 ms  Kernel
+ 16600 ms  anders 05b00f04
+ 16601 ms  Kernel
+ 16633 ms  anders 06ad9333
+ 16633 ms  Kernel
+ 16634 ms  anders 0597eb4b
+ 16637 ms  Kernel
+ 16638 ms  anders 0596ca79
+ 16639 ms  Kernel
+ 16660 ms  anders 3f056b50
+ 16660 ms  Kernel
+ 16670 ms  anders 05ff6089
+ 16671 ms  Kernel
+ 16673 ms  anders 3f404d9c
+ 16674 ms  Kernel
+ 16697 ms  anders 3f04cbc4
+ 16698 ms  Kernel
+ 16708 ms  anders 3f049220
+ 16709 ms  Kernel
+ 16721 ms  anders 3f358368
+ 16721 ms  Kernel
+ 16745 ms  anders 07de7319
+ 16746 ms  Kernel
+ 16768 ms  anders 3f04bbb0
+ 16769 ms  Kernel
+ 16800 ms  anders 05eec0a1
+ 16801 ms  Kernel
+ 16802 ms  anders 0404ad0d
+ 16803 ms  Kernel
+ 16804 ms  anders 0402c74c
+ 16804 ms  Kernel
+ 16849 ms  anders 3f04dfe4
+ 16849 ms  Kernel
+ 16858 ms  anders 3f04aaf0
+ 16859 ms  Kernel
+ 16870 ms  anders 05ff6973
+ 16871 ms  Kernel
+ 16906 ms  anders 3f056390
+ 16906 ms  Kernel
+ 16929 ms  anders 3f04b198
+ 16929 ms  Kernel
+ 16935 ms  ROM ffff0230
+ 16936 ms  Kernel
+ 16940 ms  anders 0404c1e3
+ 16941 ms  Kernel
+ 16949 ms  anders 3f0491fc
+ 16950 ms  Kernel
+ 16966 ms  anders 3f057400
+ 16966 ms  Kernel
+ 16977 ms  anders 3f04c6ac
+ 16978 ms  Kernel
+ 16989 ms  anders 3f049284
+ 16990 ms  Kernel
+ 17001 ms  anders 07514577
+ 17002 ms  Kernel
+ 17004 ms  anders 044103e7
+ 17004 ms  Kernel
+ 17005 ms  anders 0440671c
+ 17006 ms  Kernel
+ 17016 ms  anders 3f04d8c4
+ 17017 ms  Kernel
+ 17017 ms  anders 3f04c68c
+ 17018 ms  Kernel
+ 17029 ms  anders 3f40500c
+ 17029 ms  Kernel
+ 17038 ms  anders 060e4045
+ 17044 ms  Kernel
+ 17045 ms  anders 0402e1d5
+ 17046 ms  Kernel
+ 17059 ms  anders 060e3ff3
+ 17061 ms  Kernel
+ 17062 ms  anders 060e409b
+ 17063 ms  Kernel
+ 17063 ms  anders 060cad03
+ 17069 ms  Kernel
+ 17088 ms  anders 3f04d8b8
+ 17089 ms  Kernel
+ 17129 ms  anders 3f049284
+ 17129 ms  Kernel
+ 17139 ms  anders 05f245c7
+ 17140 ms  Kernel
+ 17157 ms  anders 3f04c5b4
+ 17157 ms  Kernel
+ 17178 ms  anders 3f04b190
+ 17178 ms  Kernel
+ 17179 ms  anders 0594c037
+ 17181 ms  Kernel
+ 17181 ms  anders 06bbff4d
+ 17183 ms  Kernel
+ 17184 ms  anders 3f04d8c4
+ 17185 ms  Kernel
+ 17204 ms  anders 3f4011dc
+ 17205 ms  Kernel
+ 17249 ms  anders 3f0491d0
+ 17249 ms  Kernel
+ 17270 ms  anders 05eea56f
+ 17271 ms  Kernel
+ 17287 ms  anders 3f357180
+ 17288 ms  Kernel
+ 17304 ms  anders 3f057bc4
+ 17305 ms  Kernel
+ 17309 ms  anders 3f04cd6c
+ 17309 ms  Kernel
+ 17314 ms  anders 3f062304
+ 17314 ms  Kernel
+ 17316 ms  anders 3f0566a4
+ 17316 ms  Kernel
+ 17345 ms  anders 05f0fae3
+ 17345 ms  Kernel
+ 17371 ms  anders 060c1b85
+ 17372 ms  Kernel
+ 17374 ms  anders 044068d4
+ 17375 ms  Kernel
+ 17375 ms  anders 060e409b
+ 17377 ms  Kernel
+ 17379 ms  anders 0597e125
+ 17382 ms  Kernel
+ 17388 ms  anders 06c9d347
+ 17389 ms  Kernel
+ 17389 ms  anders 3f04d8c4
+ 17390 ms  Kernel
+ 17400 ms  anders 06122c0f
+ 17401 ms  Kernel
+ 17426 ms  anders 3f4254c8
+ 17426 ms  Kernel
+ 17430 ms  anders 3f357768
+ 17430 ms  Kernel
+ 17435 ms  anders 06ae69f5
+ 17445 ms  Kernel
+ 17470 ms  anders 05f11941
+ 17471 ms  Kernel
+ 17483 ms  anders 05eec04d
+ 17484 ms  Kernel
+ 17517 ms  anders 3f04cc70
+ 17518 ms  Kernel
+ 17538 ms  anders 3f400f38
+ 17538 ms  Kernel
+ 17546 ms  anders 3f0492a4
+ 17546 ms  Kernel
+ 17570 ms  anders 05ee98d7
+ 17571 ms  Kernel
+ 17577 ms  anders 3f04c394
+ 17578 ms  Kernel
+ 17599 ms  anders 3f05751c
+ 17600 ms  Kernel
+ 17608 ms  anders 3f057920
+ 17609 ms  Kernel
+ 17640 ms  anders 06124505
+ 17641 ms  Kernel
+ 17668 ms  anders 3f400ffc
+ 17669 ms  Kernel
+ 17681 ms  anders 06123605
+ 17681 ms  Kernel
+ 17689 ms  anders 3f358760
+ 17689 ms  Kernel
+ 17704 ms  anders 041d9969
+ 17704 ms  Kernel
+ 17709 ms  anders 3f403aec
+ 17709 ms  Kernel
+ 17713 ms  anders 3f062120
+ 17714 ms  Kernel
+ 17718 ms  anders 041a5971
+ 17719 ms  Kernel
+ 17721 ms  anders 0402d461
+ 17721 ms  Kernel
+ 17724 ms  anders 04126b5d
+ 17724 ms  Kernel
+ 17734 ms  anders 3f379c30
+ 17738 ms  Kernel
+ 17744 ms  anders 042d2840
+ 17745 ms  Kernel
+ 17758 ms  anders 3f04ca50
+ 17759 ms  Kernel
+ 17760 ms  anders 042d1d84
+ 17761 ms  Kernel
+ 17763 ms  anders 042cdb0f
+ 17764 ms  Kernel
+ 17770 ms  anders 3f35a0f4
+ 17771 ms  Kernel
+ 17778 ms  anders 05ff34cd
+ 17779 ms  Kernel
+ 17782 ms  anders 07de6365
+ 17783 ms  Kernel
+ 17784 ms  anders 042cb9a3
+ 17785 ms  Kernel
+ 17799 ms  anders 0412391d
+ 17800 ms  Kernel
+ 17801 ms  anders 05afe68c
+ 17802 ms  Kernel
+ 17803 ms  anders 3f04bb40
+ 17804 ms  Kernel
+ 17805 ms  anders 042d1d30
+ 17805 ms  Kernel
+ 17820 ms  anders 042cdfdb
+ 17821 ms  Kernel
+ 17822 ms  anders 07de6bdb
+ 17823 ms  Kernel
+ 17825 ms  anders 040718eb
+ 17826 ms  Kernel
+ 17837 ms  anders 3f04e2f8
+ 17838 ms  Kernel
+ 17840 ms  anders 042a71b3
+ 17840 ms  Kernel
+ 17841 ms  anders 07de4fe0
+ 17841 ms  Kernel
+ 17871 ms  anders 0404ad8d
+ 17872 ms  Kernel
+ 17874 ms  anders 06123d33
+ 17875 ms  Kernel
+ 17888 ms  anders 3f04dae4
+ 17889 ms  Kernel
+ 17904 ms  anders 3f40113c
+ 17905 ms  Kernel
+ 17918 ms  anders 3f04b194
+ 17918 ms  Kernel
+ 17976 ms  anders 3f04c474
+ 17977 ms  Kernel
+ 18000 ms  anders 05ee9789
+ 18001 ms  Kernel
+ 18013 ms  anders 3f062334
+ 18017 ms  Kernel
+ 18070 ms  anders 05f21f83
+ 18071 ms  Kernel
+ 18076 ms  anders 3f07e060
+ 18077 ms  Kernel
+ 18129 ms  anders 3f401284
+ 18130 ms  Kernel
+ 18140 ms  anders 05ffbf21
+ 18141 ms  Kernel
+ 18178 ms  anders 3f049234
+ 18178 ms  Kernel
+ 18200 ms  anders 06129d65
+ 18201 ms  Kernel
+ 18342 ms  anders 3f057a9c
+ 18342 ms  Kernel
+ 18357 ms  anders 3f04d768
+ 18357 ms  Kernel
+ 18366 ms  anders 3f04c5b4
+ 18367 ms  Kernel
+ 18429 ms  anders 3f05741c
+ 18430 ms  Kernel
+ 18470 ms  anders 05ffc23f
+ 18471 ms  Kernel
+ 18483 ms  anders 05ffb203
+ 18484 ms  Kernel
+ 18488 ms  anders 3f04c420
+ 18489 ms  Kernel
+ 18540 ms  anders 05eeb53d
+ 18541 ms  Kernel
+ 18578 ms  anders 3f04b1d8
+ 18578 ms  Kernel
+ 18697 ms  anders 3f40810c
+ 18698 ms  Kernel
+ 18740 ms  anders 05f22c41
+ 18741 ms  Kernel
+ 18769 ms  anders 3f04d8c4
+ 18770 ms  Kernel
+ 18796 ms  anders 3f04ca24
+ 18797 ms  Kernel
+ 18800 ms  anders 05f1195b
+ 18800 ms  Kernel
+ 18837 ms  anders 3f049210
+ 18838 ms  Kernel
+ 18838 ms  anders 3f0491f0
+ 18839 ms  Kernel
+ 18870 ms  anders 05eec133
+ 18871 ms  Kernel
+ 18905 ms  anders 0600a587
+ 18906 ms  Kernel
+ 18906 ms  ROM ffff0fd0
+ 18907 ms  Kernel
+ 18926 ms  anders 3f080b08
+ 18927 ms  Kernel
+ 18969 ms  anders 3f049294
+ 18969 ms  Kernel
+ 18993 ms  anders 3f04923c
+ 18994 ms  Kernel
+ 19017 ms  anders 3f049284
+ 19018 ms  Kernel
+ 19024 ms  anders 3f401034
+ 19025 ms  Kernel
+ 19057 ms  anders 3f04c898
+ 19058 ms  Kernel
+ 19077 ms  anders 3f04b1d0
+ 19078 ms  Kernel
+ 19137 ms  anders 3f04c9e4
+ 19138 ms  Kernel
+ 19157 ms  anders 3f04c574
+ 19158 ms  Kernel
+ 19177 ms  anders 3f04c41c
+ 19178 ms  Kernel
+ 19189 ms  anders 3f401658
+ 19190 ms  Kernel
+ 19218 ms  anders 3f04da14
+ 19219 ms  Kernel
+ 19306 ms  anders 3f04c474
+ 19306 ms  Kernel
+ 19390 ms  anders 3f04bae0
+ 19391 ms  Kernel
+ 19413 ms  anders 3f40113c
+ 19418 ms  Kernel
+ 19457 ms  anders 3f049210
+ 19458 ms  Kernel
+ 19477 ms  anders 3f04e2f8
+ 19478 ms  Kernel
+ 19483 ms  anders 3f04928c
+ 19483 ms  Kernel
+ 19525 ms  anders 3f04be64
+ 19526 ms  Kernel
+ 19577 ms  anders 3f0491e0
+ 19578 ms  Kernel
+ 19666 ms  anders 3f049234
+ 19667 ms  Kernel
+ 19668 ms  anders 3f04c420
+ 19669 ms  Kernel
+ 19693 ms  anders 3f401024
+ 19694 ms  Kernel
+ 19697 ms  anders 3f0491f0
+ 19703 ms  Kernel
+ 19706 ms  anders 3f0563b0
+ 19706 ms  Kernel
+ 19708 ms  anders 3f04cbd4
+ 19711 ms  Kernel
+ 19746 ms  anders 3f080218
+ 19747 ms  Kernel
+ 19774 ms  anders 3f4033f8
+ 19774 ms  Kernel
+ 19776 ms  anders 3f080218
+ 19777 ms  Kernel
+ 19826 ms  ROM ffff020c
+ 19826 ms  Kernel
+ 19877 ms  anders 3f04dcc4
+ 19878 ms  Kernel
+ 19888 ms  anders 3f401280
+ 19889 ms  Kernel
+ 19957 ms  anders 3f04ce20
+ 19958 ms  Kernel
+ 19996 ms  anders 3f080404
+ 19997 ms  Kernel
+ 20028 ms  anders 3f400a04
+ 20029 ms  Kernel
+ 20033 ms  ROM ffff03a4
+ 20034 ms  Kernel
+ 20069 ms  anders 3f04c7bc
+ 20070 ms  Kernel
+ 20116 ms  anders 3f0492a8
+ 20117 ms  Kernel
+ 20129 ms  anders 3f04dce4
+ 20130 ms  Kernel
+ 20153 ms  anders 3f40104c
+ 20154 ms  Kernel
+ 20159 ms  anders 3f04d8c4
+ 20159 ms  Kernel
+ 20186 ms  anders 3f080170
+ 20187 ms  Kernel
+ 20209 ms  anders 3f0491f0
+ 20211 ms  Kernel
+ 20257 ms  anders 3f0491f0
+ 20258 ms  Kernel
+ 20288 ms  anders 3f04c9f8
+ 20289 ms  Kernel
+ 20297 ms  anders 3f408118
+ 20298 ms  Kernel
+ 20309 ms  anders 3f401660
+ 20310 ms  Kernel
+ 20346 ms  anders 3f04bb64
+ 20346 ms  Kernel
+ 20349 ms  anders 3f400fe8
+ 20350 ms  Kernel
+ 20366 ms  anders 3f0492ac
+ 20367 ms  Kernel
+ 20409 ms  anders 3f0491d4
+ 20410 ms  Kernel
+ 20437 ms  anders 3f04b1d0
+ 20438 ms  Kernel
+ 20457 ms  anders 3f049218
+ 20458 ms  Kernel
+ 20517 ms  anders 3f04c798
+ 20518 ms  Kernel
+ 20649 ms  anders 3f0491f0
+ 20650 ms  Kernel
+ 20756 ms  anders 3f0806f0
+ 20757 ms  Kernel
+ 20769 ms  anders 3f04cac4
+ 20770 ms  Kernel
+ 20800 ms  anders 3f403084
+ 20800 ms  Kernel
+ 20806 ms  anders 3f04cc08
+ 20806 ms  Kernel
+ 20813 ms  anders 3f405008
+ 20814 ms  Kernel
+ 20889 ms  anders 3f0492ac
+ 20890 ms  Kernel
+ 20949 ms  anders 3f401280
+ 20950 ms  Kernel
+ 20960 ms  anders 3f07e0a4
+ 20961 ms  Kernel
+ 20966 ms  anders 3f08066c
+ 20967 ms  Kernel
+ 20988 ms  anders 3f04ca14
+ 20989 ms  Kernel
+ 21026 ms  anders 3f056264
+ 21026 ms  Kernel
+ 21096 ms  anders 3f04cab8
+ 21098 ms  Kernel
+ 21186 ms  anders 3f056400
+ 21186 ms  Kernel
+ 21197 ms  anders 3f04be24
+ 21198 ms  Kernel
+ 21272 ms  anders 3f357038
+ 21273 ms  Kernel
+ 21273 ms  anders 3f062120
+ 21274 ms  Kernel
+ 21286 ms  anders 3f04cc98
+ 21286 ms  Kernel
+ 21309 ms  anders 3f04b1d0
+ 21310 ms  Kernel
+ 21357 ms  anders 3f04e254
+ 21358 ms  Kernel
+ 21397 ms  anders 3f04920c
+ 21398 ms  Kernel
+ 21448 ms  anders 3f04b590
+ 21449 ms  Kernel
+ 21450 ms  anders 3f04be14
+ 21450 ms  Kernel
+ 21466 ms  anders 3f0492a4
+ 21466 ms  Kernel
+ 21470 ms  anders 3f04e0e4
+ 21470 ms  Kernel
+ 21516 ms  anders 3f08066c
+ 21517 ms  Kernel
+ 21653 ms  anders 3f04c648
+ 21654 ms  Kernel
+ 21657 ms  anders 3f04cbac
+ 21658 ms  Kernel
+ 21677 ms  anders 3f357040
+ 21677 ms  Kernel
+ 21678 ms  anders 3f4080a0
+ 21679 ms  Kernel
+ 21689 ms  anders 3f049288
+ 21690 ms  Kernel
+ 21697 ms  anders 3f05742c
+ 21698 ms  Kernel
+ 21709 ms  anders 3f04d8c4
+ 21710 ms  Kernel
+ 21729 ms  anders 3f0491f4
+ 21730 ms  Kernel
+ 21757 ms  anders 3f40167c
+ 21758 ms  Kernel
+ 21797 ms  anders 3f049298
+ 21798 ms  Kernel
+ 21850 ms  anders 3f401124
+ 21850 ms  Kernel
+ 21866 ms  anders 3f049234
+ 21866 ms  Kernel
+ 21878 ms  anders 3f4011d0
+ 21879 ms  Kernel
+ 21909 ms  anders 3f04cac4
+ 21910 ms  Kernel
+ 21929 ms  anders 3f404f68
+ 21930 ms  Kernel
+ 21937 ms  anders 3f04c280
+ 21938 ms  Kernel
+ 21957 ms  anders 3f40166c
+ 21958 ms  Kernel
+ 21966 ms  anders 3f04bae0
+ 21966 ms  Kernel
+ 21973 ms  anders 3f0620a8
+ 21974 ms  Kernel
+ 21976 ms  anders 3f07ec70
+ 21977 ms  Kernel
+ 21988 ms  anders 3f04b1d0
+ 21989 ms  Kernel
+ 22097 ms  ROM ffff03a4
+ 22098 ms  Kernel
+ 22101 ms  anders 3f04cbfc
+ 22102 ms  Kernel
+ 22156 ms  anders 3f080604
+ 22157 ms  Kernel
+ 22157 ms  anders 3f04c480
+ 22158 ms  Kernel
+ 22178 ms  anders 3f049230
+ 22178 ms  Kernel
+ 22188 ms  anders 3f049234
+ 22188 ms  Kernel
+ 22197 ms  anders 3f04c370
+ 22201 ms  Kernel
+ 22262 ms  anders 3f40696c
+ 22262 ms  Kernel
+ 22266 ms  anders 3f07ed70
+ 22268 ms  Kernel
+ 22268 ms  anders 3f0491f8
+ 22270 ms  Kernel
+ 22309 ms  anders 3f04cbb0
+ 22310 ms  Kernel
+ 22337 ms  anders 3f049220
+ 22338 ms  Kernel
+ 22428 ms  anders 3f04c468
+ 22429 ms  Kernel
+ 22469 ms  anders 3f401004
+ 22470 ms  Kernel
+ 22476 ms  anders 3f07ed70
+ 22477 ms  Kernel
+ 22488 ms  anders 3f049234
+ 22489 ms  Kernel
+ 22496 ms  anders 3f080834
+ 22497 ms  Kernel
+ 22554 ms  anders 3f04928c
+ 22554 ms  Kernel
+ 22628 ms  anders 3f0491e0
+ 22629 ms  Kernel
+ 22632 ms  anders 3f401e5c
+ 22637 ms  Kernel
+ 22668 ms  anders 3f04cd6c
+ 22669 ms  Kernel
+ 22690 ms  anders 3f04c3b4
+ 22690 ms  Kernel
+ 22737 ms  anders 3f04cbc4
+ 22738 ms  Kernel
+ 22788 ms  anders 3f04de80
+ 22789 ms  Kernel
+ 22818 ms  anders 3f0563e8
+ 22818 ms  Kernel
+ 22826 ms  anders 3f049234
+ 22826 ms  Kernel
+ 22849 ms  anders 3f04b2b4
+ 22849 ms  Kernel
+ 22875 ms  anders 3f404efc
+ 22876 ms  Kernel
+ 22897 ms  anders 3f04c444
+ 22898 ms  Kernel
+ 22906 ms  anders 3f08069c
+ 22910 ms  Kernel
+ 22926 ms  anders 3f08072c
+ 22927 ms  Kernel
+ 23010 ms  anders 3f049210
+ 23010 ms  Kernel
+ 23096 ms  anders 3f04bd00
+ 23097 ms  Kernel
+ 23106 ms  anders 3f057be8
+ 23106 ms  Kernel
+ 23144 ms  anders 3f4011ec
+ 23145 ms  Kernel
+ 23157 ms  anders 3f057914
+ 23158 ms  Kernel
+ 23230 ms  anders 3f04b184
+ 23230 ms  Kernel
+ 23236 ms  anders 3f0802d4
+ 23237 ms  Kernel
+ 23308 ms  anders 3f04bd08
+ 23309 ms  Kernel
+ 23404 ms  anders 3f400ffc
+ 23405 ms  Kernel
+ 23497 ms  anders 3f049210
+ 23498 ms  Kernel
+ 23529 ms  anders 3f049224
+ 23530 ms  Kernel
+ 23604 ms  anders 3f4036e0
+ 23605 ms  Kernel
+ 23629 ms  anders 3f04dcc0
+ 23630 ms  Kernel
+ 23649 ms  anders 3f04bda8
+ 23650 ms  Kernel
+ 23697 ms  anders 3f04bdd4
+ 23698 ms  Kernel
+ 23769 ms  anders 3f401004
+ 23770 ms  Kernel
+ 23824 ms  anders 3f404fe4
+ 23825 ms  Kernel
+ 23829 ms  anders 3f049240
+ 23830 ms  Kernel
+ 23868 ms  anders 3f049298
+ 23868 ms  Kernel
+ 23888 ms  anders 3f04bdd4
+ 23889 ms  Kernel
+ 23897 ms  anders 3f04d8c4
+ 23898 ms  Kernel
+ 23926 ms  anders 3f0491e4
+ 23926 ms  Kernel
+ 23996 ms  anders 3f0491d4
+ 23997 ms  Kernel
+ 24009 ms  anders 3f04cbb0
+ 24010 ms  Kernel
+ 24077 ms  anders 3f049284
+ 24078 ms  Kernel
+ 24224 ms  anders 3f403a24
+ 24225 ms  Kernel
+ 24288 ms  anders 3f04c650
+ 24289 ms  Kernel
+ 24316 ms  anders 3f080608
+ 24320 ms  Kernel
+ 24349 ms  anders 3f40111c
+ 24350 ms  Kernel
+ 24357 ms  anders 3f04c594
+ 24358 ms  Kernel
+ 24379 ms  anders 3f049210
+ 24380 ms  Kernel
+ 24389 ms  anders 3f04cbb0
+ 24390 ms  Kernel
+ 24406 ms  anders 3f04cbb0
+ 24407 ms  Kernel
+ 24429 ms  anders 3f04b180
+ 24429 ms  Kernel
+ 24437 ms  anders 3f049200
+ 24438 ms  Kernel
+ 24446 ms  anders 3f403a00
+ 24447 ms  Kernel
+ 24498 ms  anders 3f04d8d8
+ 24498 ms  Kernel
+ 24537 ms  anders 3f04ccf4
+ 24538 ms  Kernel
+ 24556 ms  anders 3f07ec9c
+ 24557 ms  Kernel
+ 24557 ms  anders 3f05793c
+ 24558 ms  Kernel
+ 24566 ms  anders 3f4080c4
+ 24567 ms  Kernel
+ 24577 ms  anders 3f407398
+ 24578 ms  Kernel
+ 24688 ms  anders 3f04c840
+ 24689 ms  Kernel
+ 24693 ms  anders 3f404f04
+ 24694 ms  Kernel
+ 24717 ms  anders 3f401004
+ 24718 ms  Kernel
+ 24756 ms  anders 3f04e140
+ 24757 ms  Kernel
+ 24797 ms  anders 3f400a14
+ 24798 ms  Kernel
+ 24837 ms  anders 3f04d884
+ 24838 ms  Kernel
+ 24846 ms  anders 3f4080c4
+ 24847 ms  Kernel
+ 24848 ms  anders 3f04c28c
+ 24848 ms  Kernel
+ 24957 ms  anders 3f04e108
+ 24958 ms  Kernel
+ 24986 ms  anders 3f402f04
+ 24986 ms  Kernel
+ 25069 ms  anders 3f04cba0
+ 25070 ms  Kernel
+ 25157 ms  anders 3f049284
+ 25158 ms  Kernel
+ 25188 ms  anders 3f04b1ac
+ 25189 ms  Kernel
+ 25289 ms  anders 3f0492ac
+ 25289 ms  Kernel
+ 25290 ms  anders 3f401000
+ 25291 ms  Kernel
+ 25293 ms  anders 3f4032ac
+ 25294 ms  Kernel
+ 25296 ms  anders 3f04d8b8
+ 25297 ms  Kernel
+ 25313 ms  anders 3f4050b0
+ 25314 ms  Kernel
+ 25336 ms  anders 3f04ca7c
+ 25337 ms  Kernel
+ 25352 ms  anders 3f04b190
+ 25353 ms  Kernel
+ 25457 ms  anders 3f04c5f4
+ 25460 ms  Kernel
+ 25466 ms  anders 3f05741c
+ 25466 ms  Kernel
+ 25513 ms  anders 3f405008
+ 25514 ms  Kernel
+ 25541 ms  anders 3f04e154
+ 25542 ms  Kernel
+ 25656 ms  anders 3f049228
+ 25657 ms  Kernel
+ 25666 ms  anders 3f07ec9c
+ 25667 ms  Kernel
+ 25689 ms  anders 3f04b1a4
+ 25690 ms  Kernel
+ 25717 ms  anders 3f4030c0
+ 25717 ms  Kernel
+ 25746 ms  anders 3f04bdc8
+ 25746 ms  Kernel
+ 25788 ms  anders 3f04ce04
+ 25789 ms  Kernel
+ 25866 ms  anders 3f04928c
+ 25866 ms  Kernel
+ 25869 ms  anders 3f4011c4
+ 25870 ms  Kernel
+ 25900 ms  anders 05f0e89d
+ 25901 ms  Kernel
+ 25953 ms  anders 3f4050b0
+ 25954 ms  Kernel
+ 25987 ms  anders 3f4069d0
+ 25988 ms  Kernel
+ 25997 ms  anders 3f04e0d4
+ 25998 ms  Kernel
+ 26047 ms  anders 3f4011c0
+ 26048 ms  Kernel
+ 26048 ms  anders 3f04b1d0
+ 26049 ms  Kernel
+ 26057 ms  ROM ffff0230
+ 26058 ms  Kernel
+ 26073 ms  anders 3f40506c
+ 26074 ms  Kernel
+ 26100 ms  anders 3f04d87c
+ 26101 ms  Kernel
+ 26108 ms  anders 3f04c8b0
+ 26109 ms  Kernel
+ 26109 ms  anders 3f04cd6c
+ 26110 ms  Kernel
+ 26113 ms  anders 3f401040
+ 26114 ms  Kernel
+ 26358 ms  anders 3f04d870
+ 26359 ms  Kernel
+ 26388 ms  anders 3f04c870
+ 26389 ms  Kernel
+ 26397 ms  anders 3f04ca50
+ 26398 ms  Kernel
+ 26420 ms  anders 3f04c3c4
+ 26420 ms  Kernel
+ 26446 ms  anders 3f080184
+ 26447 ms  Kernel
+ 26473 ms  anders 3f405008
+ 26474 ms  Kernel
+ 26509 ms  anders 3f049284
+ 26510 ms  Kernel
+ 26561 ms  anders 3f049294
+ 26562 ms  Kernel
+ 26669 ms  anders 3f04928c
+ 26670 ms  Kernel
+ 26737 ms  anders 3f04c54c
+ 26738 ms  Kernel
+ 26797 ms  anders 3f4011e4
+ 26798 ms  Kernel
+ 26808 ms  anders 3f04cc74
+ 26808 ms  Kernel
+ 26813 ms  anders 3f06209c
+ 26814 ms  Kernel
+ 26816 ms  anders 3f07e098
+ 26817 ms  Kernel
+ 26844 ms  anders 3f04cbdc
+ 26847 ms  Kernel
+ 26856 ms  anders 3f0491f0
+ 26857 ms  Kernel
+ 26869 ms  anders 3f04d8d0
+ 26869 ms  Kernel
+ 26918 ms  anders 3f401298
+ 26918 ms  Kernel
+ 26928 ms  anders 3f04bb30
+ 26929 ms  Kernel
+ 26951 ms  anders 3f04d870
+ 26952 ms  Kernel
+ 26989 ms  anders 3f049238
+ 26990 ms  Kernel
+ 26999 ms  anders 3f04dc8c
+ 26999 ms  Kernel
+ 27029 ms  anders 3f403084
+ 27029 ms  Kernel
+ 27109 ms  anders 3f04c824
+ 27110 ms  Kernel
+ 27117 ms  anders 3f04dce8
+ 27118 ms  Kernel
+ 27129 ms  anders 3f401670
+ 27130 ms  Kernel
+ 27157 ms  anders 3f04e0f4
+ 27158 ms  Kernel
+ 27257 ms  anders 3f04d8b8
+ 27258 ms  Kernel
+ 27287 ms  anders 3f0491f8
+ 27288 ms  Kernel
+ 27288 ms  anders 3f4050b0
+ 27289 ms  Kernel
+ 27508 ms  anders 3f405030
+ 27509 ms  Kernel
+ 27557 ms  anders 3f049288
+ 27558 ms  Kernel
+ 27618 ms  anders 3f0491ec
+ 27619 ms  Kernel
+ 27648 ms  anders 3f04bae0
+ 27649 ms  Kernel
+ 27700 ms  anders 3f406964
+ 27700 ms  Kernel
+ 27708 ms  anders 3f04c844
+ 27709 ms  Kernel
+ 27710 ms  anders 3f4069bc
+ 27710 ms  Kernel
+ 27713 ms  anders 3f403674
+ 27714 ms  Kernel
+ 27715 ms  anders 3f057ba4
+ 27716 ms  Kernel
+ 27729 ms  anders 3f049294
+ 27730 ms  Kernel
+ 27813 ms  anders 3f401124
+ 27814 ms  Kernel
+ 27908 ms  anders 3f04c8a4
+ 27909 ms  Kernel
+ 28029 ms  anders 3f049294
+ 28029 ms  Kernel
+ 28044 ms  anders 3f4045c4
+ 28045 ms  Kernel
+ 28053 ms  anders 3f4036a0
+ 28054 ms  Kernel
+ 28057 ms  anders 3f04da10
+ 28058 ms  Kernel
+ 28144 ms  anders 3f4050b0
+ 28145 ms  Kernel
+ 28153 ms  anders 3f401134
+ 28154 ms  Kernel
+ 28188 ms  anders 3f04cbe0
+ 28189 ms  Kernel
+ 28197 ms  anders 3f04c5d0
+ 28198 ms  Kernel
+ 28208 ms  anders 3f0491f4
+ 28209 ms  Kernel
+ 28249 ms  anders 3f04c80c
+ 28250 ms  Kernel
+ 28297 ms  anders 3f049220
+ 28298 ms  Kernel
+ 28317 ms  anders 3f4011c4
+ 28318 ms  Kernel
+ 28361 ms  anders 3f04dad4
+ 28361 ms  Kernel
+ 28401 ms  anders 3f406964
+ 28401 ms  Kernel
+ 28424 ms  anders 3f04d8b8
+ 28425 ms  Kernel
+ 28491 ms  anders 3f402ee4
+ 28491 ms  Kernel
+ 28497 ms  anders 3f04b1d8
+ 28498 ms  Kernel
+ 28504 ms  anders 3f4039e4
+ 28505 ms  Kernel
+ 28608 ms  anders 3f4011dc
+ 28609 ms  Kernel
+ 28659 ms  anders 3f057ba4
+ 28660 ms  Kernel
+ 28708 ms  anders 3f04c780
+ 28709 ms  Kernel
+ 28728 ms  anders 3f401674
+ 28729 ms  Kernel
+ 28744 ms  anders 3f04da14
+ 28745 ms  Kernel
+ 28751 ms  anders 3f0491e4
+ 28752 ms  Kernel
+ 28811 ms  anders 3f406a0c
+ 28812 ms  Kernel
+ 28889 ms  anders 3f04bae0
+ 28889 ms  Kernel
+ 28908 ms  anders 3f404ea4
+ 28909 ms  Kernel
+ 28931 ms  anders 3f049220
+ 28932 ms  Kernel
+ 28949 ms  anders 3f0491f0
+ 28950 ms  Kernel
+ 29024 ms  anders 3f4011bc
+ 29025 ms  Kernel
+ 29028 ms  anders 3f04c460
+ 29029 ms  Kernel
+ 29044 ms  anders 3f401660
+ 29045 ms  Kernel
+ 29048 ms  anders 3f04b2b4
+ 29049 ms  Kernel
+ 29068 ms  anders 3f04b2b4
+ 29068 ms  Kernel
+ 29130 ms  anders 3f401654
+ 29131 ms  Kernel
+ 29162 ms  anders 3f403064
+ 29162 ms  Kernel
+ 29188 ms  anders 3f04c780
+ 29189 ms  Kernel
+ 29217 ms  anders 3f04bd58
+ 29218 ms  Kernel
+ 29332 ms  anders 3f04d8b8
+ 29332 ms  Kernel
+ 29389 ms  anders 3f4050c0
+ 29390 ms  Kernel
+ 29497 ms  anders 3f04b87c
+ 29498 ms  Kernel
+ 29506 ms  anders 3f0804e4
+ 29507 ms  Kernel
+ 29538 ms  anders 3f04b1d0
+ 29539 ms  Kernel
+ 29597 ms  anders 3f0491f8
+ 29598 ms  Kernel
+ 29624 ms  anders 3f056304
+ 29625 ms  Kernel
+ 29626 ms  anders 3f04ca74
+ 29627 ms  Kernel
+ 29636 ms  anders 3f057bc4
+ 29637 ms  Kernel
+ 29637 ms  anders 3f04bdbc
+ 29638 ms  Kernel
+ 29664 ms  anders 3f0573e8
+ 29664 ms  Kernel
+ 29678 ms  anders 3f04d870
+ 29679 ms  Kernel
+ 29753 ms  anders 3f406964
+ 29753 ms  Kernel
+ 29758 ms  anders 3f04bc94
+ 29758 ms  Kernel
+ 29793 ms  anders 3f4036d8
+ 29794 ms  Kernel
+ 29828 ms  anders 3f04bdbc
+ 29829 ms  Kernel
+ 29844 ms  anders 3f04bae0
+ 29845 ms  Kernel
+ 29926 ms  anders 3f07e0f0
+ 29927 ms  Kernel
+ 30169 ms  anders 3f0492a8
+ 30172 ms  Kernel
+ 30188 ms  anders 3f04cc04
+ 30188 ms  Kernel
+ 30253 ms  anders 3f401070
+ 30254 ms  Kernel
+ 30283 ms  anders 3f04b1c4
+ 30283 ms  Kernel
+ 30323 ms  anders 3f056220
+ 30324 ms  Kernel
+ 30348 ms  anders 3f401264
+ 30349 ms  Kernel
+ 30364 ms  anders 3f403678
+ 30365 ms  Kernel
+ 30424 ms  anders 3f404eac
+ 30425 ms  Kernel
+ 30434 ms  anders 3f401058
+ 30435 ms  Kernel
+ 30444 ms  anders 3f4035e4
+ 30445 ms  Kernel
+ 30448 ms  anders 3f04c760
+ 30449 ms  Kernel
+ 30457 ms  anders 3f04dba0
+ 30458 ms  Kernel
+ 30497 ms  anders 3f049234
+ 30498 ms  Kernel
+ 30508 ms  anders 3f400cac
+ 30509 ms  Kernel
+ 30606 ms  anders 3f04cbc4
+ 30610 ms  Kernel
+ 30697 ms  anders 3f04bdc0
+ 30698 ms  Kernel
+ 30737 ms  anders 3f04c474
+ 30738 ms  Kernel
+ 30764 ms  anders 3f4035e4
+ 30765 ms  Kernel
+ 30824 ms  anders 3f40113c
+ 30825 ms  Kernel
+ 30828 ms  anders 3f4011d0
+ 30829 ms  Kernel
+ 30837 ms  anders 3f04ccbc
+ 30838 ms  Kernel
+ 30848 ms  anders 3f401258
+ 30849 ms  Kernel
+ 30877 ms  anders 3f04be64
+ 30878 ms  Kernel
+ 30886 ms  anders 3f080218
+ 30887 ms  Kernel
+ 30917 ms  anders 3f04bddc
+ 30918 ms  Kernel
+ 30924 ms  anders 3f403a00
+ 30925 ms  Kernel
+ 30929 ms  anders 3f057448
+ 30930 ms  Kernel
+ 30934 ms  anders 3f4011d0
+ 30935 ms  Kernel
+ 30988 ms  anders 3f04c39c
+ 30989 ms  Kernel
+ 30997 ms  anders 3f04dcb8
+ 30998 ms  Kernel
+ 31028 ms  anders 3f04b1d8
+ 31029 ms  Kernel
+ 31071 ms  anders 3f356c34
+ 31071 ms  Kernel
+ 31097 ms  anders 3f049284
+ 31098 ms  Kernel
+ 31104 ms  anders 3f405004
+ 31105 ms  Kernel
+ 31118 ms  anders 3f049210
+ 31118 ms  Kernel
+ 31126 ms  anders 3f04c5ac
+ 31127 ms  Kernel
+ 31144 ms  anders 3f4035d8
+ 31145 ms  Kernel
+ 31226 ms  anders 3f0562a8
+ 31226 ms  Kernel
+ 31269 ms  anders 3f04c8c4
+ 31270 ms  Kernel
+ 31277 ms  anders 3f04c5c4
+ 31278 ms  Kernel
+ 31337 ms  anders 3f04c638
+ 31338 ms  Kernel
+ 31349 ms  anders 3f049284
+ 31350 ms  Kernel
+ 31428 ms  anders 3f057920
+ 31429 ms  Kernel
+ 31453 ms  anders 3f401134
+ 31454 ms  Kernel
+ 31457 ms  anders 3f04dce8
+ 31458 ms  Kernel
+ 31509 ms  anders 3f04cba0
+ 31509 ms  Kernel
+ 31535 ms  anders 3f049220
+ 31536 ms  Kernel
+ 31549 ms  anders 3f401258
+ 31555 ms  Kernel
+ 31569 ms  anders 3f04b868
+ 31570 ms  Kernel
+ 31608 ms  anders 3f408118
+ 31608 ms  Kernel
+ 31633 ms  anders 3f403420
+ 31634 ms  Kernel
+ 31648 ms  anders 3f40166c
+ 31648 ms  Kernel
+ 31693 ms  anders 3f0620a4
+ 31694 ms  Kernel
+ 31756 ms  anders 3f04c594
+ 31757 ms  Kernel
+ 31777 ms  anders 3f04b28c
+ 31778 ms  Kernel
+ 31788 ms  anders 3f04be64
+ 31789 ms  Kernel
+ 31789 ms  anders 3f4011cc
+ 31790 ms  Kernel
+ 31849 ms  anders 3f04b1b4
+ 31850 ms  Kernel
+ 31866 ms  anders 3f402f64
+ 31866 ms  Kernel
+ 31888 ms  anders 3f04b1d0
+ 31889 ms  Kernel
+ 31937 ms  anders 3f04bd78
+ 31939 ms  Kernel
+ 32009 ms  anders 3f04cd60
+ 32010 ms  Kernel
+ 32066 ms  anders 3f04b1d8
+ 32066 ms  Kernel
+ 32077 ms  anders 3f04c468
+ 32078 ms  Kernel
+ 32088 ms  anders 3f04c448
+ 32089 ms  Kernel
+ 32089 ms  anders 3f04c8c4
+ 32090 ms  Kernel
+ 32128 ms  anders 3f401128
+ 32128 ms  Kernel
+ 32129 ms  anders 3f04dfe0
+ 32129 ms  Kernel
+ 32166 ms  anders 3f04babc
+ 32166 ms  Kernel
+ 32217 ms  ROM ffff03ac
+ 32218 ms  Kernel
+ 32306 ms  anders 3f049234
+ 32307 ms  Kernel
+ 32337 ms  anders 3f04ca24
+ 32338 ms  Kernel
+ 32349 ms  anders 3f049284
+ 32350 ms  Kernel
+ 32358 ms  anders 3f04c41c
+ 32358 ms  Kernel
+ 32366 ms  anders 3f049224
+ 32367 ms  Kernel
+ 32388 ms  anders 3f04c474
+ 32389 ms  Kernel
+ 32406 ms  anders 3f080990
+ 32407 ms  Kernel
+ 32416 ms  anders 3f04bd58
+ 32417 ms  Kernel
+ 32473 ms  ROM ffff000c
+ 32474 ms  Kernel
+ 32522 ms  anders 3f057920
+ 32523 ms  Kernel
+ 32568 ms  anders 3f04bce4
+ 32569 ms  Kernel
+ 32573 ms  anders 3f05741c
+ 32574 ms  Kernel
+ 32577 ms  anders 3f4011e8
+ 32578 ms  Kernel
+ 32613 ms  anders 3f405008
+ 32614 ms  Kernel
+ 32637 ms  anders 3f04e13c
+ 32638 ms  Kernel
+ 32656 ms  anders 3f04cb7c
+ 32657 ms  Kernel
+ 32657 ms  anders 3f04e2b8
+ 32658 ms  Kernel
+ 32689 ms  anders 3f04be64
+ 32690 ms  Kernel
+ 32708 ms  anders 3f04e298
+ 32708 ms  Kernel
+ 32717 ms  anders 3f04e330
+ 32718 ms  Kernel
+ 32736 ms  anders 3f057448
+ 32737 ms  Kernel
+ 32757 ms  anders 3f4011c8
+ 32758 ms  Kernel
+ 32769 ms  anders 3f0491f0
+ 32770 ms  Kernel
+ 32773 ms  anders 3f05ff9c
+ 32774 ms  Kernel
+ 32809 ms  anders 3f40801c
+ 32810 ms  Kernel
+ 32826 ms  anders 3f04c5a4
+ 32827 ms  Kernel
+ 32828 ms  anders 3f04b5b8
+ 32831 ms  Kernel
+ 32848 ms  anders 3f04b580
+ 32849 ms  Kernel
+ 32886 ms  anders 3f0806f0
+ 32887 ms  Kernel
+ 32888 ms  anders 3f04c540
+ 32889 ms  Kernel
+ 32897 ms  anders 3f049210
+ 32898 ms  Kernel
+ 32933 ms  anders 3f404540
+ 32934 ms  Kernel
+ 32997 ms  anders 3f0491f0
+ 32998 ms  Kernel
+ 33013 ms  ROM ffff03a4
+ 33014 ms  Kernel
+ 33017 ms  anders 3f04bdd4
+ 33020 ms  Kernel
+ 33048 ms  anders 3f04928c
+ 33049 ms  Kernel
+ 33057 ms  anders 3f04b1cc
+ 33058 ms  Kernel
+ 33068 ms  anders 3f400f24
+ 33069 ms  Kernel
+ 33108 ms  anders 3f40113c
+ 33109 ms  Kernel
+ 33166 ms  anders 3f04cadc
+ 33167 ms  Kernel
+ 33197 ms  anders 3f04cbd4
+ 33198 ms  Kernel
+ 33209 ms  anders 3f04b2c4
+ 33210 ms  Kernel
+ 33217 ms  anders 3f04cbfc
+ 33220 ms  Kernel
+ 33249 ms  anders 3f04c630
+ 33250 ms  Kernel
+ 33257 ms  anders 3f04928c
+ 33258 ms  Kernel
+ 33262 ms  anders 3f04928c
+ 33262 ms  Kernel
+ 33273 ms  anders 3f401278
+ 33273 ms  Kernel
+ 33288 ms  anders 3f04dd10
+ 33288 ms  Kernel
+ 33328 ms  anders 3f04b1b4
+ 33329 ms  Kernel
+ 33356 ms  anders 3f049284
+ 33357 ms  Kernel
+ 33468 ms  anders 3f04b1d0
+ 33469 ms  Kernel
+ 33476 ms  anders 3f04ca74
+ 33477 ms  Kernel
+ 33486 ms  anders 3f04bbac
+ 33486 ms  Kernel
+ 33489 ms  ROM ffff0230
+ 33490 ms  Kernel
+ 33498 ms  anders 3f07e0f0
+ 33498 ms  Kernel
+ 33548 ms  anders 3f04c310
+ 33549 ms  Kernel
+ 33549 ms  anders 3f40123c
+ 33550 ms  Kernel
+ 33593 ms  anders 3f403278
+ 33594 ms  Kernel
+ 33633 ms  anders 3f4050b0
+ 33634 ms  Kernel
+ 33657 ms  anders 3f04dc8c
+ 33658 ms  Kernel
+ 33666 ms  anders 3f04b1a0
+ 33667 ms  Kernel
+ 33673 ms  anders 3f401040
+ 33674 ms  Kernel
+ 33677 ms  anders 3f04db24
+ 33678 ms  Kernel
+ 33709 ms  anders 3f04cb40
+ 33709 ms  Kernel
+ 33714 ms  anders 3f40101c
+ 33716 ms  Kernel
+ 33717 ms  anders 3f04b570
+ 33718 ms  Kernel
+ 33899 ms  anders 3f0566a4
+ 33900 ms  Kernel
+ 33917 ms  anders 3f04cd60
+ 33918 ms  Kernel
+ 33938 ms  anders 3f04c41c
+ 33941 ms  Kernel
+ 33964 ms  anders 3f4050b0
+ 33965 ms  Kernel
+ 33988 ms  anders 3f04cc14
+ 33989 ms  Kernel
+ 34017 ms  anders 3f04d8b8
+ 34019 ms  Kernel
+ 34117 ms  anders 3f0492a0
+ 34118 ms  Kernel
+ 34146 ms  anders 3f04b1c4
+ 34146 ms  Kernel
+ 34148 ms  anders 3f04c760
+ 34149 ms  Kernel
+ 34153 ms  anders 3f403404
+ 34154 ms  Kernel
+ 34164 ms  anders 3f04c77c
+ 34164 ms  Kernel
+ 34166 ms  anders 3f04921c
+ 34167 ms  Kernel
+ 34168 ms  anders 3f04c39c
+ 34169 ms  Kernel
+ 34177 ms  anders 3f401004
+ 34178 ms  Kernel
+ 34186 ms  ROM ffff0230
+ 34186 ms  Kernel
+ 34197 ms  anders 3f04c780
+ 34198 ms  Kernel
+ 34209 ms  anders 3f401680
+ 34210 ms  Kernel
+ 34216 ms  anders 3f0802d4
+ 34217 ms  Kernel
+ 34225 ms  anders 3f401660
+ 34226 ms  Kernel
+ 34229 ms  anders 3f400fec
+ 34229 ms  Kernel
+ 34266 ms  anders 3f04c5cc
+ 34267 ms  Kernel
+ 34288 ms  anders 3f04ccac
+ 34290 ms  Kernel
+ 34316 ms  anders 3f080880
+ 34317 ms  Kernel
+ 34349 ms  anders 3f400f24
+ 34350 ms  Kernel
+ 34353 ms  anders 3f4039e4
+ 34354 ms  Kernel
+ 34408 ms  anders 3f04b504
+ 34409 ms  Kernel
+ 34448 ms  anders 3f404f64
+ 34449 ms  Kernel
+ 34477 ms  anders 3f04dc8c
+ 34478 ms  Kernel
+ 34488 ms  anders 3f0492a8
+ 34489 ms  Kernel
+ 34506 ms  anders 3f0491d4
+ 34507 ms  Kernel
+ 34570 ms  anders 3f04df7c
+ 34571 ms  Kernel
+ 34580 ms  anders 3f400ffc
+ 34580 ms  Kernel
+ 34586 ms  anders 3f049200
+ 34587 ms  Kernel
+ 34647 ms  anders 3f04cd6c
+ 34647 ms  Kernel
+ 34668 ms  anders 3f4050b0
+ 34669 ms  Kernel
+ 34693 ms  anders 3f403a14
+ 34694 ms  Kernel
+ 34709 ms  anders 3f04da10
+ 34709 ms  Kernel
+ 34817 ms  anders 3f04c420
+ 34818 ms  Kernel
+ 34826 ms  anders 3f04b19c
+ 34827 ms  Kernel
+ 34833 ms  anders 3f40113c
+ 34834 ms  Kernel
+ 34837 ms  anders 3f049220
+ 34838 ms  Kernel
+ 34846 ms  anders 3f080b5c
+ 34847 ms  Kernel
+ 34848 ms  anders 3f404fe4
+ 34849 ms  Kernel
+ 34897 ms  anders 3f04d8b8
+ 34898 ms  Kernel
+ 34982 ms  anders 3f0491f8
+ 34982 ms  Kernel
+ 34988 ms  anders 3f04b598
+ 34989 ms  Kernel
+ 35028 ms  anders 3f04b1d8
+ 35029 ms  Kernel
+ 35048 ms  anders 3f0492ac
+ 35049 ms  Kernel
+ 35069 ms  anders 3f04b2b4
+ 35070 ms  Kernel
+ 35088 ms  anders 3f405004
+ 35089 ms  Kernel
+ 35129 ms  anders 3f04c530
+ 35129 ms  Kernel
+ 35168 ms  anders 3f04c780
+ 35169 ms  Kernel
+ 35196 ms  anders 3f0491ec
+ 35198 ms  Kernel
+ 35209 ms  anders 3f04c63c
+ 35210 ms  Kernel
+ 35226 ms  anders 3f04e120
+ 35227 ms  Kernel
+ 35268 ms  anders 3f04c420
+ 35268 ms  Kernel
+ 35277 ms  anders 3f04b878
+ 35278 ms  Kernel
+ 35329 ms  anders 3f04b1b4
+ 35330 ms  Kernel
+ 35366 ms  anders 3f07e19c
+ 35367 ms  Kernel
+ 35384 ms  anders 3f403678
+ 35395 ms  Kernel
+ 35429 ms  anders 3f04cae0
+ 35429 ms  Kernel
+ 35437 ms  anders 3f04b194
+ 35438 ms  Kernel
+ 35496 ms  anders 3f049234
+ 35497 ms  Kernel
+ 35557 ms  anders 3f04c268
+ 35558 ms  Kernel
+ 35637 ms  anders 3f04d880
+ 35638 ms  Kernel
+ 35653 ms  anders 3f4039f0
+ 35654 ms  Kernel
+ 35669 ms  anders 3f403b98
+ 35670 ms  Kernel
+ 35673 ms  anders 3f401110
+ 35674 ms  Kernel
+ 35733 ms  anders 3f401114
+ 35734 ms  Kernel
+ 35749 ms  anders 3f04c420
+ 35749 ms  Kernel
+ 35756 ms  anders 3f04cb94
+ 35757 ms  Kernel
+ 35789 ms  anders 3f049240
+ 35789 ms  Kernel
+ 35884 ms  anders 3f404ea4
+ 35885 ms  Kernel
+ 35888 ms  anders 3f04b1c8
+ 35889 ms  Kernel
+ 35906 ms  anders 3f04bd00
+ 35907 ms  Kernel
+ 35917 ms  anders 3f0491f8
+ 35918 ms  Kernel
+ 35922 ms  anders 3f402f00
+ 35924 ms  Kernel
+ 35925 ms  anders 3f0563cc
+ 35926 ms  Kernel
+ 35932 ms  anders 3f40164c
+ 35932 ms  Kernel
+ 35968 ms  anders 3f0491d0
+ 35969 ms  Kernel
+ 35986 ms  anders 3f0491f8
+ 35986 ms  Kernel
+ 36009 ms  anders 3f40111c
+ 36010 ms  Kernel
+ 36041 ms  anders 3f04bcc4
+ 36042 ms  Kernel
+ 36049 ms  anders 3f0491e4
+ 36050 ms  Kernel
+ 36053 ms  anders 3f403400
+ 36054 ms  Kernel
+ 36076 ms  anders 3f080170
+ 36077 ms  Kernel
+ 36077 ms  anders 3f04bd58
+ 36078 ms  Kernel
+ 36088 ms  anders 3f049238
+ 36089 ms  Kernel
+ 36097 ms  anders 3f04e254
+ 36098 ms  Kernel
+ 36109 ms  anders 3f04cac4
+ 36116 ms  Kernel
+ 36126 ms  anders 3f0574d0
+ 36126 ms  Kernel
+ 36177 ms  anders 3f04c370
+ 36178 ms  Kernel
+ 36246 ms  anders 3f0562f4
+ 36246 ms  Kernel
+ 36248 ms  anders 3f04ce20
+ 36249 ms  Kernel
+ 36289 ms  anders 3f049298
+ 36290 ms  Kernel
+ 36298 ms  anders 3f04da14
+ 36298 ms  Kernel
+ 36304 ms  anders 3f04cbe0
+ 36304 ms  Kernel
+ 36349 ms  anders 3f04b184
+ 36350 ms  Kernel
+ 36369 ms  anders 3f04cb64
+ 36369 ms  Kernel
+ 36388 ms  anders 3f4050b0
+ 36389 ms  Kernel
+ 36468 ms  anders 3f401264
+ 36469 ms  Kernel
+ 36496 ms  anders 3f08023c
+ 36497 ms  Kernel
+ 36509 ms  anders 3f04be60
+ 36510 ms  Kernel
+ 36526 ms  anders 3f04b2b4
+ 36526 ms  Kernel
+ 36566 ms  anders 3f0563a4
+ 36566 ms  Kernel
+ 36573 ms  anders 3f04dad4
+ 36573 ms  Kernel
+ 36617 ms  anders 3f0491d8
+ 36620 ms  Kernel
+ 36649 ms  anders 3f4036e0
+ 36650 ms  Kernel
+ 36657 ms  anders 3f4009f4
+ 36658 ms  Kernel
+ 36708 ms  anders 3f04b1d4
+ 36709 ms  Kernel
+ 36716 ms  anders 3f080dbc
+ 36717 ms  Kernel
+ 36717 ms  anders 3f04ca40
+ 36722 ms  Kernel
+ 36729 ms  anders 3f04c80c
+ 36730 ms  Kernel
+ 36757 ms  anders 3f04daf0
+ 36758 ms  Kernel
+ 36773 ms  anders 3f0622e4
+ 36774 ms  Kernel
+ 36793 ms  anders 3f0620e4
+ 36794 ms  Kernel
+ 36837 ms  anders 3f04c300
+ 36838 ms  Kernel
+ 36846 ms  anders 3f0801c0
+ 36847 ms  Kernel
+ 36868 ms  anders 3f400fec
+ 36868 ms  Kernel
+ 36869 ms  anders 3f04bde4
+ 36869 ms  Kernel
+ 36886 ms  anders 3f049220
+ 36887 ms  Kernel
+ 36897 ms  anders 3f049290
+ 36898 ms  Kernel
+ 36983 ms  anders 3f403088
+ 36984 ms  Kernel
+ 36990 ms  anders 3f04be30
+ 36991 ms  Kernel
+ 36993 ms  anders 3f04db24
+ 36994 ms  Kernel
+ 37006 ms  anders 3f04bb30
+ 37006 ms  Kernel
+ 37013 ms  anders 3f0491e0
+ 37014 ms  Kernel
+ 37017 ms  anders 3f049224
+ 37024 ms  Kernel
+ 37048 ms  anders 3f04bbb0
+ 37049 ms  Kernel
+ 37056 ms  anders 3f04de88
+ 37057 ms  Kernel
+ 37069 ms  anders 3f04c268
+ 37070 ms  Kernel
+ 37097 ms  anders 3f04928c
+ 37098 ms  Kernel
+ 37108 ms  anders 3f04c458
+ 37109 ms  Kernel
+ 37146 ms  anders 3f04b19c
+ 37146 ms  Kernel
+ 37153 ms  anders 3f405008
+ 37154 ms  Kernel
+ 37157 ms  anders 3f04b1d8
+ 37158 ms  Kernel
+ 37193 ms  anders 3f06209c
+ 37194 ms  Kernel
+ 37228 ms  anders 3f04e334
+ 37229 ms  Kernel
+ 37276 ms  anders 3f04b1bc
+ 37277 ms  Kernel
+ 37277 ms  anders 3f04c80c
+ 37278 ms  Kernel
+ 37296 ms  anders 3f04b1d8
+ 37297 ms  Kernel
+ 37329 ms  anders 3f0802d0
+ 37332 ms  Kernel
+ 37426 ms  anders 3f07ec9c
+ 37427 ms  Kernel
+ 37497 ms  anders 3f4011e8
+ 37498 ms  Kernel
+ 37509 ms  anders 3f049284
+ 37510 ms  Kernel
+ 37517 ms  anders 3f04bdd4
+ 37518 ms  Kernel
+ 37549 ms  anders 3f04b1a0
+ 37549 ms  Kernel
+ 37568 ms  anders 3f0491fc
+ 37569 ms  Kernel
+ 37609 ms  anders 3f04de78
+ 37610 ms  Kernel
+ 37624 ms  anders 3f4011b8
+ 37625 ms  Kernel
+ 37629 ms  anders 3f4011f0
+ 37630 ms  Kernel
+ 37717 ms  anders 3f04dae8
+ 37718 ms  Kernel
+ 37733 ms  anders 3f4050a4
+ 37734 ms  Kernel
+ 37748 ms  anders 3f405008
+ 37749 ms  Kernel
+ 37766 ms  anders 3f0491f8
+ 37766 ms  Kernel
+ 37775 ms  anders 3f406920
+ 37775 ms  Kernel
+ 37828 ms  anders 3f401004
+ 37829 ms  Kernel
+ 37833 ms  anders 3f4036c4
+ 37834 ms  Kernel
+ 37836 ms  anders 3f04bda8
+ 37837 ms  Kernel
+ 37837 ms  anders 3f04928c
+ 37838 ms  Kernel
+ 37853 ms  anders 3f404fb0
+ 37854 ms  Kernel
+ 37868 ms  anders 3f403658
+ 37868 ms  Kernel
+ 37917 ms  anders 3f0492a4
+ 37918 ms  Kernel
+ 37950 ms  anders 3f049208
+ 37950 ms  Kernel
+ 37977 ms  anders 3f04c9a4
+ 37978 ms  Kernel
+ 37986 ms  anders 3f080170
+ 37987 ms  Kernel
+ 37989 ms  anders 3f0492ac
+ 37989 ms  Kernel
+ 38008 ms  anders 3f049224
+ 38008 ms  Kernel
+ 38036 ms  anders 3f080144
+ 38037 ms  Kernel
+ 38076 ms  anders 3f080218
+ 38077 ms  Kernel
+ 38083 ms  anders 3f401004
+ 38083 ms  Kernel
+ 38116 ms  anders 3f049208
+ 38117 ms  Kernel
+ 38169 ms  anders 3f04b1d0
+ 38170 ms  Kernel
+ 38213 ms  anders 3f0620a4
+ 38214 ms  Kernel
+ 38217 ms  anders 3f04e2f8
+ 38218 ms  Kernel
+ 38317 ms  anders 3f057348
+ 38318 ms  Kernel
+ 38369 ms  anders 3f04df7c
+ 38370 ms  Kernel
+ 38388 ms  anders 3f04c41c
+ 38389 ms  Kernel
+ 38456 ms  anders 3f0801b4
+ 38457 ms  Kernel
+ 38468 ms  anders 3f04c7a0
+ 38468 ms  Kernel
+ 38490 ms  anders 3f04928c
+ 38491 ms  Kernel
+ 38536 ms  anders 3f408024
+ 38537 ms  Kernel
+ 38537 ms  anders 3f049210
+ 38538 ms  Kernel
+ 38588 ms  anders 3f04c244
+ 38588 ms  Kernel
+ 38609 ms  anders 3f049284
+ 38610 ms  Kernel
+ 38613 ms  anders 3f405008
+ 38614 ms  Kernel
+ 38626 ms  anders 3f0491f8
+ 38627 ms  Kernel
+ 38629 ms  anders 3f04ca40
+ 38630 ms  Kernel
+ 38636 ms  anders 3f04bda8
+ 38637 ms  Kernel
+ 38653 ms  anders 3f40104c
+ 38654 ms  Kernel
+ 38676 ms  anders 3f04ccbc
+ 38677 ms  Kernel
+ 38749 ms  anders 3f04b1c4
+ 38750 ms  Kernel
+ 38757 ms  anders 3f04c3c0
+ 38758 ms  Kernel
+ 38768 ms  anders 3f049210
+ 38768 ms  Kernel
+ 38786 ms  anders 3f04bda8
+ 38787 ms  Kernel
+ 38808 ms  anders 3f0491fc
+ 38809 ms  Kernel
+ 38857 ms  anders 3f080e40
+ 38858 ms  Kernel
+ 38876 ms  anders 3f049298
+ 38877 ms  Kernel
+ 38909 ms  anders 3f401030
+ 38910 ms  Kernel
+ 38948 ms  anders 3f049234
+ 38949 ms  Kernel
+ 39028 ms  anders 3f04b58c
+ 39029 ms  Kernel
+ 39109 ms  anders 3f04bbb0
+ 39109 ms  Kernel
+ 39126 ms  anders 3f04cbc4
+ 39127 ms  Kernel
+ 39146 ms  anders 3f04d8d0
+ 39147 ms  Kernel
+ 39169 ms  anders 3f0491f0
+ 39170 ms  Kernel
+ 39177 ms  anders 3f049284
+ 39178 ms  Kernel
+ 39217 ms  anders 3f04928c
+ 39218 ms  Kernel
+ 39233 ms  anders 3f403654
+ 39234 ms  Kernel
+ 39307 ms  anders 3f04cbcc
+ 39308 ms  Kernel
+ 39343 ms  ROM ffff0228
+ 39343 ms  Kernel
+ 39417 ms  anders 3f04d8ac
+ 39418 ms  Kernel
+ 39449 ms  anders 3f04cb48
+ 39449 ms  Kernel
+ 39477 ms  anders 3f04ccf4
+ 39478 ms  Kernel
+ 39486 ms  anders 3f049284
+ 39487 ms  Kernel
+ 39488 ms  anders 3f0491f8
+ 39489 ms  Kernel
+ 39508 ms  anders 3f0491e0
+ 39508 ms  Kernel
+ 39548 ms  anders 3f04bd58
+ 39549 ms  Kernel
+ 39586 ms  anders 3f0491f0
+ 39586 ms  Kernel
+ 39608 ms  anders 3f04c300
+ 39609 ms  Kernel
+ 39697 ms  anders 3f04db88
+ 39700 ms  Kernel
+ 39787 ms  anders 3f0491e0
+ 39788 ms  Kernel
+ 39828 ms  anders 3f04dcc4
+ 39828 ms  Kernel
+ 39846 ms  anders 3f04e238
+ 39847 ms  Kernel
+ 39897 ms  anders 3f049284
+ 39898 ms  Kernel
+ 39913 ms  anders 3f40113c
+ 39914 ms  Kernel
+ 39920 ms  anders 3f057bcc
+ 39920 ms  Kernel
+ 39933 ms  anders 3f401030
+ 39934 ms  Kernel
+ 39949 ms  anders 3f049284
+ 39950 ms  Kernel

@@ -1,0 +1,9 @@
+      0 ms  Stufe 3 (A5000) gestartet. Warte auf Kern 0 im Loader3 ...
+      3 ms  Kern 0 im Loader3 (PCSR c01f5145) -> anhalten
+    289 ms  Angehalten bei pc c01f513e
+    344 ms  Code-Abgleich OK (4 Blöcke identisch mit Spender-Loader3).
+    656 ms  Treffer chk_updater: r0 fffffed2 -> 00000000 (zurückgelesen 00000000)
+   1129 ms  Treffer 0xc01f1e16: BootMode 3 (Updater) gewählt.
+   1392 ms  Treffer chk_updater: r0 fffffed2 -> 00000000 (zurückgelesen 00000000)
+   1860 ms  Treffer Updater-Lader 0xc01f1378 -> ERFOLG. Breakpoints entfernen, Kamera läuft weiter.
+   1944 ms  Ende: Erfolg=1 Abbruch=0

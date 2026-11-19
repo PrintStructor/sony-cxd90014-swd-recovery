@@ -246,8 +246,8 @@ After `quit` the camera **stayed in updater mode** (red LED, `03e2`), because th
 
 `logs/`: factory-mode kernel log and klog, boot-loop klog (7 cycles), boot-loop logcat (crash excerpt and full), SWD stage logs 1/2/2b/3, PC samples, the PMCA session.
 
-## What's next: the a5000 goes on the operating table
-This α7R II was the dry run. Next up is my **a5000 (ILCE-5000)**. It is stuck in a boot loop after a bad firmware flash (no USB at all, see [ma1co/Sony-PMCA-RE#752](https://github.com/ma1co/Sony-PMCA-RE/issues/752)). It's the same CXD90014 platform, so the same toolchain applies: SWD with the RP2040 probe, the read-only stages first, and then stage 3 to force the updater. Its Loader3 was already analysed offline from a donor camera: the `cmp r0,#0` after the `\updater\mode` check is at `0xc01f15c0`, the same as the A6000. Unlike the α7R II, those addresses will again be verified on the camera by read-back before anything is changed. Once in the updater, the stock firmware can be flashed back. I'll report the result here.
+## Follow-up: the a5000
+The a5000 (ILCE-5000) was recovered with the same toolchain, then got its clean HDMI patch without shifting anything. See [a5000-bootloop.md](a5000-bootloop.md).
 
 ## Credits
 - **nicolvus**: the A6000 SWD "force updater" approach this builds on.

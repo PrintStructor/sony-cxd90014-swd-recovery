@@ -1,0 +1,59 @@
+Open On-Chip Debugger 0.12.0
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+debug_level: 2
+
+Info : Using CMSIS-DAPv2 interface with VID:PID=0x2e8a:0x000c, serial=<PROBE-SERIAL>
+Info : CMSIS-DAP: SWD supported
+Info : CMSIS-DAP: Atomic commands supported
+Info : CMSIS-DAP: Test domain timer supported
+Info : CMSIS-DAP: FW Version = 2.0.0
+Info : CMSIS-DAP: Interface Initialised (SWD)
+Info : SWCLK/TCK = 0 SWDIO/TMS = 0 TDI = 0 TDO = 0 nTRST = 0 nRESET = 1
+Info : CMSIS-DAP: Interface ready
+Info : clock speed 100 kHz
+Info : SWD DPIDR 0x3ba02477
+Info : gdb port disabled
+Info : gdb port disabled
+Info : gdb port disabled
+      0 ms  Stufe 3 (A5000) gestartet. Warte auf Kern 0 im Loader3 ...
+      3 ms  Kern 0 im Loader3 (PCSR c01f5145) -> anhalten
+Info : cxd90014.cpu0: hardware has 3 breakpoints, 2 watchpoints
+Info : cxd90014.cpu0: MPIDR level2 0, cluster 0, core 0, multi core, no SMT
+target halted in Thumb state due to debug-request, current mode: Supervisor
+cpsr: 0x200001f3 pc: 0xc01f513e
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+    289 ms  Angehalten bei pc c01f513e
+    344 ms  Code-Abgleich OK (4 Blöcke identisch mit Spender-Loader3).
+Error: no breakpoint at address 0xc01f15c0 found
+Error: no breakpoint at address 0xc01f1e16 found
+Error: no breakpoint at address 0xc01f1378 found
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x400001f3 pc: 0xc01f15c0
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+    656 ms  Treffer chk_updater: r0 fffffed2 -> 00000000 (zurückgelesen 00000000)
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x600001f3 pc: 0xc01f15c2
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x200001f3 pc: 0xc01f1e16
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+   1129 ms  Treffer 0xc01f1e16: BootMode 3 (Updater) gewählt.
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x400001f3 pc: 0xc01f15c0
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+   1392 ms  Treffer chk_updater: r0 fffffed2 -> 00000000 (zurückgelesen 00000000)
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x600001f3 pc: 0xc01f15c2
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+target halted in Thumb state due to breakpoint, current mode: Supervisor
+cpsr: 0x800001f3 pc: 0xc01f1378
+MMU: enabled, D-Cache: enabled, I-Cache: enabled
+   1860 ms  Treffer Updater-Lader 0xc01f1378 -> ERFOLG. Breakpoints entfernen, Kamera läuft weiter.
+Error: no breakpoint at address 0xc01f1e16 found
+Error: no breakpoint at address 0xc01f15c0 found
+Error: no breakpoint at address 0xc01f1e16 found
+Error: no breakpoint at address 0xc01f1378 found
+   1944 ms  Ende: Erfolg=1 Abbruch=0
+shutdown command invoked

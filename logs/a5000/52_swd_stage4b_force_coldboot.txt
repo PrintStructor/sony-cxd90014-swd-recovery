@@ -1,0 +1,25 @@
+      0 ms  Stufe 4b (A5000, Kaltstart erzwingen) gestartet. Warte auf Kern 0 im Loader3 ...
+     10 ms  Kern 0 vorab untersucht (schnellerer Halt).
+  33508 ms  Kern 0 im Loader3 (PCSR c01ffa91) -> anhalten
+  39049 ms  Angehalten bei pc c01f5114
+  39064 ms  Code-Abgleich OK (4 Blöcke identisch mit Spender-Loader3).
+  47083 ms  Kein Treffer innerhalb 6 s -> neuer Versuch beim nächsten Start.
+  65015 ms  Kern 0 im Loader3 (PCSR c01f5115) -> anhalten
+  65058 ms  Angehalten bei pc c020c494
+  65067 ms  Code-Abgleich OK (4 Blöcke identisch mit Spender-Loader3).
+  65131 ms  Kernel-Start mit Modus 2 ohne Eingriff (zu spät, Versuch 1) -> Breakpoints weg, bitte erneut OFF -> ON.
+  89521 ms  Kern 0 im Loader3 (PCSR c01f5115) -> anhalten
+  89559 ms  Angehalten bei pc c01f5114
+  89568 ms  Code-Abgleich OK (4 Blöcke identisch mit Spender-Loader3).
+  92134 ms  Kernel-Start mit Modus 2 ohne Eingriff (zu spät, Versuch 2) -> Breakpoints weg, bitte erneut OFF -> ON.
+ 122832 ms  Kern 0 im Loader3 (PCSR c01f5115) -> anhalten
+ 122871 ms  Angehalten bei pc c01f5114
+ 122880 ms  Code-Abgleich OK (4 Blöcke identisch mit Spender-Loader3).
+ 122965 ms  Kernel-Start mit Modus 2 ohne Eingriff (zu spät, Versuch 3) -> Breakpoints weg, bitte erneut OFF -> ON.
+ 134364 ms  Kern 0 im Loader3 (PCSR c01f5145) -> anhalten
+ 134405 ms  Angehalten bei pc c01f513e
+ 134420 ms  Code-Abgleich OK (4 Blöcke identisch mit Spender-Loader3).
+ 134497 ms  set_bootmode aus Moduswahl: Modus 2 -> 1 (zurückgelesen 1)
+ 134596 ms  get_bootmode liefert Modus 1
+ 135101 ms  Kernel-Start mit Modus 1 (lr c01f1245) -> ERFOLG, Breakpoints weg.
+ 135117 ms  Ende: Erfolg=1 Abbruch=0

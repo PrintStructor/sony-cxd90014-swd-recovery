@@ -1,0 +1,22 @@
+08:09:55   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:55   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:56   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:56   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:56   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:57   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:57   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:58   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:58   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:58   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:59   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:59   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:09:59   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:10:00   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:10:00   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:10:01   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:10:01   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:10:01   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:10:02   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:10:02   |         "idProduct" = 2452	  |         "USB Product Name" = "USB Charger"	  |         "idVendor" = 1356
+08:10:38   |         "idProduct" = 994	  |         "USB Product Name" = "Sony USB Device"	  |         "idVendor" = 1356
+08:10:38 >>> 054c:03e2 UPDATER ERKANNT

@@ -1,0 +1,9 @@
+      0 ms  Stufe 4a (A5000, nur beobachten) gestartet. Warte auf Kern 0 im Loader3 ...
+      8 ms  Kern 0 vorab untersucht (schnellerer Halt).
+ 115798 ms  Kern 0 im Loader3 (PCSR c01f5117) -> anhalten
+ 115855 ms  Angehalten bei pc c01f513e
+ 115872 ms  Code-Abgleich OK (4 Blöcke identisch mit Spender-Loader3).
+ 115946 ms  set_bootmode: Modus 2 (lr c01f2153)
+ 116063 ms  get_bootmode liefert Modus 2
+ 116135 ms  Kernel-Start mit Modus 2 (lr c01f1245) -> fertig, Breakpoints weg.
+ 116150 ms  Ende: Erfolg=1 Abbruch=0

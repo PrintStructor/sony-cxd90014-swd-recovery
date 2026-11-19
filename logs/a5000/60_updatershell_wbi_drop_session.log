@@ -1,0 +1,85 @@
+Using drivers libusb-MSC, libusb-MTP, libusb-vendor-specific
+Looking for Sony devices
+
+Querying mass storage device
+Sony DSC is a camera in updater mode
+
+fdat 13312 Bytes, Gerät SonyMscUpdaterDevice
+Initializing firmware update
+Writing firmware
+100%
+SHELL BEREIT
+>>> sh type dd; ls -la /dev/nflasha5; dd if=/dev/nflasha5 of=/setting/wbi_kopf_jetzt.bin bs=512 count=1; sync; ls -la /setting/wbi_kopf_jetzt.bin
+sh: can't access tty; job control turned off
+
+
+BusyBox v1.13.4 (2012-07-17 15:11:04 JST) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+/ # dd is /bin/dd
+brwxrwxrwx    1 57762    0        252,   5 Jan  1  1970 /dev/nflasha5
+1+0 records in
+1+0 records out
+-rw-rw-rw-    1 0        0             512 Jan  1 00:06 /setting/wbi_kopf_jetzt.bin
+/ # 
+<<< fertig
+>>> pull /setting/wbi_kopf_jetzt.bin wbi_kopf_jetzt.bin
+gesichert: /setting/wbi_kopf_jetzt.bin -> ~/Downloads/a5000-hdmi-mod/swd/sicherung_updatershell/wbi_kopf_jetzt.bin (512 Bytes)
+<<< fertig
+>>> sh rm -f /setting/wbi_kopf_jetzt.bin; sync
+sh: can't access tty; job control turned off
+
+
+BusyBox v1.13.4 (2012-07-17 15:11:04 JST) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+/ # / # 
+<<< fertig
+>>> pull /dev/nflasha5 nflasha5_vor_drop.img
+gesichert: /dev/nflasha5 -> ~/Downloads/a5000-hdmi-mod/swd/sicherung_updatershell/nflasha5_vor_drop.img (62914560 Bytes)
+<<< fertig
+>>> sh dd if=/dev/nflasha5 of=/setting/wbi_kopf.bin bs=512 count=1; sync; ls -la /setting/wbi_kopf.bin
+sh: can't access tty; job control turned off
+
+
+BusyBox v1.13.4 (2012-07-17 15:11:04 JST) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+/ # 1+0 records in
+1+0 records out
+-rw-rw-rw-    1 0        0             512 Jan  1 00:06 /setting/wbi_kopf.bin
+/ # 
+<<< fertig
+>>> pull /setting/wbi_kopf.bin wbi_kopf.bin
+gesichert: /setting/wbi_kopf.bin -> ~/Downloads/a5000-hdmi-mod/swd/sicherung_updatershell/wbi_kopf.bin (512 Bytes)
+<<< fertig
+>>> sh ls -la /setting/wbi_kopf.bin && dd if=/dev/zero of=/dev/nflasha5 bs=512 count=1; sync; dd if=/dev/nflasha5 of=/setting/wbi_kopf_nachher.bin bs=512 count=1; sync
+sh: can't access tty; job control turned off
+
+
+BusyBox v1.13.4 (2012-07-17 15:11:04 JST) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+/ # -rw-rw-rw-    1 0        0             512 Jan  1 00:06 /setting/wbi_kopf.bin
+1+0 records in
+1+0 records out
+1+0 records in
+1+0 records out
+/ # 
+<<< fertig
+>>> pull /setting/wbi_kopf_nachher.bin wbi_kopf_nachher.bin
+gesichert: /setting/wbi_kopf_nachher.bin -> ~/Downloads/a5000-hdmi-mod/swd/sicherung_updatershell/wbi_kopf_nachher.bin (512 Bytes)
+<<< fertig
+>>> sh rm -f /setting/wbi_kopf_nachher.bin; sync
+sh: can't access tty; job control turned off
+
+
+BusyBox v1.13.4 (2012-07-17 15:11:04 JST) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+/ # / # 
+<<< fertig
+>>> quit
+Shell beendet
+Done
+Programm beendet
